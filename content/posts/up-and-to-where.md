@@ -4,6 +4,8 @@ date: 2019-07-14T03:28:24-04:00
 ShowPosts: true
 ---
 
+Note: This is still mostly in draft form and undergoing some revision.
+
 The title of my site, as well as the prevailing philosophy of my life originally comes from a [post](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html) of Tim Urban's I read a long time which resonated strongly with me.
 
 The basic premise (though he does a much more wonderful job of explaining it and you should go read it) is that as humans we are *somewhere* on the spectrum of consciousness. This *somewhere* is likely higher than that of a beetle's, and considerably higher than that of a plant's. But that's only what's going on below - what about above? Well, we don't know - like the classic saying, does an ant in a colony have the slightest conception about the construction of a ten-lane superhighway next to it? In the same way we may be staring at consciousness in our daily lives and completely miss it for what it really is.

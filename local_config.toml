@@ -1,0 +1,55 @@
+baseURL = "https://localhost"
+languageCode = "en-us"
+
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 4
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+[languages]
+  [languages.en]
+    title = "Up and to the Right"
+    subtitle = "Jonathan Borichevskiy"
+    keywords = ""
+    copyright = "Jonathan Borichevskiy. Powered by&nbsp;<a href='https://github.com/gohugoio/hugo'>Hugo</a>."
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "Up and to the Right"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "Blog"
+        name = "Blog"
+        url = "/posts"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "https://www.linkedin.com/in/jonathanborichevskiy/"
+
+
