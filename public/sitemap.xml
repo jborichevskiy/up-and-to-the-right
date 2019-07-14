@@ -3,37 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://do-blog/posts/hello-world/</loc>
-    <lastmod>2019-07-13T13:03:39-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://do-blog/posts/</loc>
-    <lastmod>2019-07-13T13:03:39-04:00</lastmod>
+    <loc>http://jborichevskiy.com/posts/</loc>
+    <lastmod>2019-07-14T03:28:24-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://do-blog/</loc>
+    <loc>http://jborichevskiy.com/</loc>
+    <lastmod>2019-07-14T03:28:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jborichevskiy.com/posts/up-and-to-where/</loc>
+    <lastmod>2019-07-14T03:28:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jborichevskiy.com/posts/hello-world/</loc>
     <lastmod>2019-07-13T13:03:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jborichevskiy.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jborichevskiy.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://do-blog/about/</loc>
+    <loc>http://jborichevskiy.com/resume/</loc>
   </url>
   
   <url>
-    <loc>http://do-blog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://do-blog/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>http://do-blog/tags/</loc>
+    <loc>http://jborichevskiy.com/tags/</loc>
     <priority>0</priority>
   </url>
   
