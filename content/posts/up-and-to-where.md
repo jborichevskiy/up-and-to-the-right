@@ -2,6 +2,7 @@
 title: "Up and to the Where?"
 date: 2019-07-14T03:28:24-04:00
 ShowPosts: true
+draft: true
 ---
 
 The title of my site originally comes from phrase in a post of Tim Urban's I read a long time which resonated strongly with me.
