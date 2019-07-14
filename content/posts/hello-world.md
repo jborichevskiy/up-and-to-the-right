@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2019-07-13T13:03:39-04:00
-showPosts: false
+showPosts: true
 ---
 
 This is my first attempt at a blog. Somewhere to post my musings, observations, or just links to interesting things. Don't know what it'll become yet - guess we'll find out together.
