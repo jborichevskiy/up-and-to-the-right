@@ -12,4 +12,4 @@ I enjoy reading, computers, music, and working on hard problems. Passionate abou
 
 Currently working as a backend developer at [Vigilant](https://vigilant.cc) in New York City. Born in Sacramento, CA. Citizen of Planet Earth.
 
-[Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jonathanborichevskiy/) • [Instagram](https://www.instagram.com/jonborichef/) • [AngelList](https://angel.co/jonathanborichevskiy)
+[Twitter](https://twitter.com/jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jonathanborichevskiy/) • [Instagram](https://www.instagram.com/jonborichef/) • [AngelList](https://angel.co/jonathanborichevskiy)
