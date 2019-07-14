@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Up and to the Right</title>
+    <link>http://do-blog/posts/</link>
+    <description>Recent content in Posts on Up and to the Right</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jonathan Borichevskiy. Powered by&amp;nbsp;&lt;a href=&#39;https://github.com/gohugoio/hugo&#39;&gt;Hugo&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sat, 13 Jul 2019 13:03:39 -0400</lastBuildDate>
+    
+	<atom:link href="http://do-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://do-blog/posts/hello-world/</link>
+      <pubDate>Sat, 13 Jul 2019 13:03:39 -0400</pubDate>
+      
+      <guid>http://do-blog/posts/hello-world/</guid>
+      <description>This is my first attempt at a blog. Somewhere to post my musings, observations, or just links to interesting things. Don&amp;rsquo;t know what it&amp;rsquo;ll become yet - guess we&amp;rsquo;ll find out together.
+I started journaling a few years ago and find it to be immensely helpful in sorting out my thoughts about life. Occasionally I want to share my thoughts with people and figure this might be a good way to do so.</description>
+    </item>
+    
+  </channel>
+</rss>
