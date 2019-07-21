@@ -8,13 +8,13 @@ ShowPosts = false
 
 My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
-**Always** •  I enjoy learning and building things with computers. Passionate about cognitive science, environmental sustainability, and software engineering. 
+**Always** • I enjoy learning and building things with computers. Passionate about cognitive science, environmental sustainability, and software engineering. 
 
-**Future**  • Looking for opportunities to be able to connect my passions with big problems - if you have a connection, please reach out via means below. Areas of interest include cleaner energy, more effective education and therapy, lowering access cost to space, artificial intelligence, and better democratic decision-making.
+**Future** • Looking for opportunities for connecting my passions with big problems - if you have a suggestion, please reach out via below links. Areas of interest include cleaner energy, effective education and therapy, lowering cost of access to space, artificial intelligence, and better institutional and democratic decision-making.
 
-**Now** •  Founding Engineer at [Vigilant](https://vigilant.cc) in New York City, where I get to work with lots of open data.
+**Now** • Founding Engineer at [Vigilant](https://vigilant.cc) in New York City, where I work with lots of open data and do backened development with some SRE.
 
-**Before** •  Grew up in Sacramento, California. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. 
+**Before** • Grew up in Sacramento, California. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. 
 
 Citizen of Planet Earth.
 
