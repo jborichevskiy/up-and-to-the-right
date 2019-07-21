@@ -8,8 +8,14 @@ ShowPosts = false
 
 My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
-I enjoy reading, computers, music, and working on hard problems. Passionate about cognitive science and environmental sustainability. 
+**Always** I enjoy learning and building things with computers. Passionate about cognitive science, environmental sustainability, and software engineering. 
 
-Currently working as a backend developer at [Vigilant](https://vigilant.cc) in New York City. Born in Sacramento, CA. Citizen of Planet Earth.
+**Future** Open to opportunities to be able to connect my passions with big problems - if you have suggestions, please reach out via means below. Areas of interest include cleaner energy, more effective education and therapy, lowering access cost to space, and better democratic decision-making.
 
-[Twitter](https://twitter.com/jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jonathanborichevskiy/) • [Instagram](https://www.instagram.com/jonborichef/) • [AngelList](https://angel.co/jonathanborichevskiy)
+**Now** Founding Engineer at [Vigilant](https://vigilant.cc) in New York City, where I get to work with lots of open data.
+
+**Before** Born in Sacramento, California. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. 
+
+Citizen of Planet Earth.
+
+[Twitter](https://twitter.com/jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jonathanborichevskiy/) • [Instagram](https://www.instagram.com/jonborichef/) • [AngelList](https://angel.co/jonathanborichevskiy) • [HackerNews](https://news.ycombinator.com/user?id=jborichevskiy)
