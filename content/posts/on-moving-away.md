@@ -2,6 +2,7 @@
 title: "On Moving Away"
 date: 2019-08-06T16:50:37-04:00
 tag: life,startups,cities
+ShowPosts: true
 ---
 
 Occasionally I speak with people considering an opportunity to move away from the place they call home to somewhere entirely new - be it for work, school, temporarily or indefinitely. I remember myself making that decision and the questions I had swirling around in my head. Hopefully this assortment of words provides some insight or reassurance to someone else in a similar situation. 
