@@ -10,11 +10,11 @@ My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
 **Always** • I enjoy learning and building things with computers. Passionate about cognitive science, environmental sustainability, and software engineering. 
 
-**Future** • Looking for opportunities for connecting my passions with big problems - if you have a suggestion, please reach out via below links. Areas of interest include cleaner energy, effective education and therapy, lowering cost of access to space, artificial intelligence, and better institutional and democratic decision-making.
+**Future** • Looking for opportunities for connecting my passions with solving big problems - if you have a suggestion, please reach out via below links. Areas of interest include cleaner energy, more effective education and therapy, lowering cost of access to space, artificial intelligence, and better institutional and democratic decision-making.
 
-**Now** • Founding Engineer at [Vigilant](https://vigilant.cc) in New York City, where I work with lots of open data and do backened development with some SRE.
+**Now** • Developing [greenCart](https://getmakerlog.com/products/greencartapp) for the [Fixathon](https://fixathon.io/). Exploring some long-neglected ideas and side projects. Reviewing Calculus with [Paul's Online Notes](http://tutorial.math.lamar.edu/). 
 
-**Before** • Grew up in Sacramento, California. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. 
+**Before** • Founding Engineer at [Vigilant](https://vigilant.cc), where I worked on acquiring lots of public data, back-end development, and some SRE. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. Grew up in Sacramento, California. 
 
 Citizen of Planet Earth.
 
