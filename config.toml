@@ -19,7 +19,7 @@ paginate = 5
     title = "Up and to the Right"
     subtitle = "Jonathan Borichevskiy"
     keywords = ""
-    copyright = "Jonathan Borichevskiy. Powered by&nbsp;<a href='https://github.com/gohugoio/hugo'>Hugo</a>."
+    copyright = "Jonathan Borichevskiy. Powered by&nbsp;<a href='https://github.com/gohugoio/hugo'>Hugo</a>"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read"
@@ -50,6 +50,6 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "resume"
         name = "Resume"
-        url = "https://www.linkedin.com/in/jonathanborichevskiy/"
+        url = "/resume_2019_08_24.pdf"
 
 
