@@ -2,6 +2,7 @@
 title: "Visiting Home"
 date: 2019-08-25T22:39:03-07:00
 ShowPosts: true
+draft: true
 tag: life,startups,cities,sacramento
 ---
 
