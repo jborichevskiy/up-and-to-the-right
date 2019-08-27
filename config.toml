@@ -50,6 +50,6 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "resume"
         name = "Resume"
-        url = "/resume_2019_08_24.pdf"
+        url = "/borichevskiy_jonathan.pdf"
 
 
