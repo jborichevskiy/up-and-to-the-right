@@ -7,9 +7,9 @@ showPosts: true
 
 People have been asking me what I’m doing with my life, what my next steps are, where I’m going to be living, what my goals are, when I’m getting married, how many grandkids I’m going to have… and honestly I wish I could tell them - because I sure as hell don’t know. What I do have instead is a rough outline of what I hope to achieve over the next decade or so. Subject to change as I learn more about myself and the world.
 
-## A little background
-
 {{< figure src="/next-steps-2019/IMG_1376.jpg" title="Little Jon" >}}
+
+## A little background
 
 Born to loving immigrant parents from Belarus who raised me in Sacramento, California. Enjoyed and did well enough in school but was generally more interested in reading books and learning things my way. Learned piano, picked up video editing, dabbled in mechatronics, and played a whole lotta video games. After discovering programming through modding Minecraft I realized you can get paid to program computers. Started running and lifting, cleaned up my diet, and began to take in interest in the world at large. Began pursuing my Computer Science degree at Sierra College and found myself in an internship at a [startup](https://vigilant.cc/). Joined as a founding engineer, dropped out of school, moved to New York City and helped take the company from two engineers and a prototype to fourteen employees, several products, and a solid business model. Gained a ton of experience but eventually felt my rate of growth slowing at the company and came to the conclusion I should move on - so I did. During my time in NYC I also learned a lot about myself and what’s important to me, made a bunch of amazing friends, travelled with some of them, and enjoyed the hell out of the city. See my post [on moving away](/posts/on-moving-away/) for thoughts on why you might want to as well.
 
