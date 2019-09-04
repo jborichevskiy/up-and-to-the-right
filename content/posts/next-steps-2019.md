@@ -1,7 +1,6 @@
 ---
 title: "Next Steps 2019"
 date: 2019-09-04T10:26:33-07:00
-draft: true
 tag: life, work, career
 showPosts: true
 ---
