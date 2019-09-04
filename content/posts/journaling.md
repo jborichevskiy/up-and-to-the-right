@@ -19,6 +19,6 @@ Enough of the wishy-washy: time for the practical. I use a simple encrypted note
 
 Looking back through my entries from earlier is a humbling experience, but it’s not something I do very often. I’ll be honest, I’ve cried and I’ve laughed at them before. They end up being snapshots of my mental state from a very specific point of time: a little window into what I was feeling, worried about, regretting, or looking forward to. Sometimes looking back at an entry it’s absurd how dead-on I was describing something without understanding it fully, only to have it all come together months or years down the road. Other times I see how completely off the mark I was, failing to tell apart cause from effect and top from down. It’s helped me realize just how few of the things I worry about turn into the worst-case scenarios (so much wasted brainpower) but on the flipside just how easy it is to forget the essence of the very experiences that make me, me. Most importantly, it’s helped me keep an eye on the important things in life - my goals, aspirations, and the people I love in my life - and I hope it helps you too. 
 
-[HN Discussion](https://news.ycombinator.com/item?id=20849148)
-
 2019-09-04: changed "so more than" to "so much more than".
+
+[HN Discussion](https://news.ycombinator.com/item?id=20849148)
