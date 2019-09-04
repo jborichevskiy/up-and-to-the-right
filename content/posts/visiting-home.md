@@ -9,6 +9,7 @@ tag: life,startups,cities,sacramento
 Not long after writing my previous post [on moving away](/posts/on-moving-away/) from Sacramento I took the opportunity to extend a week-long visit back home to four weeks. In contrast to my typical rushed and sleepless weekend visits this one has given me the chance to slow down and spend real, unhurried time with family and friends for the first time in over two years. Long story short: it’s pretty different out here! 
 
 {{< figure src="/visiting-home/IMG_2329.png" title="Trees and fields" >}}
+{{ $image := src="/visiting-home/IMG_2329.png" title="Trees and fields" >}}
 
 ### Energy and Pace
 
