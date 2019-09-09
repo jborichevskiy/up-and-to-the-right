@@ -1,6 +1,6 @@
 ---
 title: "Next Steps, 2019 Edition"
-date: 2019-09-04T10:26:33-07:00
+date: 2019-09-08T10:26:33-07:00
 tag: life, work, career
 showPosts: true
 ---
@@ -11,7 +11,7 @@ People have been asking me what I’m doing with my life, what my next steps are
 
 ## A little background
 
-Born to loving immigrant parents from Belarus who raised me in Sacramento, California. Enjoyed and did well enough in school but was generally more interested in reading books and learning things my way. Learned piano, picked up video editing, dabbled in mechatronics, and played a whole lotta video games. After discovering programming through modding Minecraft I realized you can get paid to program computers. Started running and lifting, cleaned up my diet, and began to take in interest in the world at large. Began pursuing my Computer Science degree at Sierra College and found myself at a [startup](https://vigilant.cc/). Joined as a founding engineer, dropped out of school, moved to New York City (see my post [on moving away](/posts/on-moving-away/) for why you should consider it too) and helped take the company from two engineers and a prototype to fourteen employees, several products, and a solid business model. Gained a ton of experience but eventually felt my rate of growth slowing at the company and came to the conclusion I should move on - so I did. During my time in NYC I also learned a lot about myself and what’s important to me, made a bunch of amazing friends, travelled with some of them, and enjoyed the hell out of the city. 
+Born to loving immigrant parents from Belarus who raised me in Sacramento, California. Enjoyed and did well enough in school but was generally more interested in reading books and learning things my way. Learned piano, picked up video editing, dabbled in mechatronics, and played a whole lotta video games. After discovering programming through modding Minecraft I realized you can get paid to program computers. Started running and lifting, cleaned up my diet, and began to take in interest in the world at large. Began pursuing my Computer Science degree at Sierra College and found myself at a [startup](https://vigilant.cc/). Joined as a founding engineer, dropped out of school, moved to New York City (see my post [on moving away](/posts/on-moving-away/) for why you should consider it too) and helped take the company from two engineers and a prototype to fourteen employees, several products, and a solid business model. Gained a ton of experience but eventually felt my rate of growth slowing at the company and came to the conclusion I should move on - so I did. During my time in NYC I also learned a lot about myself and what’s important to me, made a bunch of amazing friends, traveled with some of them, and enjoyed the hell out of the city. 
 
 I’ve spent the past few months [hacking](https://greencart.app/), hiking, [reading](https://www.goodreads.com/book/show/827.The_Diamond_Age), [writing](/posts/journaling/), enjoying long conversations, and generally thinking about what I want to do with my life. It’s been a wonderful time as it’s lent me some clarity on what I’m looking for as far as next steps go. Please note that by no means do I see this as set in stone; I expect 80% of this plan to change. But better some plan than none at all. 
 
@@ -48,7 +48,7 @@ I’d love to be on the founding team of a startup again after exploring some of
 - Improved education, re-training
 - Lowering cost of access to space
 
-I’m comfortable working on small, highly effective teams dealing with a lot of unknowns - a given at most startups. An engineer at heart, I find it easy to relate to people, customers and team members alike. A fulfilling day has me flitting between fixing bugs, writing documentation, debating a technical solution with a whiteboard, working with clients to understand and resolve their challenges, and drafting the plans for a new feature or product prototype as well as dealing with the myriad of other things that come up and have to solved.
+I’m comfortable working on small, highly effective teams dealing with a lot of unknowns - a given at most startups. An engineer at heart, I find it easy to relate to people, customers and team members alike. A fulfilling day has me flitting between fixing bugs, writing documentation, debating a technical solution on a whiteboard, working with clients to understand and resolve their challenges, drafting plans for a upcoming feature and of course dealing with the myriad of other things that come up and need to solved.
 
 ## Less Soon (5-10 years, 2025-2030)
 
