@@ -7,7 +7,7 @@ showPosts: true
 
 People have been asking me what I’m doing with my life, what my next steps are, where I’m going to be living, what my goals are, when I’m getting married, how many grandkids I’m going to have…. I wish I could tell them - because I sure as hell don’t know. Life's really unpredictable. What I do have instead is a rough outline of what I hope to achieve over the next decade or so. Subject to change as I learn more about myself and the world - this post will be continuously updated and I hope to re-visit it every year or so. In some ways this is what I've been doing for a while privately with my goals - but I figure it might be a good time to make it public to better connect with others who might be interested in working together without requiring a caffeinated in-person spiel from me every time. 
 
-{{< figure src="/next-steps-2019/IMG_1376.jpg" title="Little Jon" >}}
+{{< figure src="/next-steps-2019/IMG_1376.jpg" title="Little Jon" caption="My parents celebrating my 1.5th birthday!">}}
 
 ## A little background
 
