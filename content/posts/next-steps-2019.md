@@ -31,13 +31,15 @@ Drawbacks: high burn rate, pollution, noise, distractions, and difficult access 
 
 ## Right Away (1-2 years, 2020-2021)
 
-For the next year or two, I’m looking for an environment to really focus on my self-education while continuing my side projects and explorations without the daily distractions of a nine-to-five or having to work enough to pay for a city apartment (and all the other expenses that come with living in a city). Ideally, it will have:
+For the next year or two, I’m looking for an environment to really focus on my self-education while continuing my side projects and exploration without the daily distractions of a nine-to-five or having to work enough to pay for a city apartment (and all the other expenses that come with living in a city). Ideally, it will have:
 
 - A lower cost of living than NYC.
 - Reliable internet access and an ergonomic workstation (a standing desk, multiple monitors, whiteboards, and a workspace that isn’t my kitchen counter).
 - Very close access to nature for hiking, swimming, and long walks. Mountains, lakes, and coasts are all great. Seeing the stars at night is a plus. 
 - No requirement for a daily vehicle or commuting.
 - A community of interesting, motivated people nearby working on similar problems for collaboration, advice, ideas, and support. 
+
+I don't know where exactly this will be yet, but I'm excited to figure it out!
 
 ## Soon (3-5 years, 2022-2025)
 
@@ -52,7 +54,7 @@ I’m comfortable working on small, highly effective teams dealing with a lot of
 
 ## Less Soon (5-10 years, 2025-2030)
 
-Eventually I intend to run something between an independent R&D lab and a startup: providing the resources, connections, and support to a group of much smarter people than I to explore and attack some of the problems listed above without the bureaucracy of large organizations, short-sightedness of corporations, or politics of educational institutions. A pipe dream? Perhaps. We’ll see. I have no illusions about the magnitude and depth of all of these problems - but I can’t sit around and do nothing.
+Eventually I intend to run something between an independent R&D lab and a startup: providing the resources, connections, and support to a group of people much smarter than I to explore and attack some of the problems listed above without the bureaucracy of large organizations, short-sightedness of corporations, or politics of educational institutions. A pipe dream? Perhaps. We’ll see. I have no illusions about the magnitude and depth of all of these problems - but I can’t sit around and do nothing.
 
 Along the way I’d like to enjoy life, see a bit more of this planet, get married, maybe have kids, bike across the country, visit a bunch of national parks, and write a book or two. 
 
