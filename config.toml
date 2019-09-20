@@ -19,7 +19,7 @@ paginate = 5
     title = "Up and to the Right"
     subtitle = "Jonathan Borichevskiy"
     keywords = ""
-    copyright = "Jonathan Borichevskiy. Powered by&nbsp;<a href='https://github.com/gohugoio/hugo'>Hugo</a>"
+    copyright = "Jonathan Borichevskiy. Built with&nbsp;<a href='/about-blog'>Hugo</a>"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read"
