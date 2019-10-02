@@ -40,16 +40,16 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "now"
+        name = "Now"
+        url = "/now"
       [[languages.en.menu.main]]
         identifier = "Blog"
         name = "Blog"
         url = "/posts"
       [[languages.en.menu.main]]
-        identifier = "resume"
-        name = "Resume"
-        url = "/borichevskiy_jonathan.pdf"
+        identifier = "about"
+        name = "About"
+        url = "/about"
 
 
