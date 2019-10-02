@@ -14,3 +14,5 @@ Reading [Walden](https://www.goodreads.com/book/show/16902.Walden) and [Waking U
 Attending the [Columbia Neuroscience Seminar Series](https://zuckermaninstitute.columbia.edu/columbia-neuroscience-seminar-series). 
  
 Doing contract work to pay the bills.
+
+[What's a Now page?](https://nownownow.com/about)
