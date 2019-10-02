@@ -16,6 +16,6 @@ My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
 **Before** • Founding Engineer at [Vigilant](https://vigilant.cc), where I worked on acquiring lots of public data, back-end development skills, and some SRE experience. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. Born and raised in Sacramento, California. 
 
-Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9).
+Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9) but residing in New York City as of right now. 
 
 [Resume](/borichevskiy_jonathan.pdf) • [Twitter](https://twitter.com/jborichevskiy) • [Hacker News](https://news.ycombinator.com/user?id=jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jonathanborichevskiy/) • [Instagram](https://www.instagram.com/jborichevskiy/) • [AngelList](https://angel.co/jonathanborichevskiy) • [Email](mailto:jonathan@borichevskiy.com) • [About this site](/about-blog)
