@@ -18,4 +18,6 @@ My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
 Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9) but residing in New York City as of right now. 
 
-[Resume](/borichevskiy_jonathan.pdf) • [Twitter](https://twitter.com/jborichevskiy) • [Hacker News](https://news.ycombinator.com/user?id=jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jonathanborichevskiy/) • [Instagram](https://www.instagram.com/jborichevskiy/) • [AngelList](https://angel.co/jonathanborichevskiy) • [Email](mailto:jonathan@borichevskiy.com) • [About this site](/about-blog)
+[Twitter](https://twitter.com/jborichevskiy) • [Hacker News](https://news.ycombinator.com/user?id=jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jonathanborichevskiy/) • [Instagram](https://www.instagram.com/jborichevskiy/) • [AngelList](https://angel.co/jonathanborichevskiy)
+
+[Resume](/borichevskiy_jonathan.pdf) • [Email me](mailto:jonathan@borichevskiy.com) • [Subscribe to updates](https://mailchi.mp/0e81591ed912/jborichevskiy) • [About this site](/about-blog)
