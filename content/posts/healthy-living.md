@@ -40,7 +40,7 @@ I also want to take a moment to highlight running as one of the first habits tha
 
 It might be third on the list but it's just as important as sleep and exercise - they form a critical triangle together. I'd call myself a vegan but we're not quite there yet. Instead I'd describe my diet as mostly plant-based with the occasional meal with fish or chicken (1-2 times a week). Cheese finds its way into my diet here and there as well. Eggs and milk are almost entirely out. I've chosen to go plant-based for ethical and environmental reasons but increasing veggies and reducing meat will make anyone's diet healthier.
 
-Regardless of your view on meat & animal products the best one-liner summary I've seen thus far is by Michael Pollen: `Eat food. Not too much. Mostly plants`. His book [Omnivore's Dilemma](https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma) provides a deeper look into farming, the food industry and the choices we do actually have when picking what we put into (or onto) our bellies. 
+Regardless of your view on meat & animal products the best one-liner summary I've seen thus far is by Michael Pollen: `Eat food. Not too much. Mostly plants.` His book [Omnivore's Dilemma](https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma) provides a deeper look into the food industry and choices we do actually have when picking what we put into (or onto) our bellies. 
 
 ### Breakfast
 
