@@ -1,13 +1,13 @@
 ---
 title: "Now"
-date: 2019-11-05T09:59:47-04:00
+date: 2019-11-12
 ---
 
-Exploring some side projects around personal data and our digital identities. Expect a blog post soon!
+Exploring some side projects around personal data and our digital identities. Expect a blog post soon! In the meantime, check out my [Notable Problems, Projects, and People](/notable) page.
 
-Reading [Courage to Be Disliked](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness-ebook/dp/B078MDSV8T) and [Innovation and Entrepreneurship](https://www.amazon.com/Innovation-Entrepreneurship-Peter-F-Drucker-ebook/dp/B000FC12BO).
+Reading [Psychology of the Digital Age](https://smile.amazon.com/gp/product/B015WJ1CW8/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1) and [Innovation and Entrepreneurship](https://smile.amazon.com/Innovation-Entrepreneurship-Peter-F-Drucker-ebook/dp/B000FC12BO).
 
-Learning Elixir with [Exercism](https://exercism.io).
+Learning Elixir.
 
 Reviewing Calculus with [Paul's Online Notes](http://tutorial.math.lamar.edu/). 
 
