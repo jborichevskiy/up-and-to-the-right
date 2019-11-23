@@ -46,7 +46,7 @@ Honorable Mentions: [Pocket](https://www.alfredapp.com/), [Instapaper](https://w
 
 I love exploring other peoples' reading lists. Here’s my own [todo]. But I find everyone keeps their reading lists in different formats on different platforms. Plaintext lists are nice but hard to parse. Spreadsheets are easy to parse but a pain to manage. Third-party services aren't interoperable, require logins, and are not future-proof.
 
-Part of the problem here is [metadata is hard](https://people.well.com/user/doctorow/metacrap.htm). Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but, [Amazon is hostile to publishers](https://stallman.org/amazon.html#publishing). [Goodreads has much potential but seems to have stagnated.](https://onezero.medium.com/almost-everything-about-goodreads-is-broken-662e424244d5) Linking to the book's Wikipedia entry would be my preference but I find only about 1 in 5 books I check for actually have an entry.
+Part of the problem here is [metadata is hard](https://people.well.com/user/doctorow/metacrap.htm). Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but, [Amazon is hostile to publishers](https://stallman.org/amazon.html#publishing). [Goodreads has much potential but seems to have stagnated](https://onezero.medium.com/almost-everything-about-goodreads-is-broken-662e424244d5). Linking to the book's Wikipedia entry would be my preference but I find only about 1 in 5 books I check for actually have an entry.
 
 Whatever this tool for managing my ever-growing reading list will be, it should:
 
@@ -116,13 +116,13 @@ Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Alfred](h
 
 During the past few years of consuming (mostly digital) content, I've noticed a few patterns:
 
-- The less friction in the medium, the more engaged I am in the content
+- The less friction between me and the medium, the more engaged I am with the content
 
 - Insights can be found in a 400-page book as well as a 40-minute podcast
 
 - Notes and subsequent review are essential for long-term retention
 
-- Other people's recommendations are as good, if not better, than algorithms
+- Recommendations from other people are as good, if not better, than algorithms
 
 It feels like our digital environment today is far too fragmented and non-interoperable; usually because of arcane copyright law or profit-seeking - or both. I'm excited for the world where knowledge is easier to discover, understand, retain, and share.
 
