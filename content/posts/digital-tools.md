@@ -20,7 +20,7 @@ There's a lot of generalizations in my summation up there but **the core issue i
 
 Where to begin? Probably the most common problems I see people dealing with is processing the incoming deluge of articles to read and videos to watch. A list of problems, roughly by order of appearance:
 
-- Links arrive from a variety of mediums (text messages, email, social media, references in books, physical conversations)
+- Links arrive from a variety of sources including text messages, email, social media, references in books, real-world conversations, and more.
 
 - [It arrives in a variety of formats](https://twitter.com/patrickc/status/1153691264983764996) including images, sound files, video links, short text blobs, links to long text articles, PDFs, powerpoint presentations, base 64 encoded blobs.
 
