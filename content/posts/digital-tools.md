@@ -5,7 +5,11 @@ showPosts: true
 ---
 
 ```
-❗️This is a draft. I'd appreciate any and all feedback - feel free to send it to wherever you received this link at. Thanks!
+❗️This is a draft. I'd appreciate any and all feedback.
+
+Feel free to send it to wherever you received this link at. 
+
+Thanks!
 ```
 
 My digital life in a nutshell: coming across content I don't have time to consume, finding time and getting overwhelmed with my scattered backlog, wishing the content in a different format, and being unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
@@ -15,6 +19,7 @@ There's a lot of generalizations in my summation up there but **the core issue i
 ## Queue management for inbound digital content
 
 Where to begin? Probably the most common problems I see people dealing with is processing the incoming deluge of articles to read and videos to watch. A list of problems, roughly by order of appearance:
+
 - Links arrive from a variety of mediums (text messages, email, social media, references in books, physical conversations)
 
 - [It arrives in a variety of formats](https://twitter.com/patrickc/status/1153691264983764996) including images, sound files, video links, short text blobs, links to long text articles, PDFs, powerpoint presentations, base 64 encoded blobs.
@@ -103,7 +108,7 @@ I want to be able to open an interface, type three words, and instantly see resu
 - Cluster content based on content, tags, geolocation, connected people, conversations, source, and more. 
 - Allow a rough export of my research on a topic (like, a knowledge dump off all the content I’ve consumed on pandas) with the ability to make it publicly accessible.
 
-This isn't a new idea by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of this idea over 70 years ago. We are way overdue for this. 
+This isn't a new idea by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of this idea over 70 years ago. We are way overdue for this. I also see enormous potential for combining the idea of a memex with our personal data (health, fitness, biometrics) as well as habits/task management, reflections, and goals. 
 
 Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Alfred](https://www.alfredapp.com/), [Polar](https://getpolarized.io/#features), [Trove](https://trovenow.com/), [Local Native](https://localnative.app/), [ArchiveBox](https://github.com/pirate/ArchiveBox), [Raindrop](https://raindrop.io/)
 
