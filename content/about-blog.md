@@ -17,6 +17,6 @@ Mailchimp has no tracking or analytics enabled.
 
 [ ] History of my Now entries
 
-[ ] List of links I find interesting or informative
+[x] List of links I find interesting or informative
 
 [x] An email subscription (2019-10-4)
