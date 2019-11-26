@@ -13,7 +13,7 @@ Thanks!
 ```
 
 https://twitter.com/dhh/status/1197669410451800064?s=21
-(https://twitter.com/patrickc/status/1153691264983764996)
+https://twitter.com/patrickc/status/1153691264983764996
 
 My digital life in a nutshell: coming across content I don't have time to consume, finding time and getting overwhelmed with my scattered backlog, wishing the content in a different format, and being unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
 
@@ -102,7 +102,6 @@ Reading is incredible and I love my Kindle. But eBooks today are just a step abo
 - View popular annotations and highlights across __all__ mediums - not just by other Amazon Kindle readers who happened to highlight it enough times. A quote was referenced in 300 blog articles? A two sentence excerpt retweeted 50,000 times? You bet I want to know!
 
 - Follow referenced information easily. You cited a paper - great, let's look at the footnotes. Oh, the full reference is in the back of the book. Online list of citations? Of course not! Drop a bookmark, navigate to the back of the book, pull out my laptop, find the paper. Of course, a paywall. Grab a snack. Get the PDF. Search for keywords to try to find the referenced information. Sigh, 2019.
-
 
 - Not be hindered by the DRM system. Copyright is important and I want to support authors but it's insane to me all these content licenses I'm acquiring can't be donated to a library upon account closure. Yes, legal DRM-free eBooks exist but they aren't without their own issues. [add links?]
 
