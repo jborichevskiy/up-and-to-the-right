@@ -109,7 +109,9 @@ Honorable Mentions: [Readwise](https://readwise.io/), [Weava](https://www.weavat
 
 ## A centralized search interface for my digital brain (memex)
 
-I want to be able to open an interface, type three words, and instantly see results from everything my digital self has interacted with. Emails, years of full-text browsing history, text messages, Slack messages across __all__ my organizations, calendar invites and events, books, podcast transcripts I’ve consumed, Twitter and Instagram DMs, PDFs I’ve downloaded, bash commands, videos I’ve seen, my online files, offline files, notes, blog post drafts - I really do mean everything. I accept I might be in the minority on this one. Regardless, this tool should:
+I want to be able to open an interface, type three words, and instantly see results from everything my digital self has interacted with. Emails, years of full-text browsing history, text messages, Slack messages across __all__ my organizations, calendar invites and events, books, podcast transcripts I’ve consumed, Twitter and Instagram DMs, PDFs I’ve downloaded, bash commands, videos I’ve seen, my online files, offline files, notes, blog post drafts - I really do mean everything. 
+
+I acutely feel the need for this when I'm trying to find something I know I've seen online, but can't remember where. Google is wonderful for finding new information, but absolutely poor for re-finding things. Chrome's history has so much potential - but I suspect Google would much rather have us run past their ads a few additional times rather go direct to the source. I accept I might be in the minority on this one. Regardless, this tool should:
 
 - Accept and parse the following queries:
 	- spacex announcement video 2016
@@ -129,6 +131,7 @@ I want to be able to open an interface, type three words, and instantly see resu
 - Respect my privacy: hosted on something I control and never mined for ads.
 - Support all my devices, bi-directionally and offline.
 - Cluster information based on content, tags, geolocation, connected people, conversations, source, and factors I'm not even aware of. 
+- Notifications about changes to documents and webpages I've visited.
 - Allow a rough export of my research on a topic (like, a knowledge dump off everything I’ve consumed on pandas) with the ability to easily share it. 
 
 Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Alfred](https://www.alfredapp.com/), [Trove](https://trovenow.com/), [Local Native](https://localnative.app/), [ArchiveBox](https://github.com/pirate/ArchiveBox), [Raindrop](https://raindrop.io/)
@@ -137,6 +140,6 @@ Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Alfred](h
 
 I'm fascinated by the idea of bridging the gap between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. 
 
-These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. In this age of abundant information it feels like it's the connections we draw between disparate pieces of content which are the most valuable [todo rephrase this]. What's even more interesting are the connections someone else drew about information I am interested in. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
+These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. In the age of abundant information it feels like it's the connections we draw between disparate pieces of content which are the most valuable [todo rephrase this]. What's even more interesting are the connections someone else drew about information I am interested in. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
 
 I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy).
