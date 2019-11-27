@@ -5,58 +5,53 @@ showPosts: true
 ---
 
 ```
-❗️This is a draft. I'd appreciate any and all feedback.
-
+❗️This is a draft. I'd appreciate any and all feedback. 
 Feel free to send it to wherever you received this link at. 
 
-Thanks!
+Please do not share. Thanks!
 ```
 
-https://twitter.com/dhh/status/1197669410451800064?s=21
-https://twitter.com/patrickc/status/1153691264983764996
+My digital life in a nutshell: coming across relevant content I don't have time to consume, finding time and getting overwhelmed with my scattered backlog, wishing the content in a different format, and being unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
 
-My digital life in a nutshell: coming across content I don't have time to consume, finding time and getting overwhelmed with my scattered backlog, wishing the content in a different format, and being unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
-
-There's a lot of generalization in my summation up there but **the core issue is an extraordinarily high level of friction in the process of finding, organizing, and sharing digital content**. During the past few years of consuming this content, I've noticed a few patterns:
+There's a lot of generalization in my summation up there but **the core issue I'm seeing is an extraordinarily high level of friction in the process of finding, organizing, and sharing digital content**. During the past few years I've noticed a few patterns:
 
 - The more seamless the acquisition & ingestion, the more engaged I am with the content
 
-- Insights can be found in a 400-page book as well as a 40-minute podcast
+- Insights are just as likely to be found in a 400-page book as well as a 40-minute podcast
 
 - Notes and subsequent review are essential for long-term retention
 
-- Recommendations from other people are as good, if not better, than algorithms
+- Recommendations from other people are as good, if not better, than algorithmic suggestions
 
-This is an attempt at articulating ideal digital information tools as I wish they existed and how their current predecessors are lacking. What's also probably lacking are my [habits and workflows](https://www.buildingasecondbrain.com/) around this - but I'm looking at tools specifically here. We can explore processes in a later post.
+The rest of this post is an attempt at articulating ideal digital information tools as I wish they existed and how their current predecessors are lacking. What's also probably lacking are my [habits and workflows](https://www.buildingasecondbrain.com/) around this - but I'm looking at tools specifically here. 
 
 ## Queue management for inbound digital content
 
-Where to begin? Probably the most common problem I see myself and other people dealing with is processing the incoming deluge of articles to read and videos to watch. These aren't all personal recommendations - it encompasses any and all content I think my future self would appreciate me consuming. A list of issues, roughly by order of appearance:
+Where to begin? Probably the most common problem I see myself and other people dealing with is processing the incoming deluge of articles to read and videos to watch. This isn't all personal recommendations - it encompasses any and all content I think my future self would appreciate me consuming. A list of issues, roughly by order of appearance:
 
-- Links arrive from a variety of sources including text messages, email, social media, references in books, real-world conversations, and more.
+- Links arrive from a variety of sources including text messages from friends, email conversations, tweetstorms and replies, references in books, suggestions in real-world conversations, and more. 
 
 - Every book, article, post, or Tweet has the potential to lead to more content.
 
-- The content is published in a variety of formats including images, sound files, video links, short text blobs, links to long text articles, PDFs, powerpoint presentations, base 64 encoded blobs.
+- The content is published in a variety of formats including images, sound files, videos, short text blobs, long text articles, PDFs, powerpoint presentations, base 64 encoded blobs.
 
-- I have little visibility into the required time investment and foundational context to understand and process it fully - should I sit down with a pen and paper to read this or can I skim it while waiting for my coffee? 
+- I have little visibility into the required time investment and foundational context to understand and process it fully until I've opened it and started thinking about it. Should I sit down with a pen and paper to read this or can I skim it while waiting for my coffee? 
 
 - Learning, work, news, and entertainment all have different priorities in my life (roughly in that order).
 
-- I would like to be able to batch process content in different "streams" regardless of their format. For example: I have two hours, let me work through the interesting articles my friends sent me last week. Or, I'd like to spend some time working through the resources I have saved about this programming language. Or even, show me all the interesting videos I've saved over the past month.
+- I would like to be able to batch process content in different "streams" regardless of their format. For example: I have two hours, let me work through the interesting articles my friends sent me last week. Or: I'd like to spend some time working through the resources I have saved about this programming language. Or even: show me all the interesting videos I've saved over the past month.
 
 - I'm not always connected to a stable internet connection when I want to consume content - sometimes I'm on the subway, other times the internet is just too slow and unreliable.
 
 - If it's a long piece of content I want my position saved reliably so I can resume at a later point.
 
-- I may want to consume the content in a different format than the one it was originally created in (audio → text, text → audio, pdf → ebook)
+- I may want it in a different format than the one it was originally published in (audio → text, text → audio, pdf → ebook). Automated conversion works but is cumbersome. Listening to articles requires sending them to a special app, converting articles to ebooks is annoying and loses a lot of formatting, etc.
 
-- I love to respond to people’s recommendations if and when I consume the content - preferably before they’ve forgotten why they sent me it in the first place.
+- I love to respond to people’s recommendations - preferably before they’ve forgotten why they sent me it in the first place.
 
-- I want to keep a centralized history of the content I consume tied to my notes and annotations in case I want to access it again or share it later. 
+- I want to keep a centralized history of the content I consume tied to my notes and annotations in case I want to access it again or share it later. It feels like every week I'm speaking with someone and I remember a blog post I read a few months ago they might find relevant ... or was it a Reddit post? Can I find it my history ... and so on.
 
-Following my curiosity feels like chasing a caffinated bunny around, while really understanding something requires time, perspective, and reflection. The internet makes the former much easier than the latter - so I find myself constantly trying to balance the two. The decision map looks something like this:
-
+Following my curiosity feels like chasing a caffinated bunny around while really understanding  requires time, perspective, and reflection. The internet makes the former much easier - so I find myself constantly trying to balance the two. Additionally, my energy and attention levels vary throughout the day and it's far easier to just open Twitter rather than continue reading a long-form article I started on my desktop two days ago. So too often I default to the lower-friction one.
 
 Honorable Mentions: [Pocket](https://www.alfredapp.com/), [Instapaper](https://www.instapaper.com/)
 
@@ -64,11 +59,11 @@ Honorable Mentions: [Pocket](https://www.alfredapp.com/), [Instapaper](https://w
 
 I love exploring other peoples' reading lists. Here’s my [own poorly organized list](/books). I find everyone keeps their reading lists in different formats on different platforms. Plaintext lists are nice but hard to parse. Spreadsheets are easy to parse but a pain to manage. Third-party services aren't interoperable, require logins, and are not future-proof.
 
-Part of the problem here is [metadata is hard](https://people.well.com/user/doctorow/metacrap.htm). Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but, [Amazon is hostile to publishers](https://stallman.org/amazon.html#publishing). [Goodreads has much potential but seems to have stagnated](https://onezero.medium.com/almost-everything-about-goodreads-is-broken-662e424244d5). Linking to the book's Wikipedia entry would be my preference but I find only about 1 in 5 books I check for actually one.
+Part of the problem here is [metadata is hard](https://people.well.com/user/doctorow/metacrap.htm). Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but, [Amazon is hostile to publishers](https://stallman.org/amazon.html#publishing). [Goodreads has much potential but seems to have stagnated](https://onezero.medium.com/almost-everything-about-goodreads-is-broken-662e424244d5). Linking to the book's Wikipedia entry would be my preference but I find only about 1 in 5 books I check for actually have one.
 
 Whatever this tool for managing my ever-growing reading list will be, it should:
 
-- Let me to compare my reading lists with someone else's to see overlap. I find this a wonderful way to spark conversation and find overlapping interests. 
+- Let me to compare my reading lists with someone else's to see overlap. I find this a wonderful way to spark conversation and find common interests. 
 
 - Allow me to tag books instead of placing them into static lists (think clusters or tag clouds).
 
@@ -76,13 +71,11 @@ Whatever this tool for managing my ever-growing reading list will be, it should:
 
 - Save context on where and when I found this book, why I thought it was important to read, when I read it, what I wrote down while reading it, and what other content I consumed because of it.
 
-- Let me query this tool like a relational database: show me all books about scaling startups read (and recommended) by people I follow on Twitter or people they follow. 
+- Let me query this tool like a relational database. For example: show me all books about scaling startups recommended by people I follow on Twitter or by people they follow. The current Twitter search makes me feel like I'm using a government site created before I knew what a computer was.
 
-- Help me [deal with prioritization](https://www.lesswrong.com/posts/Kmch6T2YscMyLFJD9/rational-reading-thoughts-on-prioritizing-books). My reading list is a mess and I can't be alone. Are certain books better read before others? Prerequisites? Could three of them be replaced with one? What are the other books by the this author? Are they worth reading too? [Is 80% of the content attainable from a blog post?](https://www.samuelthomasdavies.com/book-summaries/health-fitness/the-checklist-manifesto/) Where is that post? Has someone in my network written a rebuttal to the ideas in this book? The list goes on and on.
+- Help me [deal with prioritization](https://www.lesswrong.com/posts/Kmch6T2YscMyLFJD9/rational-reading-thoughts-on-prioritizing-books). My reading list is a mess and I can't be alone. Are certain books better read before others? Prerequisites? Could three of them be replaced with one? What are the other books by the this author? Are they worth reading too? Why exactly did I think reading this 800 page book was relevant when I added it? [Is 80% of the content attainable from a blog post?](https://www.samuelthomasdavies.com/book-summaries/health-fitness/the-checklist-manifesto/) Where is that post? Has someone in my network written a rebuttal to the ideas in this book? The list goes on and on.
 
 - Provide relevant suggestions with the typical recommender approach based on what people interested in the same topics also enjoyed.
-
-One of the first things I do when I find an interesting person on Twitter or 
 
 Honorable Mentions: None :(
 
@@ -90,36 +83,33 @@ Honorable Mentions: None :(
 
 {{< figure src="/digital-tools/ebook-concept.png" caption="Functionality I want in my document reader" >}}
 
-
-Reading is incredible and I love my Kindle. But eBooks today are just a step above OCR'ing a book and slapping on a few basic features that have existed for 30+ years. While I'm reading an eBook or listening to an audiobook or podcast I should be able to:
+Reading is incredible and I love my Kindle. But eBooks today are just a step above OCR'ing a book and slapping on a few basic features which have existed for 30+ years. While I'm reading an eBook or listening to an audiobook or podcast I should be able to:
 
 - Have relevant illustrations, graphs, and tables appear for duration of their mentions so I don't have to flip back and forth between them.
 
-- See glossary terms and their definitions which appear on this page. Holding to highlight and search is great but the author may have important context in the glossary definition than the generalized dictionary definition.
+- See glossary terms and their definitions which appear on this page. Highlighting and searching a term is great but the author may have added important context to the glossary definition which doesn't appear in the generalized dictionary definition.
 
-- Easier navigation. I should be able to see which chapter and subsection I'm reading, which one is next, where this is relative to the whole book, and easily jump back and forth between them.
+- View popular annotations and highlights across __all__ mediums - not just by other readers who own an Amazon Kindle readers and purchased this book version and also happened to highlight it enough times. A quote was referenced in 300 blog articles? A two sentence excerpt retweeted 50,000 times? You bet I want to know!
 
-- View popular annotations and highlights across __all__ mediums - not just by other Amazon Kindle readers who happened to highlight it enough times. A quote was referenced in 300 blog articles? A two sentence excerpt retweeted 50,000 times? You bet I want to know!
+- Follow referenced information easily. You cited a paper - great, let's look at the footnotes. Oh, the full reference is in the back of the book. Online list of citations? Of course not! Drop a bookmark, navigate to the back of the book, pull out my laptop, find the paper. Of course, a paywall. Grab a snack. Acquire the PDF. Search for keywords to try to find the referenced information. Sigh, 2019.
 
-- Follow referenced information easily. You cited a paper - great, let's look at the footnotes. Oh, the full reference is in the back of the book. Online list of citations? Of course not! Drop a bookmark, navigate to the back of the book, pull out my laptop, find the paper. Of course, a paywall. Grab a snack. Get the PDF. Search for keywords to try to find the referenced information. Sigh, 2019.
-
-- Not be hindered by the DRM system. Copyright is important and I want to support authors but it's insane to me all these content licenses I'm acquiring can't be donated to a library upon account closure. Yes, legal DRM-free eBooks exist but they aren't without their own issues. [add links?]
+- Not be hindered by the DRM system. Copyright is important and I want to support authors but it's insane to me all these content licenses I'm acquiring can't be donated to a library upon account closure. Yes, legal DRM-free eBooks exist but they aren't without their own issues.
 
 - Seamlessly switch between devices and formats while retaining my position. Something like Whispersync ([a neat idea](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000827761) but come on, I'm not made of money. Also, see above points). 
 
 - Let me use a digital or physical keyboard instead of an e-ink keyboard to type my annotations. A possibility here is a companion app, which feels like a notes app but ties my notes to their location/text in the book I'm reading.
 
-Most of these points above also apply to my experiences listening to podcasts, audiobooks, and watching Youtube videos and interviews. I find myself wishing I could:
+Most of these points above also apply to my experience listening to podcasts, audiobooks, and watching Youtube videos and interviews. I find myself wishing I could:
 
-- Navigate them more comfortably. I use Libby and Audible - both leave much to be desired in terms of navigation. Finding and getting to a part I remember hearing to three days ago is basically blindly stumbling around, and I lose my current spot too. Seeing a list of chapter numbers for the book I'm __listening to__ has been helpful a grand total of 0 times. And allow me to drop a pin from my bluetooth-connected headphones as I'm biking down the river.
+- Navigate them more comfortably. I use Libby and Audible - both leave much to be desired in terms of navigation. Finding and getting to a quote I remember hearing to three days ago is basically blindly stumbling around - and I lose my current spot too. Seeing a list of chapter numbers for the book I'm __listening to__ has been helpful a grand total of 0 times. And how cool would it be to drop a bookmark from my bluetooth-connected headphones as I'm biking down a street.
 
-- See an auto-generated transcript of a podcast as I'm listening to it, with time-coded easy-to-follow links to outside information referenced in the podcast. YouTube already transcribes all of their videos - why can’t we do something similar with podcast apps?
+- View an auto-generated transcript of a podcast as I'm listening to it with time-coded easy-to-follow links to outside information referenced in the podcast. YouTube already transcribes all of their videos - why can’t we do something similar with podcast apps?
 
 Honorable Mentions: [Readwise](https://readwise.io/), [Weava](https://www.weavatools.com/), [Descript](https://www.descript.com/), [Otter.ai](https://otter.ai/), [Polar](https://getpolarized.io/#features)
 
 ## A centralized search interface for my digital brain (memex)
 
-I want to be able to open an interface, type three words, and instantly see results from everything my digital self has interacted with. Emails, years of full-text browsing history, text messages, Slack messages across __all__ my organizations, calendar invites and events, books, podcast transcripts I’ve consumed, Twitter and Instagram DMs, PDFs I’ve downloaded, bash history, videos I’ve watched, my online files, offline files, notes, blog post drafts - I really do mean everything. I accept I might be in the minority on this one. Regardless, this tool should:
+I want to be able to open an interface, type three words, and instantly see results from everything my digital self has interacted with. Emails, years of full-text browsing history, text messages, Slack messages across __all__ my organizations, calendar invites and events, books, podcast transcripts I’ve consumed, Twitter and Instagram DMs, PDFs I’ve downloaded, bash commands, videos I’ve seen, my online files, offline files, notes, blog post drafts - I really do mean everything. I accept I might be in the minority on this one. Regardless, this tool should:
 
 - Accept and parse the following queries:
 	- spacex announcement video 2016
@@ -138,13 +128,15 @@ I want to be able to open an interface, type three words, and instantly see resu
 
 - Respect my privacy: hosted on something I control and never mined for ads.
 - Support all my devices, bi-directionally and offline.
-- Cluster content based on content, tags, geolocation, connected people, conversations, source, and more. 
-- Allow a rough export of my research on a topic (like, a knowledge dump off all the content I’ve consumed on pandas) with the ability to make it publicly accessible.
+- Cluster information based on content, tags, geolocation, connected people, conversations, source, and factors I'm not even aware of. 
+- Allow a rough export of my research on a topic (like, a knowledge dump off everything I’ve consumed on pandas) with the ability to easily share it. 
 
 Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Alfred](https://www.alfredapp.com/), [Trove](https://trovenow.com/), [Local Native](https://localnative.app/), [ArchiveBox](https://github.com/pirate/ArchiveBox), [Raindrop](https://raindrop.io/)
 
 ## Parting Thoughts
 
-I'm also really interested in more effectively bridging the gap between our minds and our digital devices. A good tool makes itself disappear allowing you to focus on the objective - but digital devices today are far from this ideal. These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I also see enormous potential for combining the idea of a memex with our personal data (health, fitness, biometrics) as well as habits/task management, reflections, and goals. I'm excited for the world where knowledge is easier to discover, understand, retain, and share.
+I'm fascinated by the idea of bridging the gap between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. 
+
+These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) our habits, tasks, reflections, goals, and communication. In this age of abundant information I believe it's the connections we draw between disparate pieces of content which are the most valuable [todo rephrase this]. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
 
 I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy).

@@ -3,7 +3,7 @@ title: "Books"
 date: 2019-11-25T10:58:30-05:00
 ---
 
-Favorite books by subject. Most of these fit into more than one so I had to pick one. 
+Favorite books by subject. Most of these fit into more than one so I had to pick one. I promise I'll make this more useful/interesting at some point. No particular order.
 
 | Human Brain, Group Psychology, Networks |  |
 | ---- | ---- |
@@ -15,7 +15,7 @@ Nature Fix: Why Nature Makes Us Happier, Healthier, and More Creative, The | Flo
 Wisdom of Crowds, The | James Surowiecki
 Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century | Howard Bloom
 
-| Life, Philosophy, Religion |  |
+| Life, Philosophy, Religion, Spirituality |  |
 | ---- | ---- |
 When Breath Becomes Air | Paul Kalanithi
 Religion for Atheists: A Non-believer's Guide to the Uses of Religion | Alain De Botton
@@ -26,7 +26,7 @@ Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality | Donald Miller
 How to Win Friends & Influence People | Dale Carnegie
 Doors of Perception and Heaven and Hell | Aldous Huxley
 How to Change Your Mind | Michael Pollan
-Courage to be Disliked | Ichiro Kishimi
+Courage to be Disliked | Ichiro Kishimi 
 
 | Politics & Social Sciences |  |
 | ---- | ---- |
