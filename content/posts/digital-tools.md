@@ -17,13 +17,13 @@ There's a lot of generalization in my summation up there but **the core issue I'
 
 - The more seamless the acquisition & ingestion, the more engaged I am with the content
 
-- Insights are just as likely to be found in a 400-page book as well as a 40-minute podcast
+- Insights are just as likely to be found in a 400-page book as in a 40-minute podcast
 
-- Notes and subsequent review are essential for long-term retention
+- Notes and their subsequent review are essential for long-term retention
 
 - Recommendations from other people are as good, if not better, than algorithmic suggestions
 
-The rest of this post is an attempt at articulating ideal digital information tools as I wish they existed and how their current predecessors are lacking. What's also probably lacking are my [habits and workflows](https://www.buildingasecondbrain.com/) around this - but I'm looking at tools specifically here. 
+The rest of this post is an attempt at articulating digital information tools as I wish they existed and how their current predecessors are lacking. What's also probably lacking are my [habits and workflows](https://www.buildingasecondbrain.com/) around this - but I'm looking at tools specifically here. 
 
 ## Queue management for inbound digital content
 
@@ -33,25 +33,25 @@ Where to begin? Probably the most common problem I see myself and other people d
 
 - Every book, article, post, or Tweet has the potential to lead to more content.
 
-- The content is published in a variety of formats including images, sound files, videos, short text blobs, long text articles, PDFs, powerpoint presentations, base 64 encoded blobs.
+- The content is published in a variety of formats including but not limited to images, sound files, videos, diagrams, long-from paywalled articles, PDFs, powerpoint presentations, and base 64 encoded blobs.
 
-- I have little visibility into the required time investment and foundational context to understand and process it fully until I've opened it and started thinking about it. Should I sit down with a pen and paper to read this or can I skim it while waiting for my coffee? 
+- I have little visibility into the required time investment and foundational context until I've opened it and started thinking about it. Should I sit down with a pen and paper to read this or can I skim it while waiting for my coffee? 
 
 - Learning, work, news, and entertainment all have different priorities in my life (roughly in that order).
 
 - I would like to be able to batch process content in different "streams" regardless of their format. For example: I have two hours, let me work through the interesting articles my friends sent me last week. Or: I'd like to spend some time working through the resources I have saved about this programming language. Or even: show me all the interesting videos I've saved over the past month.
 
-- I'm not always connected to a stable internet connection when I want to consume content - sometimes I'm on the subway, other times the internet is just too slow and unreliable.
+- I'm not always connected to a stable internet connection - sometimes I'm on the subway, other times the internet is just too slow and unreliable.
 
 - If it's a long piece of content I want my position saved reliably so I can resume at a later point.
 
 - I may want it in a different format than the one it was originally published in (audio → text, text → audio, pdf → ebook). Automated conversion works but is cumbersome. Listening to articles requires sending them to a special app, converting articles to ebooks is annoying and loses a lot of formatting, etc.
 
-- I love to respond to people’s recommendations - preferably before they’ve forgotten why they sent me it in the first place.
+- I love to respond to a person's recommendation - preferably before they’ve forgotten why they sent me it in the first place.
 
 - I want to keep a centralized history of the content I consume tied to my notes and annotations in case I want to access it again or share it later. It feels like every week I'm speaking with someone and I remember a blog post I read a few months ago they might find relevant ... or was it a Reddit post? Can I find it my history ... and so on.
 
-Following my curiosity feels like chasing a caffinated bunny around while really understanding  requires time, perspective, and reflection. The internet makes the former much easier - so I find myself constantly trying to balance the two. Additionally, my energy and attention levels vary throughout the day and it's far easier to just open Twitter rather than continue reading a long-form article I started on my desktop two days ago. So too often I default to the lower-friction one.
+Following my curiosity feels like chasing a caffinated bunny around while real understanding  requires time, perspective, and reflection. The internet makes the former much easier - so I find myself constantly trying to balance the two. Additionally, my energy and attention levels vary throughout the day and it's far easier to just open Twitter rather than continue reading a long-form article I started on my desktop two days ago. Too often I default to the lower-friction one.
 
 Honorable Mentions: [Pocket](https://www.alfredapp.com/), [Instapaper](https://www.instapaper.com/)
 
@@ -59,7 +59,7 @@ Honorable Mentions: [Pocket](https://www.alfredapp.com/), [Instapaper](https://w
 
 I love exploring other peoples' reading lists. Here’s my [own poorly organized list](/books). I find everyone keeps their reading lists in different formats on different platforms. Plaintext lists are nice but hard to parse. Spreadsheets are easy to parse but a pain to manage. Third-party services aren't interoperable, require logins, and are not future-proof.
 
-Part of the problem here is [metadata is hard](https://people.well.com/user/doctorow/metacrap.htm). Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but, [Amazon is hostile to publishers](https://stallman.org/amazon.html#publishing). [Goodreads has much potential but seems to have stagnated](https://onezero.medium.com/almost-everything-about-goodreads-is-broken-662e424244d5). Linking to the book's Wikipedia entry would be my preference but I find only about 1 in 5 books I check for actually have one.
+Part of the problem here is [metadata is hard](https://people.well.com/user/doctorow/metacrap.htm). Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but, [is hostile to publishers](https://stallman.org/amazon.html#publishing). Goodreads has much potential but [seems to have stagnated](https://onezero.medium.com/almost-everything-about-goodreads-is-broken-662e424244d5). Linking to the book's Wikipedia entry would be my preference but I find only about 1 in 5 books I check for actually have one.
 
 Whatever this tool for managing my ever-growing reading list will be, it should:
 
@@ -71,11 +71,11 @@ Whatever this tool for managing my ever-growing reading list will be, it should:
 
 - Save context on where and when I found this book, why I thought it was important to read, when I read it, what I wrote down while reading it, and what other content I consumed because of it.
 
-- Let me query this tool like a relational database. For example: show me all books about scaling startups recommended by people I follow on Twitter or by people they follow. The current Twitter search makes me feel like I'm using a government site created before I knew what a computer was.
+- Let me query this tool like a relational database. For example: show me all books about scaling startups recommended by people I follow on Twitter or by people they follow. The current Twitter search makes me feel like I'm using a government site created before I myself even knew what a computer was.
 
 - Help me [deal with prioritization](https://www.lesswrong.com/posts/Kmch6T2YscMyLFJD9/rational-reading-thoughts-on-prioritizing-books). My reading list is a mess and I can't be alone. Are certain books better read before others? Prerequisites? Could three of them be replaced with one? What are the other books by the this author? Are they worth reading too? Why exactly did I think reading this 800 page book was relevant when I added it? [Is 80% of the content attainable from a blog post?](https://www.samuelthomasdavies.com/book-summaries/health-fitness/the-checklist-manifesto/) Where is that post? Has someone in my network written a rebuttal to the ideas in this book? The list goes on and on.
 
-- Provide relevant suggestions with the typical recommender approach based on what people interested in the same topics also enjoyed.
+- Provide relevant suggestions with the typical recommender approach based on what people interested in the same topics also enjoyed reading and learning from.
 
 Honorable Mentions: None :(
 
@@ -83,7 +83,7 @@ Honorable Mentions: None :(
 
 {{< figure src="/digital-tools/ebook-concept.png" caption="Functionality I want in my document reader" >}}
 
-Reading is incredible and I love my Kindle. But eBooks today are just a step above OCR'ing a book and slapping on a few basic features which have existed for 30+ years. While I'm reading an eBook or listening to an audiobook or podcast I should be able to:
+Reading is incredible and I love my Kindle. But eBooks today are just a step above OCR'ing a book and slapping on a few basic features which have existed for 30+ years. While I'm reading an eBook I want to:
 
 - Have relevant illustrations, graphs, and tables appear for duration of their mentions so I don't have to flip back and forth between them.
 
@@ -137,6 +137,6 @@ Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Alfred](h
 
 I'm fascinated by the idea of bridging the gap between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. 
 
-These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) our habits, tasks, reflections, goals, and communication. In this age of abundant information I believe it's the connections we draw between disparate pieces of content which are the most valuable [todo rephrase this]. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
+These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. In this age of abundant information it feels like it's the connections we draw between disparate pieces of content which are the most valuable [todo rephrase this]. What's even more interesting are the connections someone else drew about information I am interested in. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
 
 I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy).
