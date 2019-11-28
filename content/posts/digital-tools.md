@@ -83,7 +83,7 @@ Reading is incredible and I love my Kindle. But eBooks today are just a step abo
 
 - Have relevant illustrations, graphs, and tables appear for duration of their mentions so I don't have to flip back and forth between them.
 
-- See glossary terms and their definitions which appear on this page. Highlighting and searching a term is great but the author may have added important context to the glossary definition which doesn't appear in the generalized dictionary definition.
+- See glossary terms and their definitions which appear on this page. Highlighting and searching a term is great but the author may have added important context to the glossary definition.
 
 - View popular annotations and highlights across __all__ mediums - not just by other readers who own an Amazon Kindle readers and purchased this book version and also happened to highlight it enough times. A quote was referenced in 300 blog articles? A two sentence excerpt retweeted 50,000 times? You bet I want to know!
 
@@ -129,7 +129,8 @@ I acutely feel the need for this when I'm trying to find something I know I've s
 	- file:py datetime parse
 
 - Respect my privacy: hosted on something I control and never mined for ads.
-- Support all my devices, bi-directionally and offline.
+- Support all my devices with two-way sync so I can search and add to it wherever I am.
+- Be extensible: allow me to easily ingest my own information and extend with desired functionality.
 - Cluster information based on content, tags, geo-location, connected people, conversations, source, and other factors I'm not even aware of. 
 - Notify me about changes to documents and webpages I've visited.
 - Allow a rough export of my research on a topic (like, a knowledge dump off everything I’ve consumed on pandas) with the ability to easily share it. 
@@ -138,8 +139,8 @@ Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Roam Rese
 
 ## Parting Thoughts
 
-I'm fascinated with better bridging the gap between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with all of our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. 
+I'm fascinated with a better bridge between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with all of our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. 
 
-It seems to me that as information becomes more abundant, the connections drawn between disparate pieces of it are becoming increasingly important. The easier it is to share that graph with other people, the faster we can learn from each other and understand complex relationships. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
+It seems to me that as information becomes more abundant, the connections drawn between disparate pieces are becoming increasingly important. The easier it is to share that graph with other people, the faster we can learn from each other and understand complex relationships. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
 
 I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy). My thanks to Arthur Tyukayev, Alex Ly, [David Heimann](https://twitter.com/davidmeh), [Em deGrandpré](https://twitter.com/ylimedeg), [Alexey Guzey](https://twitter.com/alexeyguzey), Sam Tkachuk, and [Brian Timar](https://twitter.com/briantimar) for reading drafts of this and providing wonderful feedback.
