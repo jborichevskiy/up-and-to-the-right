@@ -135,7 +135,7 @@ I acutely feel the need for this when I'm trying to find something I know I've s
 - Notify me about changes to documents and webpages I've visited.
 - Allow a rough export of my research on a topic (like, a knowledge dump off everything I’ve consumed on pandas) with the ability to easily share it. 
 
-Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Roam Research](https://roamresearch.com/), [Alfred](https://www.alfredapp.com/), [Trove](https://trovenow.com/), [Local Native](https://localnative.app/), [ArchiveBox](https://github.com/pirate/ArchiveBox), [Raindrop](https://raindrop.io/)
+Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Roam Research](https://roamresearch.com/), [Notion](https://www.notion.so/), [Coda.io](https://coda.io/welcome), [Alfred](https://www.alfredapp.com/), [Trove](https://trovenow.com/), [Local Native](https://localnative.app/), [ArchiveBox](https://github.com/pirate/ArchiveBox), [Raindrop](https://raindrop.io/)
 
 ## Parting Thoughts
 
