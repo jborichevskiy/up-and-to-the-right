@@ -11,9 +11,12 @@ Feel free to send it to wherever you received this link at.
 Please do not share. Thanks!
 ```
 
-My digital life in a nutshell: coming across relevant content I don't have time to consume, finding time and getting overwhelmed with my scattered backlog, wishing the content in a different format, and being unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
+Feedback
+- Add thanks
 
-There's a lot of generalization in my summation up there but **the core issue I'm seeing is an extraordinarily high level of friction in the process of finding, organizing, and sharing digital content**. During the past few years I've noticed a few patterns:
+My digital life in a nutshell: I come across relevant content I don't have time to consume, I find time and become overwhelmed with my scattered backlog, I wish the content were in a different format, and then I'm unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
+
+There's a lot of generalization in my summary but **the core issue is an extraordinarily high level of friction in the process of finding, organizing, and sharing digital content**. During the past few years I've noticed:
 
 - The more seamless the acquisition & ingestion, the more engaged I am with the content
 
@@ -21,55 +24,56 @@ There's a lot of generalization in my summation up there but **the core issue I'
 
 - Notes and their subsequent review are essential for long-term retention
 
-- Recommendations from other people are as good, if not better, than algorithmic suggestions
+- Recommendations from other humans are as good, if not better, than algorithmic suggestions
 
-The rest of this post is an attempt at articulating digital information tools as I wish they existed and how their current predecessors are lacking. What's also probably lacking are my [habits and workflows](https://www.buildingasecondbrain.com/) around this - but I'm looking at tools specifically here. 
+In the rest of this post I attempt to explain the digital tools I wish existed, and how the the currently available tools do not suffice. What are also probably lacking are my [habits and workflows](https://www.buildingasecondbrain.com/) around this - but I'm looking at tools specifically here. 
 
 ## Queue management for inbound digital content
 
 Where to begin? Probably the most common problem I see myself and other people dealing with is processing the incoming deluge of articles to read and videos to watch. This isn't all personal recommendations - it encompasses any and all content I think my future self would appreciate me consuming. A list of issues, roughly by order of appearance:
 
-- Links arrive from a variety of sources including text messages from friends, email conversations, tweetstorms and replies, references in books, suggestions in real-world conversations, and more. 
+- Content (or links to it) arrive from a variety of sources including text messages from friends, email conversations, tweetstorms and replies, references in books, suggestions in real-world conversations, and more. 
 
-- Every book, article, post, or Tweet has the potential to lead to more content.
+- Every book, article, post, or tweet has the potential to lead to more content.
 
-- The content is published in a variety of formats including but not limited to images, sound files, videos, diagrams, long-from paywalled articles, PDFs, powerpoint presentations, and base 64 encoded blobs.
+- Content is published in a variety of formats including but not limited to images, sound files, videos, Google Drive docs, diagrams, long-from paywalled articles, PDFs, powerpoint presentations, and base 64 encoded blobs.
 
-- I have little visibility into the required time investment and foundational context until I've opened it and started thinking about it. Should I sit down with a pen and paper to read this or can I skim it while waiting for my coffee? 
+- I have little visibility into required time investment and foundational context until I've opened it and started thinking about it. Should I sit down with a pen and paper to read this or can I skim it while waiting for my coffee? 
 
 - Learning, work, news, and entertainment all have different priorities in my life (roughly in that order).
 
-- I would like to be able to batch process content in different "streams" regardless of their format. For example: I have two hours, let me work through the interesting articles my friends sent me last week. Or: I'd like to spend some time working through the resources I have saved about this programming language. Or even: show me all the interesting videos I've saved over the past month.
+#TODO: unclear
+- I would like to batch process content in different "streams" regardless of their format. For example: I have two hours, let me work through intere my friends sent me last week. Or: show me all the interesting videos I've queued over the past month.
 
-- I'm not always connected to a stable internet connection - sometimes I'm on the subway, other times the internet is just too slow and unreliable.
+- I'm not always connected to a stable internet connection.
 
 - If it's a long piece of content I want my position saved reliably so I can resume at a later point.
 
-- I may want it in a different format than the one it was originally published in (audio → text, text → audio, pdf → ebook). Automated conversion works but is cumbersome. Listening to articles requires sending them to a special app, converting articles to ebooks is annoying and loses a lot of formatting, etc.
+- I often want it in a different format than the one it was originally published in (audio → text, text → audio, pdf → ebook). Automated conversion works but is cumbersome. Listening to text articles requires sending them to a special app and converting articles to ebooks is annoying and loses a lot of formatting and navigation.
 
 - I love to respond to a person's recommendation - preferably before they’ve forgotten why they sent me it in the first place.
 
-- I want to keep a centralized history of the content I consume tied to my notes and annotations in case I want to access it again or share it later. It feels like every week I'm speaking with someone and I remember a blog post I read a few months ago they might find relevant ... or was it a Reddit post? Can I find it my history ... and so on.
+- I'd like a centralized history of content tied to my notes and annotations in case I want to find it again later. It feels like every week I'm speaking with someone and I remember a blog post I read a few months ago they might find relevant ... or was it a Reddit post? Can I find it my history? Oh no, it's been replaced with `[deleted]` ... find a archived copy... rinse and repeat. 
 
-Following my curiosity feels like chasing a caffinated bunny around while real understanding  requires time, perspective, and reflection. The internet makes the former much easier - so I find myself constantly trying to balance the two. Additionally, my energy and attention levels vary throughout the day and it's far easier to just open Twitter rather than continue reading a long-form article I started on my desktop two days ago. Too often I default to the lower-friction one.
+Following my curiosity feels like chasing a caffeinated bunny around while real understanding requires time, perspective, and reflection. The internet makes the former much easier - so I find myself constantly trying to balance the two. Additionally, my energy and attention levels vary throughout the day and it's far easier to just open Twitter rather than continue reading a long-form article I started on my laptop two days ago. Too often I default to the lower-friction one.
 
 Honorable Mentions: [Pocket](https://www.alfredapp.com/), [Instapaper](https://www.instapaper.com/)
 
 ## A universal book log, recommendation & sharing system
 
-I love exploring other peoples' reading lists. Here’s my [own poorly organized list](/books). I find everyone keeps their reading lists in different formats on different platforms. Plaintext lists are nice but hard to parse. Spreadsheets are easy to parse but a pain to manage. Third-party services aren't interoperable, require logins, and are not future-proof.
+I love exploring other peoples' reading lists. Here’s [my own](/books). I find everyone keeps their reading lists in different formats on different platforms. Plaintext lists are nice but hard to parse. Spreadsheets are easy to parse but a pain to manage. Third-party services aren't interoperable, require logins, and are not future-proof.
 
-Part of the problem here is [metadata is hard](https://people.well.com/user/doctorow/metacrap.htm). Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but, [is hostile to publishers](https://stallman.org/amazon.html#publishing). Goodreads has much potential but [seems to have stagnated](https://onezero.medium.com/almost-everything-about-goodreads-is-broken-662e424244d5). Linking to the book's Wikipedia entry would be my preference but I find only about 1 in 5 books I check for actually have one.
+Part of the problem here is [metadata is hard](https://people.well.com/user/doctorow/metacrap.htm). Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but [is hostile to publishers](https://stallman.org/amazon.html#publishing). Goodreads has much potential but [seems to have stagnated](https://onezero.medium.com/almost-everything-about-goodreads-is-broken-662e424244d5). Linking to the book's Wikipedia entry would be my preference but very few books have an entry.
 
 Whatever this tool for managing my ever-growing reading list will be, it should:
 
-- Let me to compare my reading lists with someone else's to see overlap. I find this a wonderful way to spark conversation and find common interests. 
+- Let me compare my reading list with another to see overlap. I find this a wonderful way to spark conversation and find common interests. 
 
 - Allow me to tag books instead of placing them into static lists (think clusters or tag clouds).
 
 - Be tied to my highlights, annotations, and bookmarks in a non-proprietary, searchable, and shareable format. Make them public if I want to.
 
-- Save context on where and when I found this book, why I thought it was important to read, when I read it, what I wrote down while reading it, and what other content I consumed because of it.
+- Save context on where and when I found this book: why I thought it was important to read, when I read it, what I wrote down while reading it, and what other content I discovered through it.
 
 - Let me query this tool like a relational database. For example: show me all books about scaling startups recommended by people I follow on Twitter or by people they follow. The current Twitter search makes me feel like I'm using a government site created before I myself even knew what a computer was.
 
@@ -99,47 +103,51 @@ Reading is incredible and I love my Kindle. But eBooks today are just a step abo
 
 - Let me use a digital or physical keyboard instead of an e-ink keyboard to type my annotations. A possibility here is a companion app, which feels like a notes app but ties my notes to their location/text in the book I'm reading.
 
+{{< figure src="/digital-tools/audiobook-player.png" caption="What I want my audiobook player to look like" >}}
+
 Most of these points above also apply to my experience listening to podcasts, audiobooks, and watching Youtube videos and interviews. I find myself wishing I could:
 
-- Navigate them more comfortably. I use Libby and Audible - both leave much to be desired in terms of navigation. Finding and getting to a quote I remember hearing to three days ago is basically blindly stumbling around - and I lose my current spot too. Seeing a list of chapter numbers for the book I'm __listening to__ has been helpful a grand total of 0 times. And how cool would it be to drop a bookmark from my bluetooth-connected headphones as I'm biking down a street.
+- Navigate them more comfortably. Both Libby and Audible leave much to be desired in terms of navigation. Finding a quote I remember hearing to three days ago is basically blindly stumbling around - and I lose my current spot too. Seeing a list of chapter numbers for the book I'm __listening to__ has been helpful a grand total of 0 times. And how cool would it be to drop a bookmark from my bluetooth-connected headphones as I'm biking down a street.
 
-- View an auto-generated transcript of a podcast as I'm listening to it with time-coded easy-to-follow links to outside information referenced in the podcast. YouTube already transcribes all of their videos - why can’t we do something similar with podcast apps?
+- View an auto-generated transcript of a podcast as I'm listening to it. It should have easy-to-follow links to references to other podcasts, media, books and support searching for key terms. YouTube already transcribes all of their videos and Google Meet now generates live captions as we're talking - why can’t we do something similar with podcast apps?
 
 Honorable Mentions: [Readwise](https://readwise.io/), [Weava](https://www.weavatools.com/), [Descript](https://www.descript.com/), [Otter.ai](https://otter.ai/), [Polar](https://getpolarized.io/#features)
 
 ## A centralized search interface for my digital brain (memex)
 
-I want to be able to open an interface, type three words, and instantly see results from everything my digital self has interacted with. Emails, years of full-text browsing history, text messages, Slack messages across __all__ my organizations, calendar invites and events, books, podcast transcripts I’ve consumed, Twitter and Instagram DMs, PDFs I’ve downloaded, bash commands, videos I’ve seen, my online files, offline files, notes, blog post drafts - I really do mean everything. 
+I want to be able to open an interface, type three words, and instantly see results from everything my digital self has interacted with. Emails, years of full-text browsing history, text messages, Slack messages across __all__ my organizations, calendar invites and events, books, podcast transcripts I’ve consumed, Twitter and Instagram DMs, PDFs I’ve downloaded, bash commands, videos I’ve seen, my online and offline files, notes, blog post drafts - I really do mean everything. 
 
-I acutely feel the need for this when I'm trying to find something I know I've seen online, but can't remember where. Google is wonderful for finding new information, but absolutely poor for re-finding things. Chrome's history has so much potential - but I suspect Google would much rather have us run past their ads a few additional times rather go direct to the source. I accept I might be in the minority on this one. Regardless, this tool should:
+I acutely feel the need for this when I'm trying to find something I know I've seen online but can't remember where I saw it. Google is wonderful for finding new information, but absolutely poor for re-finding things. Chrome's history has so much potential - but I suspect Google would much rather have us look at their ads a few additional times rather than go direct to the source. I accept I might be in the minority on this one. Regardless, this tool should:
 
 - Accept and parse the following queries:
-	- spacex announcement video 2016
+	- spacex announcement type:video 2016
 
-    - links from jon@test.org topic:python
+    - links from:jon@test.org topic:python
 
-	- paper about temperature and productivity referenced in Uninhabitable Earth
+	- paper on temperature, productivity referenced in book:Uninhabitable Earth
 
-	- pdf habits digital interfaces
+	- type:pdf habits digital interfaces
     
-    - blog posts reading comprehension
+    - reading comprehension type:blog post
 
 	- printer ink receipt
 	
-    - type:book finance read:2017
+    - type:book read:2017 finance
+
+	- file:py datetime parse
 
 - Respect my privacy: hosted on something I control and never mined for ads.
 - Support all my devices, bi-directionally and offline.
-- Cluster information based on content, tags, geolocation, connected people, conversations, source, and factors I'm not even aware of. 
-- Notifications about changes to documents and webpages I've visited.
+- Cluster information based on content, tags, geo-location, connected people, conversations, source, and other factors I'm not even aware of. 
+- Notify me about changes to documents and webpages I've visited.
 - Allow a rough export of my research on a topic (like, a knowledge dump off everything I’ve consumed on pandas) with the ability to easily share it. 
 
 Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Alfred](https://www.alfredapp.com/), [Trove](https://trovenow.com/), [Local Native](https://localnative.app/), [ArchiveBox](https://github.com/pirate/ArchiveBox), [Raindrop](https://raindrop.io/)
 
 ## Parting Thoughts
 
-I'm fascinated by the idea of bridging the gap between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. 
+I'm fascinated by the idea of bridging the gap between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. I wish I had something with the productivity potential of my computer when I was out and about in nature . Whether this will require slightly better virtual reality goggles or direct neural implants isn't quite evident yet. #https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ - outside pic? mention?
 
-These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. In the age of abundant information it feels like it's the connections we draw between disparate pieces of content which are the most valuable [todo rephrase this]. What's even more interesting are the connections someone else drew about information I am interested in. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
+These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. As information becomes more abundant, the connections drawn between disparate pieces of information are increasingly important. What's even more interesting are the connections someone else drew about information I am interested in. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
 
-I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy).
+I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy). My thanks to Arthur Tyukayev, Alex Ly, [David Heimann](https://twitter.com/davidmeh), [Em deGrandpré](https://twitter.com/ylimedeg), [Alexey Guzey](https://twitter.com/alexeyguzey), Sam Tkachuk, and [Brian Timar](https://twitter.com/briantimar) for reading drafts of this and providing wonderful feedback.
