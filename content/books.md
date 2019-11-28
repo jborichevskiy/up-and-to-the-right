@@ -13,6 +13,7 @@ Man Who Mistook His Wife For A Hat, The | Oliver Sacks
 Nature Fix: Why Nature Makes Us Happier, Healthier, and More Creative, The | Florence Williams
 Wisdom of Crowds, The | James Surowiecki
 Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century | Howard Bloom
+Musicophilia | Oliver Sacks
 
 | Life, Philosophy, Religion, Spirituality |  |
 | ---- | ---- |
@@ -25,7 +26,8 @@ Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality | Donald Miller
 How to Win Friends & Influence People | Dale Carnegie
 Doors of Perception and Heaven and Hell | Aldous Huxley
 How to Change Your Mind | Michael Pollan
-Courage to be Disliked | Ichiro Kishimi 
+Courage to be Disliked | Ichiro Kishimi
+Finite and Infinite Games | James Carse
 
 | Politics & Social Sciences |  |
 | ---- | ---- |
@@ -94,3 +96,4 @@ Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future | Ashlee Vance
 Innovators | Walter Issacson
 Hillbilly Elegy | J. D. Vance
 Skygods: The Fall of Pan Am | Robert Gandt
+Space Barons, The | Christian Davenport
