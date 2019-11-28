@@ -1,20 +1,10 @@
 ---
 title: "Digital Tools I Wish Existed"
-date: 2019-11-23T15:09:25-05:00
+date: 2019-11-28T02:09:25-05:00
 showPosts: true
 ---
 
-```
-❗️This is a draft. I'd appreciate any and all feedback. 
-Feel free to send it to wherever you received this link at. 
-
-Please do not share. Thanks!
-```
-
-Feedback
-- Add thanks
-
-My digital life in a nutshell: I come across relevant content I don't have time to consume, I find time and become overwhelmed with my scattered backlog, I wish the content were in a different format, and then I'm unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
+My digital life in a nutshell: I discover relevant content I don't have time to consume, I find time and become overwhelmed with my scattered backlog, I wish the content were in a different format, and then I'm unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
 
 There's a lot of generalization in my summary but **the core issue is an extraordinarily high level of friction in the process of finding, organizing, and sharing digital content**. During the past few years I've noticed:
 
@@ -42,8 +32,7 @@ Where to begin? Probably the most common problem I see myself and other people d
 
 - Learning, work, news, and entertainment all have different priorities in my life (roughly in that order).
 
-#TODO: unclear
-- I would like to batch process content in different "streams" regardless of their format. For example: I have two hours, let me work through intere my friends sent me last week. Or: show me all the interesting videos I've queued over the past month.
+- I would like to batch process content in different "streams" regardless of where they are stored. For example: I have two hours, let me work through interesting text content my friends sent me last week. Or: show me all the interesting/relevant videos I've queued over the past month.
 
 - I'm not always connected to a stable internet connection.
 
@@ -55,7 +44,10 @@ Where to begin? Probably the most common problem I see myself and other people d
 
 - I'd like a centralized history of content tied to my notes and annotations in case I want to find it again later. It feels like every week I'm speaking with someone and I remember a blog post I read a few months ago they might find relevant ... or was it a Reddit post? Can I find it my history? Oh no, it's been replaced with `[deleted]` ... find a archived copy... rinse and repeat. 
 
-Following my curiosity feels like chasing a caffeinated bunny around while real understanding requires time, perspective, and reflection. The internet makes the former much easier - so I find myself constantly trying to balance the two. Additionally, my energy and attention levels vary throughout the day and it's far easier to just open Twitter rather than continue reading a long-form article I started on my laptop two days ago. Too often I default to the lower-friction one.
+
+{{< figure src="https://imgs.xkcd.com/comics/icon_swap.png" caption="Relevant XKCD, as is tradition" position="center" >}}
+
+Following my curiosity feels like chasing a caffeinated bunny around while real understanding requires time, perspective, and reflection. The internet makes the former much easier - so I find myself constantly balancing the two. Additionally, my energy and attention levels vary throughout the day and it's far easier to just open Twitter rather than continue reading a long-form article I started on my laptop two days ago. Too often I default to the lower-friction one.
 
 Honorable Mentions: [Pocket](https://www.alfredapp.com/), [Instapaper](https://www.instapaper.com/)
 
@@ -85,7 +77,7 @@ Honorable Mentions: None :(
 
 ## Intelligent PDF viewers, eBook readers, audiobook & podcast players
 
-{{< figure src="/digital-tools/ebook-concept.png" caption="Functionality I want in my document reader" >}}
+{{< figure src="/digital-tools/ebook-concept.png" caption="Functionality I want in my document reader" position="center" >}}
 
 Reading is incredible and I love my Kindle. But eBooks today are just a step above OCR'ing a book and slapping on a few basic features which have existed for 30+ years. While I'm reading an eBook I want to:
 
@@ -103,7 +95,7 @@ Reading is incredible and I love my Kindle. But eBooks today are just a step abo
 
 - Let me use a digital or physical keyboard instead of an e-ink keyboard to type my annotations. A possibility here is a companion app, which feels like a notes app but ties my notes to their location/text in the book I'm reading.
 
-{{< figure src="/digital-tools/audiobook-player.png" caption="What I want my audiobook player to look like" >}}
+{{< figure src="/digital-tools/audiobook-player.png" caption="What I want my audiobook player to look like" position="center" >}}
 
 Most of these points above also apply to my experience listening to podcasts, audiobooks, and watching Youtube videos and interviews. I find myself wishing I could:
 
@@ -146,8 +138,8 @@ Honorable Mentions: [Memex by Worldbrain.io](https://worldbrain.io/), [Alfred](h
 
 ## Parting Thoughts
 
-I'm fascinated by the idea of bridging the gap between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. I wish I had something with the productivity potential of my computer when I was out and about in nature . Whether this will require slightly better virtual reality goggles or direct neural implants isn't quite evident yet. #https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ - outside pic? mention?
+I'm fascinated bridging the gap between our minds and our digital devices. A well-designed tool should disappear and allow complete attention to the task at hand, but digital devices today are far from this ideal - often due to arcane copyright laws or profit-seeking. These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. 
 
-These aren't new ideas by any means. See Vannevar Bush's [original conception](https://en.wikipedia.org/wiki/As_We_May_Think) of a memex over 70 years ago. We are way overdue for this. I see enormous potential at combining a true memex with our personal data (health, fitness, biometrics) along with our habits, goals, tasks, reflections, and communication tools. As information becomes more abundant, the connections drawn between disparate pieces of information are increasingly important. What's even more interesting are the connections someone else drew about information I am interested in. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
+It seems to me that as information becomes more abundant, the connections drawn between disparate pieces of it are increasingly important. The easier it is to share that structure with other people, the faster we can learn from each other. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
 
 I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy). My thanks to Arthur Tyukayev, Alex Ly, [David Heimann](https://twitter.com/davidmeh), [Em deGrandpré](https://twitter.com/ylimedeg), [Alexey Guzey](https://twitter.com/alexeyguzey), Sam Tkachuk, and [Brian Timar](https://twitter.com/briantimar) for reading drafts of this and providing wonderful feedback.
