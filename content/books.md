@@ -1,6 +1,5 @@
 ---
 title: "Books"
-date: 2019-11-25T10:58:30-05:00
 ---
 
 Favorite books by subject. Most of these fit into more than one so I had to pick one. I promise I'll make this more useful/interesting at some point. No particular order.
