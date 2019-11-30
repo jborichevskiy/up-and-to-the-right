@@ -1,9 +1,8 @@
 ---
 title: "Notable Problems, Projects, and People"
-date: 2019-11-12T23:20:00-04:00
 ---
 
-This is an attempt at listing problems and people in some way involved in potential solutions to them that I think are noteworthy. 
+Interesting problems, projects, and people. Continuously updated.
 
 ## Problems
 ### Better access to information and dissemination of knowledge
