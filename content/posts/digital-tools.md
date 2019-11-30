@@ -144,3 +144,5 @@ I'm fascinated with a better bridge between our minds and our digital devices. A
 It seems to me that as information becomes more abundant, the connections drawn between disparate pieces are becoming increasingly important. The easier it is to share that graph with other people, the faster we can learn from each other and understand complex relationships. I'm excited for a world where knowledge is easier to discover, validate, dispute, understand, retain, and share.
 
 I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy). My thanks to Arthur Tyukayev, Alex Ly, [David Heimann](https://twitter.com/davidmeh), [Em deGrandpré](https://twitter.com/ylimedeg), [Alexey Guzey](https://twitter.com/alexeyguzey), Sam Tkachuk, and [Brian Timar](https://twitter.com/briantimar) for reading drafts of this and providing wonderful feedback.
+
+[HN Discussion](https://news.ycombinator.com/item?id=21659876)

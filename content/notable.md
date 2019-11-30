@@ -23,6 +23,8 @@ This is an attempt at listing problems and people in some way involved in potent
 
 ## Misc Projects
 - [Sovrin](https://roamresearch.com/) a promising solution to the online identity problem. 
+- [Solid](https://solid.mit.edu/) is looking to restructure web application for a more privacy-first user-owned data model.
 
 ## People
+- [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak) is researching spaced repetition, incremental reading, memory, sleep, and a whole lot more.
 - Marshall Rosenberg's [Non-Violent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) is a great framework for thinking about and improving one's relationships. [HN](https://news.ycombinator.com/item?id=21263894).
