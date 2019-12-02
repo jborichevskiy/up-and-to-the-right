@@ -2,7 +2,9 @@
 title: "Books"
 ---
 
-Favorite books by subject. Most of these fit into more than one so I had to pick one. I promise I'll make this more useful/interesting at some point. No particular order.
+Favorite books by subject. Most of these fit into more than one so I had to pick one. 
+
+Have a recommendation for one that should be on this list? [Drop me a line!](/about)
 
 | Human Brain, Group Psychology, Networks |  |
 | ---- | ---- |

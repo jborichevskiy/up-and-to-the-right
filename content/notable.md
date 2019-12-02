@@ -7,6 +7,7 @@ Interesting problems, projects, and people. Continuously updated.
 ## Problems
 ### Better access to information and dissemination of knowledge
 - [RoamResearch](https://roamresearch.com/) is like Workflowy, but with graph support. Makes structured thought easier. This is very cool.
+- [Readwise](https://readwise.io) sends you a daily email with highlights from your books so you can think about them more often.
 - [Memex](https://worldbrain.io/) is a private full-text browser history search tool with support for annotations, collections, and highlights.
 - [Notion](https://www.notion.so/) is a beautiful app for collaboration and writing which pulls in much of the functionality of Airtable and Trello.
 

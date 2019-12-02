@@ -13,10 +13,10 @@ Mailchimp has no tracking or analytics enabled.
 ### TODO:
 [ ] RSS support (I KNOW)
 
-[ ] A bookshelf of some sort
-
 [ ] History of my Now entries
 
 [x] List of links I find interesting or informative
+
+[x] A bookshelf of some sort (2019-12-1)
 
 [x] An email subscription (2019-10-4)
