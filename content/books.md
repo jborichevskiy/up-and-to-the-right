@@ -13,7 +13,6 @@ Behave: The Biology of Humans at Our Best and Worst | Robert M. Sapolsky
 Brain that Changes Itself, The | Norman Doidge
 Man Who Mistook His Wife For A Hat, The | Oliver Sacks
 Nature Fix: Why Nature Makes Us Happier, Healthier, and More Creative, The | Florence Williams
-Wisdom of Crowds, The | James Surowiecki
 Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century | Howard Bloom
 Musicophilia | Oliver Sacks
 
@@ -99,3 +98,4 @@ Innovators | Walter Issacson
 Hillbilly Elegy | J. D. Vance
 Skygods: The Fall of Pan Am | Robert Gandt
 Space Barons, The | Christian Davenport
+On the Move: A Life | Oliver Sacks

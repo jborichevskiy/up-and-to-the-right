@@ -42,7 +42,7 @@ Where to begin? Probably the most common problem I see myself and other people d
 
 - I love to respond to a person's recommendation - preferably before they’ve forgotten why they sent me it in the first place.
 
-- I'd like a centralized history of content tied to my notes and annotations in case I want to find it again later. It feels like every week I'm speaking with someone and I remember a blog post I read a few months ago they might find relevant ... or was it a Reddit post? Can I find it my history? Oh no, it's been replaced with `[deleted]` ... find a archived copy... rinse and repeat. 
+- I'd like a centralized history of content tied to my notes and annotations in case I want to find it again later. It feels like every week I'm speaking with someone and I remember a blog post I read a few months ago they might find relevant ... or was it a Reddit post? Can I find it my history? Oh no, it's been replaced with `[deleted]` ... find an archived copy... rinse and repeat. 
 
 
 {{< figure src="https://imgs.xkcd.com/comics/icon_swap.png" caption="Relevant XKCD, as is tradition" position="center" >}}
@@ -146,3 +146,5 @@ It seems to me that as information becomes more abundant, the connections drawn 
 I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs next. Stay tuned [here](https://mailchi.mp/0e81591ed912/jborichevskiy). My thanks to Arthur Tyukayev, Alex Ly, [David Heimann](https://twitter.com/davidmeh), [Em deGrandpré](https://twitter.com/ylimedeg), [Alexey Guzey](https://twitter.com/alexeyguzey), Sam Tkachuk, and [Brian Timar](https://twitter.com/briantimar) for reading drafts of this and providing wonderful feedback.
 
 [HN Discussion](https://news.ycombinator.com/item?id=21659876)
+
+2019-12-09: fixes grammar
