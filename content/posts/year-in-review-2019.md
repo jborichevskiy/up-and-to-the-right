@@ -7,10 +7,10 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 
 ### Personal / Life
 
-- Be yourself. Because that’s the coolest version of yourself there is.
-- Dancing is cathartic. Just use the music as the metronome and rhythm and pretend you’re creating the music. Most importantly, have fun. 
+- Be yourself. Because that’s the coolest version of you there is.
+- Dancing is cathartic. Just use the music as the metronome and rhythm and move your body as if you’re creating the music. Most importantly, have fun. 
 - Harnessing curiosity is like pouring rocket fuel onto your learning capacity.
-- Creativity = time + inspiration + iterative output + feedback 
+- Creativity = time + inspiration + iterative output + feedback. Learn to nurture it. 
 - I'm not as unique as I thought I was growing up. There are a lot of people out there like me -- excited about the same future, and struggling with the same problems. Just gotta find each other.
 - Therapy is the first subscription service I can think of that forces you to take regular time out for yourself. It has a very real return on investment
 - [Sam Altman: The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
