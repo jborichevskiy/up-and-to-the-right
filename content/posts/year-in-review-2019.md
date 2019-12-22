@@ -1,6 +1,7 @@
 ---
 title: "Year in Review: 2019"
 date: 2019-12-20T19:18:27-05:00
+showPosts: true
 ---
 
 It's been a long year. I learned a lot about the world as well as myself. Cried more than ever. Accomplished a few things and failed at many more. Some reflections and observations, and related readings.
@@ -84,7 +85,7 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 
 ### The next decade is going to be absolutely wild. Some predictions:
 
-- In 10 years, we're going to look back at today's social media like we do doctors' endorsements of smoking back in the day. And just as shocked at our ignorance.
+- We're going to look back at today's social media like we do doctors' endorsements of smoking back in the day. And just as shocked at our ignorance.
 - Misinformation is going to become a serious problem. Deepfakes, [speech synthesis](https://google.github.io/tacotron/publications/speaker_adaptation/), [disinformation campaigns](https://archive.is/abR53), a lack of standardized identity proof systems, bots, and insecure electronic voting are going to make things very complicated. 
     - Validation of news and events will be done bottom-up with chains of trust. 
     - It's becoming easier to craft the reality we want to believe. Or want others to believe.
