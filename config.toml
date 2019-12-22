@@ -56,6 +56,10 @@ paginate = 5
         name = "Books"
         url = "/books"
       [[languages.en.menu.main]]
+        identifier = "Dense Index"
+        name = "Dense"
+        url = "/dense"
+      [[languages.en.menu.main]]
         identifier = "subscribe"
         name = "Subscribe"
         url = "https://mailchi.mp/0e81591ed912/jborichevskiy"
