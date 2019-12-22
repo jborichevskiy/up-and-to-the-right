@@ -78,7 +78,7 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 ### Meeting People
 
 - The key to good conversation: get the other person talking about things __they deeply care about__ and ask questions. You are providing to them a safe environment to explore, refine, and correct their ideas. In return, you get to learn something about them and the world. Explore your shared reality together.
-- It will be a long time before video communication comes close the emotional bandwidth of having a long, in-person conversation over a few drinks at a quiet bar. 
+- It will be a long time before video communication comes close to the emotional bandwidth of having a long, in-person conversation over a few drinks at a quiet bar. 
 - Just say hi. 
 
 {{< figure src="/year-in-review-2019/smoking.png" caption="A 1930 Lucky Strike advertisement. Source: History.com" position="center" height="500" width="300" attr="https://www.history.com/news/cigarette-ads-doctors-smoking-endorsement" >}}
