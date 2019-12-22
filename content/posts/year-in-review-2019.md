@@ -101,7 +101,7 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 
 ### Some numbers and special moments from this year
 
-- 99,792 minutes of Spotify this year
+- 99,792 minutes of Spotify
 - 3,701,520 steps
 - 6,840 flights climbed
 - 193 miles on a Citi Bike
@@ -110,7 +110,7 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 
 {{< figure src="/year-in-review-2019/IMG_8985.png" caption="The answer to 'do you want to drive to Yosemite tonight' is always yes." position="center" >}}
 
-{{< figure src="/year-in-review-2019/IMG_2451.png" caption="I have the coolest people in my life." position="center" >}}
+{{< figure src="/year-in-review-2019/IMG_2451.png" caption="I'm grateful for the most incredible people in my life." position="center" >}}
 
 {{< figure src="/year-in-review-2019/IMG_2885.png" caption="Second half-marathon down!" position="center" >}}
 
@@ -128,9 +128,12 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 
 {{< figure src="/year-in-review-2019/IMG_3286.png" caption="My dad ran his first marathon I and couldn't be more proud!" position="center" >}}
 
-### Things I've suspected for a while but really had confirmed this year
+{{< figure src="/year-in-review-2019/IMG_2424.png" caption="Summer in upstate New York has its moments." position="center" >}}
+
+### Things I've suspected a while but confirmed this year
 
 - The internet is the single most incredible invention in human history.
 - Most of humanity's potential has not been unlocked yet. We are just now starting to [explore progress](https://patrickcollison.com/progress) and how to quantify and understand it.
 - Getting out to nature regularly is essential to sanity.
+- Life gets *significantly* more interesting when you begin taking risks.
 - Nobody has any idea what is going on in this world. So let’s hold on tight and make this thing work. We’re all we got.

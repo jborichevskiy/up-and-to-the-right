@@ -2,32 +2,40 @@
 title: "Dense Index: An Experiment"
 ---
 
-An experimental design for an index page: all the content on my site on one page, searchable with CMD+F. 
+An experimental design for an index page: all the content on my site, searchable with CMD+F. 
 
 Feedback appreciated [here](/about). Script TBD.
 
+TODO: 
+
+- Formatting
+
+- Make all inter-blog links reference this page.
+
+- Add more views.
+
 # Post Titles and Dates
-["Notable Problems, Projects, and People"]( {{< relref path="#Notable-Problems-Projects-and-People" >}})
+"Notable Problems, Projects, and People"
 
-[2019-12-09 - "Now"]( {{< relref path="#Now" >}})
+2019-12-09 - "Now"
 
-["Books"]( {{< relref path="#Books" >}})
+"Books"
 
-[2019-07-14 - "Up and to the Where?"]( {{< relref path="#Up-and-to-the-Where" >}})
+2019-07-14 - "Up and to the Where?"
 
-[2019-07-13 - "Hello World"]( {{< relref path="#Hello-World" >}})
+2019-07-13 - "Hello World"
 
-[2019-08-06 - "On Moving Away"]( {{< relref path="#On-Moving-Away" >}})
+2019-08-06 - "On Moving Away"
 
-[2019-11-28 - "Digital Tools I Wish Existed"]( {{< relref path="#Digital-Tools-I-Wish-Existed" >}})
+2019-11-28 - "Digital Tools I Wish Existed"
 
-[2019-12-20 - "Year in Review: 2019"]( {{< relref path="#Year-in-Review-2019" >}})
+2019-12-20 - "Year in Review: 2019"
 
-[2019-10-12 - "Healthy Living"]( {{< relref path="#Healthy-Living" >}})
+2019-10-12 - "Healthy Living"
 
-[2019-09-08 - "Next Steps, 2019 Edition"]( {{< relref path="#Next-Steps-2019-Edition" >}})
+2019-09-08 - "Next Steps, 2019 Edition"
 
-[2019-08-31 - "Journaling"]( {{< relref path="#Journaling" >}})
+2019-08-31 - "Journaling"
 
 
 
@@ -59,7 +67,7 @@ Interesting problems, projects, and people. Continuously updated.
 
 ## People
 - [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak) is researching spaced repetition, incremental reading, memory, sleep, and a whole lot more.
-- Marshall Rosenberg's [Non-Violent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) is a great framework for thinking about and improving one's relationships. [HN](https://news.ycombinator.com/item?id=21263894). {#Notable-Problems-Projects-and-People}
+- Marshall Rosenberg's [Non-Violent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) is a great framework for thinking about and improving one's relationships. [HN](https://news.ycombinator.com/item?id=21263894).
 ## 2019-12-09 - "Now" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 Thinking a lot about personal information systems and how we discover, consume, and share content.
@@ -70,7 +78,7 @@ Learning Elixir.
 
 Doing contract work to pay the bills.
 
-[What's a Now page?](https://nownownow.com/about) {#Now}
+[What's a Now page?](https://nownownow.com/about)
 ## "Books" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 Favorite books by subject. Most of these fit into more than one so I had to pick one. 
@@ -169,7 +177,7 @@ Innovators | Walter Issacson
 Hillbilly Elegy | J. D. Vance
 Skygods: The Fall of Pan Am | Robert Gandt
 Space Barons, The | Christian Davenport
-On the Move: A Life | Oliver Sacks {#Books}
+On the Move: A Life | Oliver Sacks
 ## 2019-07-14 - "Up and to the Where?" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 The idea for the title of my site as well as the best description of my life philosophy I've read so far originally came from a [post](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html) of Tim Urban's I read a long time ago. The basic premise (though he does a much more wonderful job of explaining it and you should go read it now) is that as humans we are *somewhere* on the spectrum of consciousness. This *somewhere* is likely higher than that of a beetle's, and considerably higher than that of a plant's. But that's only what's going on below - what about above? Well, we don't know - like the classic saying, does an ant in a colony have the slightest conception about the construction of a ten-lane superhighway next to it? In the same way we may be staring at a higher form of consciousness in our daily lives and completely miss it for what it really is.
@@ -182,7 +190,7 @@ Eventually, like all such experiences, the view fades. The sun sets, the song en
 
 So, tying it all up again - why Up and to the Right? Because it's a reminder of the direction of progress, my own and humanity's at large. Like a compass heading; a sign of which way to go - but not a destination in and of itself. A route that may have ups and downs requiring continuous course correction as new information is acquired and understood. The direction towards the next step on that "consciousness staircase". And a reminder that any data is only smooth from far out - up close it is an inconsistent, noisy, and unrepresentative sample of the bigger picture. 
 
-Over time I've found various other descriptions of this feeling as described by people. To some extent I view religion as an organized attempt at finding, cultivating, and sharing that love and beauty - but an attempt that so often ends in only more pain and division for those involved. I believe many of us experience this feeling with our own distinct perspective colored by our unique life experiences, dreams, and memories. And that's precisely what makes it so wonderful to hear about other people's moments - it's the closest thing to see seeing reality through another person's eyes. In the words of Alan Watts, "you are the universe experiencing itself". Kurzeasgt calls it [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14). Tim Urban calls it Truthism. Carl Sagan calls it [spirituality](https://en.wikipedia.org/wiki/Carl_Sagan#Personal_life_and_beliefs) and that's the one that resonates most with me. Like many things, labels are only useful in describing and grouping similar things - and I'm learning that the most special things in life are also the hardest to label, explain, measure, and categorize. They just are.  {#Up-and-to-the-Where}
+Over time I've found various other descriptions of this feeling as described by people. To some extent I view religion as an organized attempt at finding, cultivating, and sharing that love and beauty - but an attempt that so often ends in only more pain and division for those involved. I believe many of us experience this feeling with our own distinct perspective colored by our unique life experiences, dreams, and memories. And that's precisely what makes it so wonderful to hear about other people's moments - it's the closest thing to see seeing reality through another person's eyes. In the words of Alan Watts, "you are the universe experiencing itself". Kurzeasgt calls it [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14). Tim Urban calls it Truthism. Carl Sagan calls it [spirituality](https://en.wikipedia.org/wiki/Carl_Sagan#Personal_life_and_beliefs) and that's the one that resonates most with me. Like many things, labels are only useful in describing and grouping similar things - and I'm learning that the most special things in life are also the hardest to label, explain, measure, and categorize. They just are. 
 ## 2019-07-13 - "Hello World" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 This is my first attempt at a blog. Somewhere to post my musings, observations, or just links to interesting things. Don't know what it'll become yet - guess we'll find out together.
@@ -191,7 +199,7 @@ I started journaling a few years ago and find it to be immensely helpful in sort
 
 Though I haven't been around for too long, I have had the privilege of witnessing some interesting events and meeting a ton of incredible people. Along the way I've learned a bit about myself and this amazing world, both good and bad. There are some things I'd love to tell my 18-year-old self - but given I can't do that due to some limitations with our understanding of time - the next best thing is reaching out to others searching for similar answers in hopes of lending an extra perspective. 
 
-If this sounds interesting at all, feel free to subscribe or just check back in a while.  {#Hello-World}
+If this sounds interesting at all, feel free to subscribe or just check back in a while. 
 ## 2019-08-06 - "On Moving Away" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 Occasionally I speak with people considering an opportunity to move away from the place they call home to somewhere entirely new - be it for work, school, temporarily or indefinitely. I remember myself making that decision and the questions I had swirling around in my head. Hopefully this assortment of words provides some insight or reassurance to someone else in a similar situation. 
@@ -235,7 +243,7 @@ In addition to all of this, I had a very fortunate set of circumstances that mad
 
 * NYC is an incredibly diverse city with some of the most accepting and open-minded people I’ve had the pleasure of meeting. Not all cities are like that, and I’m lucky I landed here.  
 
-This ended up being longer than I expected. But the key idea I want to leave off with is that life is an adventure - treat it as such. Nothing happens by default - you have to put yourself out there and and accept some non-zero level of risk. Sometimes that’s as simple as smiling at another person and saying hi; other times it’s packing up and moving across the country. But time and time again I learn that exploring the harder, more annoying, less clear, or less-traveled road ends up being so much more rewarding, worthwhile, and beautiful.  {#On-Moving-Away}
+This ended up being longer than I expected. But the key idea I want to leave off with is that life is an adventure - treat it as such. Nothing happens by default - you have to put yourself out there and and accept some non-zero level of risk. Sometimes that’s as simple as smiling at another person and saying hi; other times it’s packing up and moving across the country. But time and time again I learn that exploring the harder, more annoying, less clear, or less-traveled road ends up being so much more rewarding, worthwhile, and beautiful. 
 ## 2019-11-28 - "Digital Tools I Wish Existed" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 My digital life in a nutshell: I discover relevant content I don't have time to consume, I find time and become overwhelmed with my scattered backlog, I wish the content were in a different format, and then I'm unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 
@@ -382,7 +390,7 @@ I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs
 [HN Discussion](https://news.ycombinator.com/item?id=21659876)
 
 2019-12-09: fixes grammar
- {#Digital-Tools-I-Wish-Existed}
+
 ## 2019-12-20 - "Year in Review: 2019" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 It's been a long year. I learned a lot about the world as well as myself. Cried more than ever. Accomplished a few things and failed at many more. Some reflections and observations, and related readings.
@@ -482,7 +490,7 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 
 ### Some numbers and special moments from this year
 
-- 99,792 minutes of Spotify this year
+- 99,792 minutes of Spotify
 - 3,701,520 steps
 - 6,840 flights climbed
 - 193 miles on a Citi Bike
@@ -491,7 +499,7 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 
 {{< figure src="/year-in-review-2019/IMG_8985.png" caption="The answer to 'do you want to drive to Yosemite tonight' is always yes." position="center" >}}
 
-{{< figure src="/year-in-review-2019/IMG_2451.png" caption="I have the coolest people in my life." position="center" >}}
+{{< figure src="/year-in-review-2019/IMG_2451.png" caption="I'm grateful for the most incredible people in my life." position="center" >}}
 
 {{< figure src="/year-in-review-2019/IMG_2885.png" caption="Second half-marathon down!" position="center" >}}
 
@@ -509,13 +517,15 @@ It's been a long year. I learned a lot about the world as well as myself. Cried 
 
 {{< figure src="/year-in-review-2019/IMG_3286.png" caption="My dad ran his first marathon I and couldn't be more proud!" position="center" >}}
 
-### Things I've suspected for a while but really had confirmed this year
+{{< figure src="/year-in-review-2019/IMG_2424.png" caption="Summer in upstate New York has its moments." position="center" >}}
+
+### Things I've suspected a while but confirmed this year
 
 - The internet is the single most incredible invention in human history.
 - Most of humanity's potential has not been unlocked yet. We are just now starting to [explore progress](https://patrickcollison.com/progress) and how to quantify and understand it.
 - Getting out to nature regularly is essential to sanity.
+- Life gets *significantly* more interesting when you begin taking risks.
 - Nobody has any idea what is going on in this world. So let’s hold on tight and make this thing work. We’re all we got.
- {#Year-in-Review-2019}
 ## 2019-10-12 - "Healthy Living" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 For me, healthy living consists of sleeping well, a clean diet, frequent exercise, journaling, meditation, and socializing. Once in a while I let stress get the better of me and this causes my life to start spiraling and sliding out of control: deadlines start getting missed, emails pile up, I lose sight of my goals and life just gets overwhelming. It's not pretty. Like any engineer, after such times in my life I do a post-mortem of what went wrong and time and time again I've found one or more of these crucial habits disappeared causing others to disappear in a chain reaction. 
@@ -598,7 +608,7 @@ Once both the physical and mental needs are taken care of, it's time to go conne
 
 All of these habits tend to build on top of each other in a self-reinforcing upwards spiral of self-improvement. It's kind of magical. When everything is in alignment for me (sleep, fitness, diet, reflection, journaling, social life) I find my thoughts are clearer, I'm more motivated, I embody a more positive attitude, and am generally more fun to be around. It's not a coincidence. I'm extremely grateful I get to live in a society which at least offers the opportunity to develop these habits and this life structure. Unfortunately much of that ability comes down to money and flexibility - I hope someday everything I listed here is as accessible as our basic rights and freedoms. I would also like to see these methods and techniques taught in school - preferably in high school along with classes on personal finance management, filing taxes, and a deeper dive into our civic structures and responsibilities. 
 
-2019-11-21: added in link to Why We Sleep rebuttal {#Healthy-Living}
+2019-11-21: added in link to Why We Sleep rebuttal
 ## 2019-09-08 - "Next Steps, 2019 Edition" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 People have been asking me what I’m doing with my life, what my next steps are, where I’m going to be living, what my goals are, when I’m getting married, how many grandkids I’m going to have…. I wish I could tell them - because I sure as hell don’t know. Life's really unpredictable. What I do have instead is a rough outline of what I hope to achieve over the next decade or so. Subject to change as I learn more about myself and the world - this post will be continuously updated and I hope to re-visit it every year or so. In some ways this is what I've been doing for a while privately with my goals - but I figure it might be a good time to make it public to better connect with others who might be interested in working together without requiring a caffeinated in-person spiel from me every time. 
@@ -654,7 +664,7 @@ Eventually I intend to run something between an independent R&D lab and a startu
 
 Along the way I’d like to enjoy life, see a bit more of this planet, get married, maybe have kids, bike across the country, visit a bunch of national parks, and write a book or two. 
 
-If you have advice, questions, criticisms or offers of collaboration - you can reach me via the listed means on my [About](/about) page. I genuinely do look forward to hearing from you. {#Next-Steps-2019-Edition}
+If you have advice, questions, criticisms or offers of collaboration - you can reach me via the listed means on my [About](/about) page. I genuinely do look forward to hearing from you.
 ## 2019-08-31 - "Journaling" - [back to top]({{< relref path="#post-titles-and-dates" >}})
 
 A simple thing, on paper. Get a piece of it out and start writing. Or typing - doesn’t really matter. Anything and everything that comes to mind. It’s weird and unnatural at first - push through it. Save it, or burn it. Don’t overthink it. Wait a few days, and do it again, and again, and keep doing it. Four years into it and I’m just beginning to grasp the immensity of the benefits this simple habit has brought to my life - so I hope to share some of them with you. 
@@ -675,4 +685,4 @@ Looking back through my entries from earlier is a humbling experience, but it’
 
 2019-09-04: changed "so more than" to "so much more than".
 
-[HN Discussion](https://news.ycombinator.com/item?id=20849148) {#Journaling}
+[HN Discussion](https://news.ycombinator.com/item?id=20849148)
