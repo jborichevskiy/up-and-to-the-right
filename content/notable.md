@@ -1,12 +1,12 @@
 ---
-title: "Notable Problems, Projects, and People"
+title: "Notable"
 ---
 
-Interesting problems, projects, and people. Continuously updated.
+Interesting problems, curious projects, and fascinating people. Continuously updated.
 
 ## Problems
 ### Better access to information and dissemination of knowledge
-- [RoamResearch](https://roamresearch.com/) is like Workflowy, but with graph support. Makes structured thought easier. This is very cool.
+- [Roam Research](https://roamresearch.com/) is like Workflowy, but with graph support. Makes structured thought easier. This is very cool.
 - [Readwise](https://readwise.io) sends you a daily email with highlights from your books so you can think about them more often.
 - [Memex](https://worldbrain.io/) is a private full-text browser history search tool with support for annotations, collections, and highlights.
 - [Notion](https://www.notion.so/) is a beautiful app for collaboration and writing which pulls in much of the functionality of Airtable and Trello.
@@ -21,7 +21,7 @@ Interesting problems, projects, and people. Continuously updated.
 ## Lowering cost of access to space
 - [Launcher](https://launcherspace.com/) is lowering the price of getting small satellites to orbit.
 
-## Misc Projects
+## Fixing the internet
 - [Sovrin](https://roamresearch.com/) a promising solution to the online identity problem. 
 - [Solid](https://solid.mit.edu/) is looking to restructure web application for a more privacy-first user-owned data model.
 

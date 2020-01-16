@@ -15,6 +15,7 @@ Man Who Mistook His Wife For A Hat, The | Oliver Sacks
 Nature Fix: Why Nature Makes Us Happier, Healthier, and More Creative, The | Florence Williams
 Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century | Howard Bloom
 Musicophilia | Oliver Sacks
+Psychology of the Digital Age | John Suler
 
 | Life, Philosophy, Religion, Spirituality |  |
 | ---- | ---- |
@@ -29,6 +30,8 @@ Doors of Perception and Heaven and Hell | Aldous Huxley
 How to Change Your Mind | Michael Pollan
 Courage to be Disliked | Ichiro Kishimi
 Finite and Infinite Games | James Carse
+Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys | James Fadiman
+
 
 | Politics & Social Sciences |  |
 | ---- | ---- |
