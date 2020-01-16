@@ -1,8 +1,9 @@
 ---
-title: "Ideas"
+title: "Ideas I'm Thinking About"
 date: 2019-01-15
 ---
-A list of ideas I'm considering, usually somewhere on the scale between impractical and very impractical. I take no credit for most of these. Nothing new under the sun, right? If you are:
+
+A list of half-baked ideas I'm considering, usually somewhere on the scale between impractical and very impractical. I take no credit for most of these. Nothing new under the sun, right? If you are:
 
 * working on something which sounds like it's listed here
 
@@ -27,18 +28,15 @@ A list of ideas I'm considering, usually somewhere on the scale between impracti
     - Make my social media use more productive 
     - [Inspiration](https://twitter.com/hibyepie/status/1201533152038014978?s=20)
 
-## Information organization & discovery
+## Information organization, discovery, visualization
 
 - A service to auto-convert any uploaded PDF to HTML, host it, allow markup, discussions
     - Multiple uploads of same file redirect to same URL
-    - Good versioning
+    - Git-like versioning system
     - Could be hosted on [IPFS](https://ipfs.io/)?
     - Aggregate discussions from the internet (Reddit, HN)
-- Google results but mapped in 3D with results sortable by longevity, backlink count, search terms. Ability to cross-reference multiple searches. 
-
-## Data visualization
-
-- Timeline of one's life overlaid over much longer timeframes and significant events (company foundings, wars, country foundings, inventions, etc) to remind me how short life is
+- Google results but mapped in 3D with results sortable by longevity, backlink count, search terms. Ability to cross-reference multiple searches. Needs AR + high fidelity hand gestures to be useful. 
+- Timeline of one's life overlaid over much longer timeframes and significant events (company foundings, wars, country foundings, inventions, etc) to remind me how short life is.
 
 ## Browser improvements, extensions
 
@@ -46,13 +44,15 @@ A list of ideas I'm considering, usually somewhere on the scale between impracti
 
 ## Tech support tools
 
-- A service to let family members collaboratively manage an email for older/non-tech savvy relatives to prevent phishing and have easy access.
+- A service to let family members collaboratively manage an email for older/non-tech savvy relatives to prevent phishing, and to maintain easy access for tech support.
 
-## Productivity
+## Productivity & Health
 
 - Try associating left hand phone use with productive things like reading and flashcard review, and right hand with social media
     - Not sure if this would actually help anything
+- Disconnect Day: no internet whatsoever, save for 2 email checks. Ideally weekly.
 
-# This ideas page
+## This page
 
 - Upvote and downvote buttons
+- Tags

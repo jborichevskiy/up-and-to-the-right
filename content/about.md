@@ -10,7 +10,7 @@ My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
 **Always** • I enjoy learning and building things with computers. Passionate about cognitive science, environmental sustainability, and software engineering. Hoping to connect the three. 
  
-**Future** • Looking for opportunities to connect my passions with solving big problems - if you have a suggestion, please reach out via below links. Areas of interest include improving collaborative knowledge, cleaner energy, effective education and therapy, lowering access cost to space, artificial intelligence, and better institutional and democratic decision-making. [My next steps](/posts/next-steps-2019).
+**Future** • Looking for opportunities to connect my passions with solving big problems - if you have a suggestion, please reach out via below links. Areas of interest include improving collaborative knowledge, cleaner energy, effective education and therapy, lowering access cost to space, artificial intelligence, and better institutional and democratic decision-making. [My next steps](/posts/next-steps-2019) and a page of [ideas](/ideas) I'm thinking about.
 
 **Now** • See my [Now](/now) page.
 

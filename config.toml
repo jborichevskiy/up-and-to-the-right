@@ -60,6 +60,14 @@ paginate = 5
         name = "Dense"
         url = "/dense"
       [[languages.en.menu.main]]
+        identifier = "notable"
+        name = "Notable"
+        url = "/notable"
+      [[languages.en.menu.main]]
+        identifier = "ideas"
+        name = "Ideas"
+        url = "/Ideas"
+      [[languages.en.menu.main]]
         identifier = "subscribe"
         name = "Subscribe"
         url = "https://mailchi.mp/0e81591ed912/jborichevskiy"
