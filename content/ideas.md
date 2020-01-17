@@ -1,6 +1,6 @@
 ---
 title: "Ideas I'm Thinking About"
-date: 2019-01-15
+date: 2019-01-17
 ---
 
 A list of half-baked ideas I'm considering, usually somewhere on the scale between impractical and very impractical. I take no credit for most of these. Nothing new under the sun, right? If you are:
@@ -13,11 +13,9 @@ A list of half-baked ideas I'm considering, usually somewhere on the scale betwe
 
 * or want to tell me why it won't work and I'm an idiot
 
-... [get in touch](/about)! - I'd love to be a sounding board or an advisor or something in between.
+... then you should [get in touch](/about). I'd love to be a sounding board or just chat about interesting things! Inspired by [this page](https://beepb00p.xyz/ideas.html).
 
 ---
-
-* Everything described in my [Digital Tools I Wish Existed](/posts/digital-tools) post
 
 ## Collaboration & learning
 
@@ -30,6 +28,7 @@ A list of half-baked ideas I'm considering, usually somewhere on the scale betwe
 
 ## Information organization, discovery, visualization
 
+- Everything described in my [Digital Tools I Wish Existed](/posts/digital-tools) post
 - A service to auto-convert any uploaded PDF to HTML, host it, allow markup, discussions
     - Multiple uploads of same file redirect to same URL
     - Git-like versioning system
