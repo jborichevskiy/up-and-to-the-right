@@ -148,3 +148,7 @@ I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs
 [HN Discussion](https://news.ycombinator.com/item?id=21659876)
 
 2019-12-09: fixes grammar
+
+## Appendix
+
+[The sad state of personal data and infrastructure (beepb00p.xyz)](https://beepb00p.xyz/sad-infra.html)

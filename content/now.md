@@ -7,7 +7,7 @@ Writing a long blog post about writing long blog posts.
 
 Continuing to think about social networks and learning on the internet. 
 
-Reading [50 Great Myths of Popular Psychology](https://smile.amazon.com/Great-Myths-Popular-Psychology-Misconceptions/dp/1405131128) and listening to [Idea Factory: Bell Labs and the Great Age of American Innovation](https://smile.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797/ref=sr_1_1?keywords=idea+factory&qid=1579163841&s=books&sr=1-1) ([source](https://patrickcollison.com/labs)).
+Reading [50 Great Myths of Popular Psychology](https://smile.amazon.com/Great-Myths-Popular-Psychology-Misconceptions/dp/1405131128) and [Foundation](https://smile.amazon.com/Foundation-Isaac-Asimov/dp/0553293354). Listening to [Attached](https://smile.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139).
 
 Continuing to learn Elixir. 
 

@@ -40,7 +40,7 @@ Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier
 Alone Together: Why We Expect More from Technology and Less from Each Other | Sherry Turkle
 Amusing Ourselves to Death | Neil Postman
 Nothing Is True and Everything Is Possible | Peter Pomerantsev
-The Master Switch | Tim Wu
+Master Switch, The | Tim Wu
 
 | Behavioral Economics | |
 | ---- | ---- |
@@ -66,13 +66,18 @@ Nineteen Eighty Four | George Orwell
 Singularity Is Near: When Humans Transcend Biology | Ray Kurzweil
 Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World, The | Pedro Domingos
 
-| Startups, Business, Career |  |
+| Startups, Business, Career, Institutions |  |
 | ---- | ---- |
 Zero to One | Peter Thiel
 Range: Why Generalists Triumph in a Specialized World | David Epstein
 How to Fail at Almost Everything and Still Win Big | Scott Adams 
 Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win | Gene Kim
 Deep Work: Rules for Focused Success in a Distracted World | Cal Newport
+Idea Factory: Bell Labs and the Great Age of American Innovation, The | Jon Gertner
+Skunk Works: A Personal Memoir of My Years at Lockheed | Ben R. Rich
+Masters of Doom	| David Kushner
+One Click: Jeff Bezos and the Rise of Amazon.com | Richard L. Brandt
+Hatching Twitter | Nick Bilton
 
 | Finance and Economics |  |
 | ---- | ---- |
@@ -81,20 +86,17 @@ Rich Dad Poor Dad | Robert T. Kiyosaki
 Skin in the Game: Hidden Asymmetries in Daily Life | Nassim Nicholas Taleb
 Economics in One Lesson | Henry Hazlitt
 
-| Memoris, Bibliographies, and Business History |  |
+| Memoris & Bibliographies |  |
 | ---- | ---- |
 Educated: A Memoir | Tara Westover
-Skunk Works: A Personal Memoir of My Years at Lockheed | Ben R. Rich
 Remains of the Day | Kazuo Ishiguro
 Ghost in the Wires | Kevin Mitnick
-The Smartest Guys in the Room | Bethany McLean
+Smartest Guys in the Room, The | Bethany McLean
 Andrew Carnegie | David Nasaw
 Countdown to Zero Day | Kim Zetter
 Surely You're Joking, Mr Feynman | Richard Feynman
-The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus | Richard Preston
-One Click: Jeff Bezos and the Rise of Amazon.com | Richard L. Brandt
+Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus, The | Richard Preston
 Blind Man's Bluff: The Untold Story of American Submarine Espionage | Sherry Sontag, Christopher Drew, Annette Lawrence Drew
-Masters of Doom	| David Kushner
 Total Recall | Arnold Schwarzenegger
 Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future | Ashlee Vance
 Innovators | Walter Issacson
@@ -102,3 +104,4 @@ Hillbilly Elegy | J. D. Vance
 Skygods: The Fall of Pan Am | Robert Gandt
 Space Barons, The | Christian Davenport
 On the Move: A Life | Oliver Sacks
+Fear and Loathing in Las Vegas | Hunter S. Thompson
