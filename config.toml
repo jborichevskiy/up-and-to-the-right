@@ -32,7 +32,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Up and to the Right"
-      logoHomeLink = "/"
+      logoHomeLink = "/about"
     # or
     #
     # path = "/img/your-example-logo.svg"

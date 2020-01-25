@@ -4,17 +4,19 @@ type = "single"
 ShowPosts = false
 +++
 
-<img src="/profile.png" alt="photo of me" width="400"/>
+<img src="/profile.png" alt="photo of me" width="350"/>
 
 My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
-**Always** • I enjoy learning and building things with computers. Passionate about cognitive science, environmental sustainability, and software engineering. Hoping to connect the three. 
+**Always** • I enjoy learning and building things with computers. Passionate about cognitive science, environmental sustainability, and software engineering. Hoping to connect the three. [My life philosophy](/posts/up-and-to-where).
  
-**Future** • Looking for opportunities to connect my passions with solving big problems - if you have a suggestion, please reach out via below links. Areas of interest include improving collaborative knowledge, cleaner energy, effective education and therapy, lowering access cost to space, artificial intelligence, and better institutional and democratic decision-making. [My next steps](/posts/next-steps-2019) and a page of [ideas](/ideas) I'm thinking about.
+**Future** • Looking for opportunities to connect my passions with solving big problems - if you have a suggestion, please reach out via below links. Areas of interest include improving collaborative knowledge, cleaner energy, effective education and therapy, lowering access cost to space, artificial intelligence, and better institutional and democratic decision-making. I aim to be running my own R&D lab by 2030. [My next steps](/posts/next-steps-2019).
 
-**Now** • See my [Now](/now) page.
+**Now** • See my [Now](/now) page, and a list of [ideas](/ideas) I'm thinking about.
 
-**Before** • Founding Engineer at [Vigilant](https://vigilant.cc), where I worked on acquiring lots of public data, back-end development skills, and some SRE experience. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. Born and raised in Sacramento, California. 
+**Before** • Founding Engineer at [Vigilant](https://vigilant.cc), where I worked on acquiring lots of public data, back-end development skills, and some SRE experience. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. [Born and raised](/posts/on-moving-away) in Sacramento, California. 
+
+I believe [journaling](/posts/journaling) is an incredible tool for self-growth. A [writeup](/posts/healthy-living) of the habits keeping me sane and healthy.
 
 Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9) but residing in New York City on the Lower East Side for now. If you're here, let's meet! Otherwise, contact me via means below.
 
