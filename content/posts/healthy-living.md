@@ -2,7 +2,7 @@
 title: "Healthy Living"
 date: 2019-10-12T16:53:37-04:00
 showPosts: true
-tag: life,fitness,meditation,exercise,running,health,meals,journaling
+tags: [life,fitness,meditation,exercise,running,health,meals,journaling]
 ---
 
 For me, healthy living consists of sleeping well, a clean diet, frequent exercise, journaling, meditation, and socializing. Once in a while I let stress get the better of me and this causes my life to start spiraling and sliding out of control: deadlines start getting missed, emails pile up, I lose sight of my goals and life just gets overwhelming. It's not pretty. Like any engineer, after such times in my life I do a post-mortem of what went wrong and time and time again I've found one or more of these crucial habits disappeared causing others to disappear in a chain reaction. 
@@ -85,4 +85,4 @@ Once both the physical and mental needs are taken care of, it's time to go conne
 
 All of these habits tend to build on top of each other in a self-reinforcing upwards spiral of self-improvement. It's kind of magical. When everything is in alignment for me (sleep, fitness, diet, reflection, journaling, social life) I find my thoughts are clearer, I'm more motivated, I embody a more positive attitude, and am generally more fun to be around. It's not a coincidence. I'm extremely grateful I get to live in a society which at least offers the opportunity to develop these habits and this life structure. Unfortunately much of that ability comes down to money and flexibility - I hope someday everything I listed here is as accessible as our basic rights and freedoms. I would also like to see these methods and techniques taught in school - preferably in high school along with classes on personal finance management, filing taxes, and a deeper dive into our civic structures and responsibilities. 
 
-2019-11-21: added in the rebuttal to Why We Sleep
+2019-11-21: added in link to Why We Sleep rebuttal

@@ -1,7 +1,7 @@
 ---
 title: "Next Steps, 2019 Edition"
 date: 2019-09-08T10:26:33-07:00
-tag: life, work, career
+tags: [life, work, career, goals]
 showPosts: true
 ---
 

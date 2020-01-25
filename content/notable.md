@@ -10,6 +10,7 @@ Interesting problems, curious projects, and fascinating people. Continuously upd
 - [Readwise](https://readwise.io) sends you a daily email with highlights from your books so you can think about them more often.
 - [Memex](https://worldbrain.io/) is a private full-text browser history search tool with support for annotations, collections, and highlights.
 - [Notion](https://www.notion.so/) is a beautiful app for collaboration and writing which pulls in much of the functionality of Airtable and Trello.
+- [Brave](https://brave.com/) is a browser built to reward creators directly instead of through advertising. 
 
 ### Cleaner energy production, energy efficiency, carbon sequestration 
 - [AirCare](https://get.air.care/) lets you offset your flight in seconds.

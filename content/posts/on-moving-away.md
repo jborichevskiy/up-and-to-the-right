@@ -1,7 +1,7 @@
 ---
 title: "On Moving Away"
 date: 2019-08-06T16:50:37-04:00
-tag: life,startups,cities
+tags: [life,startups,cities,growth]
 ShowPosts: true
 ---
 
