@@ -24,4 +24,4 @@ But most of all, I'm utterly appalled at the fact that it's 2020 and __this__ is
 
 I'm still an optimist at heart, and I think the future holds amazing potential. But things are going to have to change; from banning planned obsolescence to establishing standards around how many notifications a human being is allowed to receive within a 12-hour period. And most of all I hope organizations will be willing to take risks again, at solving bigger problems than the size of their shareholder's returns. Coming up with solutions the great-grandchildren of the founders might one day look back at in awe. Here's to that more hopeful future. 
 
-P.S. to add insult to injury, I set it up as a new phone and it pulled my Screen Time settings from my iCloud account. Send help.
+P.S. to add insult to injury, I set it up as a new phone and it still pulled my Screen Time settings from my iCloud account. Send help.
