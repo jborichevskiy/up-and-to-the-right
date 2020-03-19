@@ -1,6 +1,7 @@
 ---
 title: "The Concentration Compromise"
 date: 2020-02-22T15:42:47-05:00
+tags: ["productivity"]
 ---
 
 Ever since getting onto the internet I've had a massive problem remaining productive and focused on the task at hand. This post describes the system I'm developing to help me cope with this sea of distractions, and I hope it might help you as well. Years of fighting myself with various productivity techniques, internet configurations, and browser extensions has led me to finally accept two opposing elements of my psychology:

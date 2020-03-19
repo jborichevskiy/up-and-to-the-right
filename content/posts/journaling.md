@@ -1,7 +1,7 @@
 ---
 title: "Journaling"
 date: 2019-08-31T13:49:01-07:00
-tags: [life,writing,habits]
+tags: ["life", "writing", "habits"]
 ShowPosts: true
 ---
 

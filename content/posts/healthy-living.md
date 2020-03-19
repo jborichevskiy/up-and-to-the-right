@@ -2,7 +2,7 @@
 title: "Healthy Living"
 date: 2019-10-12T16:53:37-04:00
 showPosts: true
-tags: [life,fitness,meditation,exercise,running,health,meals,journaling]
+tags: ["life", "fitness", "meditation", "exercise", "running", "health", "journaling", "productivity"]
 ---
 
 For me, healthy living consists of sleeping well, a clean diet, frequent exercise, journaling, meditation, and socializing. Once in a while I let stress get the better of me and this causes my life to start spiraling and sliding out of control: deadlines start getting missed, emails pile up, I lose sight of my goals and life just gets overwhelming. It's not pretty. Like any engineer, after such times in my life I do a post-mortem of what went wrong and time and time again I've found one or more of these crucial habits disappeared causing others to disappear in a chain reaction. 
