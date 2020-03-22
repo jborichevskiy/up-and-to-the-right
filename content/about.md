@@ -18,7 +18,7 @@ My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
 I find [journaling](/posts/journaling) an incredible tool for growth. [My productivity system](/posts/concentration-compromise), and a [writeup of my habits](/posts/healthy-living).
 
-Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9) but residing in New York City on the Lower East Side for now. If you're here, let's meet! Otherwise, contact me via means below.
+Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9) but residing in Sacramento, CA for now. 
 
 [Email me](mailto:jonathan@borichevskiy.com) • [Twitter](https://twitter.com/jborichevskiy) • Happy to do a phone/video call.
 
