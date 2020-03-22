@@ -13,4 +13,4 @@ Popping into Gleb's [Blog Club](https://posobin.com/blogclub/) now and then.
 
 Building an MVP in Elixir/Phoenix.
 
-[What's a Now page?](https://nownownow.com/about)
+[Past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/commits/master/content/now.md) • [What's a Now page?](https://nownownow.com/about)
