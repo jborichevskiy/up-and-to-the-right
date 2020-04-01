@@ -1,12 +1,15 @@
 ---
 title: "Hello Strange, New World"
-subtitle: "Jonathan's Patch Notes :: ep 0"
+subtitle: "Jonathan's Patch Notes :: Version 0"
 date: 2020-03-29T22:20:23-07:00
+tags: ["newsletters", "social media", "productivity", "roam research", "writing"]
 ---
 
 Hello! You’re receiving this because you are subscribed to major updates/new posts on my site, [jborichevskiy.com](https://jborichevskiy.com). That will remain the case. 
 
 I’m also starting a newsletter! I'm sending out the first one here, but subsequent newsletters will be delivered through Substack at [jborichevskiy.substack.com](https://jborichevskiy.substack.com) and will be free forever. Go subscribe there if you want more of these. I'll probably move off of Substack eventually but it seems to be simplest solution right now.
+
+It's also worth noting this one turned out 2-3x as long as what I expect the typical one to be.
 
 ---------------
 
@@ -62,7 +65,7 @@ How is what I’m trying to do _not_ like an email newsletter?
 
 - **You shouldn’t rely on it as a way of keeping up with the world.** While I agree [newsletters may play a role in future journalism](https://twitter.com/balajis/status/1244425310826725377?s=20) I would much rather focus on writing [evergreen content](https://twitter.com/m_ashcroft/status/1236727465915174917?s=20). I’m not saying I’m not mentioning coronavirus in this episode but that I would _much rather write about my experience with it all_.
 
-- **The format will leave email eventually.** I don’t know what this future format looks like yet. I haven’t seen anything that fits the bill yet, and I might just start building at some point. What I do know is the closest parallel I could have today is a changelog of my Roam Research database combined with a stream of URLs I visit along with the highlights and annotations I’m making to content, regardless of medium. ([relevant tweet](https://twitter.com/jborichevskiy/status/1232719739635609600?s=20)) (there will be a lot of these. I practically think in tweets nowadays).
+- **The format will leave email eventually.** I don’t know what this future format looks like yet. I haven’t seen anything that fits the bill so I might just start building it at some point. The closest parallel I could have today is a changelog of my Roam Research database combined with a stream of URLs I visit along with the highlights and annotations I’m making to them. ([relevant tweet](https://twitter.com/jborichevskiy/status/1232719739635609600?s=20)) (there will be a lot of these. I practically think in tweets nowadays).
 
 - **It’s not meant to be read fully.** I’ll do my best to use • bullet • points, **bolding**, _italics_, and whatever else I can think of to make this as skimmable as possible for you. So don’t feel bad for opening it and not finishing it. It’s my job to make sure it’s easy to stay informed on whatever it is you’re following me about. 
 
@@ -74,7 +77,7 @@ How is what I’m trying to do _not_ like an email newsletter?
 
 - I am safe and fortunate enough to be financially stable for the time being. I’ve left New York for Sacramento, CA to be closer with family and I’m not sure when I’ll be back. 
 
-    - It’s funny how similar my life is right now to my high school days. Since I did independent study from tenth grade onwards (like homeschooling, except I learned myself) my days were pretty exactly like they are right now: wake up - eat - work in my room - work out or run - back to the room for online socializing and entertainment - bed. It’s uncanny, really.
+    - It’s funny how similar my life is right now to my high school days. Since I did independent study from tenth grade onwards (like homeschooling, except I learned myself) my days were pretty much exactly like they are right now: wake up - eat - work in my room - work out or run - back to the room for online socializing and entertainment - bed. It’s uncanny, really.
 
     - This also has the benefit of giving me access to beautiful nature (pictured above) just a 10-minute walk away. I’m not taking it for granted - in fact, it’s really the only way I’m staying sane right now. 
 

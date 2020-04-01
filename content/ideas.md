@@ -1,6 +1,6 @@
 ---
 title: "Ideas I'm Thinking About"
-date: 2020-02-16
+date: 2020-03-31
 ---
 
 A list of half-baked ideas I'm considering, usually somewhere on the scale between impractical and very impractical. I take no credit for most of these. Nothing new under the sun, right? If you are:
@@ -24,11 +24,14 @@ A list of half-baked ideas I'm considering, usually somewhere on the scale betwe
     - Phrased differently: how can I chat with 5 other people obsessed with the same thing as I am this week? Be it a concept, company, question, or idea?
 - Online video discussion platform with automatic transcription, Reddit-style upvoting for questions, auto-merging of similar questions, deep-links to referenced books, talks, podcasts and an auto archive version.
     - Balaji S. Srinivasan: Someone should build Zoom for full remote conferences, and do it right now. ([Twitter thread](https://twitter.com/balajis/status/1229111845673459714?s=21))
+    - @DennyCloudhead: I wish holding a conference in VR was a thing but current gen is like trying to hold a nuanced, serious business conversation at a furry convention. Until facial tracking is front-and-center, we have a long way to go until VR actually works for personable/readable conversation. [tweet](https://twitter.com/DennyCloudhead/status/1233839394416713728?s=20)
 - A private Twitter account only I follow, sourcing tweets from Readwise + Anki
     - Retweet / Like can be used to signal how soon I want to see it again. 
     - Make my social media use more productive 
     - [Inspiration](https://twitter.com/hibyepie/status/1201533152038014978?s=20)
 - Livestream a group of programmers (remote, in-person?) collaboratively building something over the course of a week ... open source on Twitch. 
+
+{{< tweet 1205206517101858816 >}}
 
 ## Information organization, discovery, visualization
 
@@ -46,6 +49,9 @@ A list of half-baked ideas I'm considering, usually somewhere on the scale betwe
 ## Browser improvements, extensions
 
 - An extension to color text on Wikipedia according to how long it's been part of the page.
+- Wikipedia homepage customized to my interests, topics I'm following, and articles I shared/highlighted previously.
+    - Inspiration: [@krrishd: wish wikipedia had a homepage that knew me like youtube](https://twitter.com/krrishd/status/1244823438482477056?s=20)
+- Wikipedia: search mode that lists all articles which cite particular book/website as a reference. ([tweet](https://twitter.com/jborichevskiy/status/1245057282229932032?s=20))
 
 ## Tech support tools
 
