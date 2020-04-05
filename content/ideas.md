@@ -1,6 +1,6 @@
 ---
-title: "Ideas I'm Thinking About"
-date: 2020-03-31
+title: "Ideas I'm Thinking or Excited About"
+date: 2020-04-05
 ---
 
 A list of half-baked ideas I'm considering, usually somewhere on the scale between impractical and very impractical. I take no credit for most of these. Nothing new under the sun, right? If you are:
@@ -12,6 +12,8 @@ A list of half-baked ideas I'm considering, usually somewhere on the scale betwe
 * or want to save me time by pointing me to an existing solution
 
 * or want to tell me why it won't work and I'm an idiot
+
+* have something that belongs on here
 
 ... then you should [get in touch](/about). I'd love to be a sounding board or just chat about interesting things! Inspired by [this page](https://beepb00p.xyz/ideas.html).
 
@@ -45,6 +47,11 @@ A list of half-baked ideas I'm considering, usually somewhere on the scale betwe
 - Timeline of one's life overlaid over much longer timeframes and significant events (company foundings, wars, country foundings, inventions, etc) to remind me how short life is.
 - Voice interfaces (Alexa, Google Voice, etc) should pause the audio/video stream at the timecode the first cyclable was uttered, not at that point it finished transcribing your speech.
     - I suspect this would make them feel much snappier. 
+- Browsers are basically dumpster fires and should be re-built from the ground up
+    - [Nikolas Klein: Tab Sort — Improving Tabs in Firefox](https://blog.prototypr.io/tab-sort-improving-tabs-in-firefox-9a727754e8d0#.tj942couz)
+- [Future of Information](http://futureofinformation.com/): an exploration of how information might be represented digitally in a more reasonable way
+
+{{< tweet 1209715374561693696>}}
 
 ## Browser improvements, extensions
 

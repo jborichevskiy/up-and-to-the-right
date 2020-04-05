@@ -29,3 +29,4 @@ Interesting problems, curious projects, and fascinating people. Continuously upd
 ## People
 - [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak) is researching spaced repetition, incremental reading, memory, sleep, and a whole lot more.
 - Marshall Rosenberg's [Non-Violent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) is a great framework for thinking about and improving one's relationships. [HN](https://news.ycombinator.com/item?id=21263894).
+- [Josiah Zayner](http://www.josiahzayner.com/2017/01/genetic-designer-part-i.html) is doing some fascinating work around bio-hacking.
