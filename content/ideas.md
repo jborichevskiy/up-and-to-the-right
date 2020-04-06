@@ -31,6 +31,7 @@ A list of half-baked ideas I'm considering, usually somewhere on the scale betwe
     - Retweet / Like can be used to signal how soon I want to see it again. 
     - Make my social media use more productive 
     - [Inspiration](https://twitter.com/hibyepie/status/1201533152038014978?s=20)
+    - [@MehranJal: Spaced Repetition Social Media](http://mjala.li/spacedrepetition.html)
 - Livestream a group of programmers (remote, in-person?) collaboratively building something over the course of a week ... open source on Twitch. 
 
 {{< tweet 1205206517101858816 >}}
