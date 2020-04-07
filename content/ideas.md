@@ -61,6 +61,10 @@ A list of half-baked ideas I'm considering, usually somewhere on the scale betwe
     - Inspiration: [@krrishd: wish wikipedia had a homepage that knew me like youtube](https://twitter.com/krrishd/status/1244823438482477056?s=20)
 - Wikipedia: search mode that lists all articles which cite particular book/website as a reference. ([tweet](https://twitter.com/jborichevskiy/status/1245057282229932032?s=20))
 
+## Software development & debugging
+
+{{< tweet 1247267933383872512>}}
+
 ## Tech support tools
 
 - A service to let family members collaboratively manage an email for older/non-tech savvy relatives to prevent phishing, and to maintain easy access for tech support.
