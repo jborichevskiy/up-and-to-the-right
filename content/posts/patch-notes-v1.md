@@ -30,7 +30,7 @@ _In this version:_
 
 ## How do we throw online parties properly?
 
-Part of what makes New York City such an incredible place is the density allowing for groups of diverse people to come together, meet each other, and have a good time. There were two types of gatherings I enjoyed: friend-of-friend parties where you walk around and meet a bunch of people (<25-30 people total) and concerts/clubs/music festivals (up into the thousands). **As both types are gone for the forseeable future, I've been thinking about how we might replicate them online.**
+Part of what makes New York City such an incredible place is the density allowing for groups of diverse people to come together, meet each other, and have a good time. There were two types of gatherings I enjoyed: friend-of-friend parties where you walk around and meet a bunch of people (<25-30 people total) and concerts/clubs/music festivals (up into the thousands). **As both types are gone for the foreseeable future, I've been thinking about how we might replicate them online.**
 
 The former seems reasonably easy to replicate online but anyone who's been in an online conference call with more than 10 people knows it gets messy very, very fast. You either have to have a strict order to who talks when or you get chaos -- and parties aren't seminars. Breakout rooms exist, sure, but a _house party doesn't have breakout rooms._ Instead it has clusters of people talking about an idea/question/event, to which people can naturally wander up to or leave at will. The conversation topic will shift over time as well, so trying to assign a topic to a room would be useless.
 
