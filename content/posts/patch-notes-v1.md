@@ -78,7 +78,7 @@ As far as movie night parties go, the [NetflixParty chrome extension](https://ch
 
 **Made some progress getting my Tweets out of Twitter.** No, this wasn't easy. Look, I'm a software developer, I do this stuff for a living. I'm not saying I'm a good one, just that I do this a lot and have come to reasonable expectations about how online platforms should let us access data. A short timeline of my experience thus far:
 
-- The exported archive of my account doesn't include my bookmarks, but it does contain 20x more data on my ad impressions than than **all my other data combined**.
+- The exported archive of my account doesn't include my bookmarks, but it does contain 20x more data on my ad impressions than **all my other data combined**.
 
 {{< figure src="/patch-notes/ep-1-screenshot.png" position="center" >}}
 
