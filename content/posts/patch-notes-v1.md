@@ -6,10 +6,23 @@ tags: ["social media", "spatial audio", "mixed reality", "remote tools", "westwo
 
 ---
 
-This is an episode from Jonathan's Patch Notes, a weekly braindump of things I'm leaning, building, or thinking about. Subscribe on Substack [here](https://jborichevskiy.substack.com/).
+These are my weekly Patch Notes -- a log of the mental model updates I'm making and a braindump of things I'm leaning, building, or thinking about. Subscribe on Substack [here](https://jborichevskiy.substack.com/).
 
 -----------
 
+_In this version:_
+
+- An exploration into virtual online parties and how we might make them happen
+
+- My journey in extracting Twitter's bookmarks 
+
+- Software is hard, and some reassuring quotes
+
+- Cool remote tools I've been using
+
+- Westworld thoughts
+
+- Awakening from the Meaning Crisis
 
 > The visual and spatial qualities of avatar worlds lead to something that is lacking in the text-only environments of cyberspace – something that has a subtle, yet profound impact on socializing: human interaction feels embodied.
 
@@ -33,7 +46,7 @@ The former seems reasonably easy to replicate online but anyone who's been in an
 
 {{<tweet 1246966005877731330 >}}
 
-As presented by Azlen here, one interesting solution to this is positional/spatial audio. 
+As presented by Azlen, one interesting solution worth exploring here is positional/spatial audio. 
 
 > Azlen: This opens up so many possibilities for online interaction
 
@@ -47,13 +60,15 @@ As presented by Azlen here, one interesting solution to this is positional/spati
 > - go back to slide you missed without interrupting
 > - feel more spatially aware of other students
 
-Up until now, the most common applications of this have been in virtual reality (VR) such as in [AltVR](https://altvr.com/). As much as I like VR (I own a first-gen HTC Vive and am largely still excited about the whole idea) I've accepted it's going to be a long while before the {group of people I want to potentially meet} intersects enough with {people who own VR headsets}. So we should be exploring options accessible from a laptop, or even a phone to have the level of adoption we're looking for.
+Up until now, the most common applications of this I've seen have been in virtual reality (VR) such as in [AltVR](https://altvr.com/). As much as I like VR (I own a first-gen HTC Vive and am largely still excited about the whole idea) I've accepted it's going to be a long while before the {group of people I want to potentially meet} intersects enough with {people who own VR headsets}. So in order to have the level of adoption we're looking for, we should be exploring options accessible from a phone.
 
-Of course, pure voice chat doesn't come close to the emotional bandwidth that an in-person conversation or even a video call does. That's where the second component comes in: a seamless ability to "upgrade" a group conversation to video as required. This would, in turn change the "floor" representation of those members & their group somehow -- perhaps with little floating video monitors above their 2D avatars. **The core concept is lowering the barrier to entry (just a microphone + speaker) but still allowing for a seamless, high-fidelity experience as desired.** 
+Of course, pure voice chat doesn't come close to the emotional bandwidth that an in-person conversation or even a video call does. That's where I propose a second component enters in: the seamless ability to "upgrade" a group conversation to video as required. This might in turn change the "floor" representation of those members & their group somehow -- perhaps to having little floating video monitors above their 2D avatars. 
 
-- Side note: I believe digital devices may unlock modes of communication not easily established offline (partial-anonymity, more control of presentation of self, custom environments, roleplaying) that our current, in-person environments don't allow for, and thus comparing digital to offline interactions one-to-one may be somewhat apples:oranges. Write more on this at some point.
+**To throw a good online party, I'm imagining software which lets us start out in a world like the one Azlen draws above, and then upgrade to video calls as desired**. This would lower the barrier to entry (just a microphone + speaker) but still allows for a rich experience as needed, and might make bumping into people, making introductions, and generally meeting people in a party a fun experience online.
 
-As far as movie night parties go, the [NetflixParty chrome extension](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) seems to be working _well enough_  but it's the equivalent of what my friends and I used to do in 2014. I imagine much cooler online social interaction experiences are on the horizon. 
+- Side note: I think digital devices may unlock modes of communication not easily established offline (partial-anonymity, more control of presentation of self, custom environments, roleplaying) that our current, in-person environments don't allow for, and thus comparing digital to offline interactions one-to-one may be somewhat apples:oranges. I'd like to write more on this at some point.
+
+As far as movie night parties go, the [NetflixParty chrome extension](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) seems to be working _well enough_  but it's the equivalent of what my friends and I used to do in 2014 with no fancy extensions. I imagine much cooler online social interaction experiences are on the horizon. 
 
 - [Dolemite Is My Name](https://www.imdb.com/title/tt8526872/) was a very enjoyable movie.
 
@@ -73,17 +88,17 @@ As far as movie night parties go, the [NetflixParty chrome extension](https://ch
 
 - _Deep breath_.
 
-- This is ok. I spent the first 3 years of my developer life getting data out of services that didn't want to give it to me. Go enjoy the [atrocity](https://dos.elections.myflorida.com/campaign-finance/contributions/) that is one of the largest repositories of state campaign contribution data in the United States. Couple hundred million records, from what I remember.
+- This is ok. I spent the first 3 years of my developer life getting data out of services that didn't want to give it to me. Go enjoy the [atrocity](https://dos.elections.myflorida.com/campaign-finance/contributions/) that is one of the largest repositories of state campaign contribution data in the United States. 
 
 - I'll need to be able to generate new tokens when my current one expires. So, I set up a small [Selenium](https://www.selenium.dev/) instance to pretend I'm me. Except for whatever reason just the cookies weren't enough, so I had to run the requests through a nifty proxy named [BrowserMob](https://github.com/lightbody/browsermob-proxy) (and a nice [Python/selenium wrapper](https://github.com/rafpyprog/Mobilenium) for it) which worked well.
 
-- Finally, we can make valid requests! Given this is a completely undocumented API endpoint of course, it did not cooperate. From what I can tell, sending the requests at anything other than 5 seconds apart will cause the server to panic and melt and explode. **But it's working!** 
+- Finally, we can make valid requests! Given this is a completely undocumented API endpoint it of course, did not cooperate. From what I can tell, sending the requests at anything other than 5 seconds apart will cause the server to panic and melt and explode. **But it's working!** 
 
 - Short term plan is to automatically ingest my most important tweets & bookmarks into Roam Research through a rough prototype selenium instance. Looking forward to posting this up for others to poke at in a week or two!
 
 - Long term plan, however, is to give myself full-text search of every tweet my account has ever seen regardless of whether I clicked anything on it. 
 
-- Long long term is to build a [memex](https://jborichevskiy.com/posts/digital-tools/). Or die trying. 
+- Long long term plan is to build a [memex](https://jborichevskiy.com/posts/digital-tools/). Or die trying. 
 
 **Software is hard.** As if the Twitter fiasco wasn't enough, I spent a higher-than-morally-acceptable amount of time this past week wrangling the [select2](https://select2.org/) javascript library into an [Elixir Phoenix](https://www.phoenixframework.org/) project. That was _not fun_, and if there's anything I took away from the ordeal it's that building user interfaces that work like you want is hard -- and I'm not sure it's going to get easier anytime soon. Things are simpler in backend-land.
 
@@ -99,19 +114,19 @@ This above is a quote from dang's [insightful comment](https://news.ycombinator.
 
 - [Tuple](https://tuple.app/) has been by far, the best screensharing experience I have ever had but the price point was a bit too high for us to keep using it. 
 
-- We've also been using [Loom](https://www.loom.com/) to send short screencasts while working on features for feedback or identifying bugs. Significantly easier than the Quicktime method I've used in the past, and it's free for the next few months.
+- We've also been using [Loom](https://www.loom.com/) to send short screencasts while working on features for feedback or showing bugs. Significantly easier than the Quicktime method I've used in the past, and it's free for the next few months.
 
 - [Around](https://www.around.co/) is still in private beta, but I'm excited to try it as well.
 
-## Stuff I'm Watching/Reading/Listening To/Looking At
+## Cool Stuff I'm Enjoying
 
-In another [interesting thread](https://twitter.com/azlenelza/status/1246612847427112960?s=20) started by Azlen he explored what blogging interfaces might look like in the future which soon led me down the rabbit hole of looking at [futureofinformation](http://futureofinformation.com/) again, and then _that_ led me to Christoph Labacher's [personal landing page](https://www.christophlabacher.com/). It is beautiful. 
+- In another [interesting thread](https://twitter.com/azlenelza/status/1246612847427112960?s=20) started by Azlen he explored what blogging interfaces might look like in the future which soon led me down the rabbit hole of looking at [futureofinformation](http://futureofinformation.com/) again, and then _that_ led me to Christoph Labacher's [personal landing page](https://www.christophlabacher.com/). It is beautiful. 
 
-Started listening to John Vervaeke's _Awakening from the Meaning Crisis_, upon Stian's recommendation in [his latest newsletter](https://networkedthought.substack.com/p/learning-effectively-with-podcasts). The lecture series is about 50 hours long, so this will take me a while. A description:
+- Started listening to John Vervaeke's _Awakening from the Meaning Crisis_, upon Stian's recommendation in [his latest newsletter](https://networkedthought.substack.com/p/learning-effectively-with-podcasts). The lecture series is about 50 hours long, so this will take me a while. A description:
 
 > [H]ow cognitive science, existential philosophy, Buddhism, Hellenistic philosophy and psychedelics can be used to address the meaning crisis. _John Vervaeke_, PhD is an award-winning lecturer at the University of Toronto in the departments of psychology, cognitive science and Buddhist psychology. In this series Vervaeke will give the history of the meaning crisis, how it is affecting society today, and then give an account on how we can address this problem. Very well integrated understanding. Weaving together historical narrative and contemporary science to paint a compelling picture of foundation of the meta-crisis of out times.
 
-Watched Season 3 episode 1 & 2 of _Westworld_, and wow. 
+- Watched Season 3 episodes 1 & 2 of _Westworld_, and wow. 
 
 **SPOILERS AHEAD, SKIP THIS SECTION**. 
 
@@ -129,4 +144,4 @@ A few scenes that caught my attention and made me think:
 
 Finally running more consistently in the nearby grassy fields. 
 
-Hope you enjoyed this! Always feel free to reply with any comments or links I might find interesting. 
+Hope you enjoyed this! Always feel free to reply with any comments or things I might find interesting. 
