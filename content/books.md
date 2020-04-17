@@ -116,6 +116,12 @@ Hillbilly Elegy | J. D. Vance
 On the Move: A Life | Oliver Sacks
 Fear and Loathing in Las Vegas | Hunter S. Thompson
 
+| Short Stories & Novellas |  |
+| ---- | ---- |
+Understand | Ted Chiang
+Last Question, The | Issac Asimov
+Egg, The | Andy Weir
+
 And some books which really shaped me as a kid:
 
 | Title | Author |
