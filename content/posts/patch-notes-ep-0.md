@@ -2,7 +2,7 @@
 title: "Hello Strange, New World"
 subtitle: "Jonathan's Patch Notes :: Version 0"
 date: 2020-03-29T22:20:23-07:00
-tags: ["newsletters", "social media", "productivity", "roam research", "writing"]
+tags: ["newsletters", "social media", "productivity", "roam research", "writing", "patch notes"]
 ---
 
 Hello! You’re receiving this because you are subscribed to major updates/new posts on my site, [jborichevskiy.com](https://jborichevskiy.com). That will remain the case. 

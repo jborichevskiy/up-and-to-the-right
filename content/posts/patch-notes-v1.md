@@ -2,7 +2,7 @@
 title: "How do we throw an online party?"
 subtitle: "Jonathan's Patch Notes :: version 01"
 date: 2020-04-08
-tags: ["social media", "spatial audio", "mixed reality", "remote tools", "westworld", "dancing", "memex"]
+tags: ["social media", "spatial audio", "mixed reality", "remote tools", "westworld", "dancing", "memex", "patch notes"]
 
 ---
 
