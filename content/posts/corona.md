@@ -114,3 +114,5 @@ Until then, I’m going to be refreshing Twitter, Reddit, and Hacker News like a
 **And most importantly remember that you’re just one person in a really, really scary situation and it’s ok to feel overwhelmed.**
 
 If you want to chat, [just reach out](/about)! Thanks to [CJ Pais](https://twitter.com/cj_pais) and [Dmitrii Gerasimov](https://beepb00p.xyz/) for great feedback.
+
+[HN Discussion](https://news.ycombinator.com/item?id=22820739)
