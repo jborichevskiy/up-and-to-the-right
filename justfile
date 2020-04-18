@@ -1,0 +1,2 @@
+run:
+    hugo serve -D
