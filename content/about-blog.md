@@ -8,12 +8,18 @@ This site is built with [Hugo](https://github.com/gohugoio/hugo) and uses the [h
 
 Hosted and deployed with [Netlify](https://www.netlify.com/). Has the [Analytics](https://www.netlify.com/docs/analytics/) service enabled with no user data collection.
 
-A full change history of every page from March 12, 2020 onwards is available [on Github](https://github.com/jborichevskiy/up-and-to-the-right). 
+A full change history of every page from March 12, 2020 onward is available [on Github](https://github.com/jborichevskiy/up-and-to-the-right). 
 
 [Mailchimp](https://mailchimp.com/) has no tracking or analytics enabled.
 
 ### TODO:
 [ ] RSS support (I KNOW)
+
+[ ] Auto addition of Git history links
+
+[ ] Better visualization of history of each post
+
+[ ] Better permanent anchor links
 
 [x] History of my Now entries (2020-03-12)
 
