@@ -6,18 +6,26 @@
 
       {{ with .Date | default nil }}
         <span class="post-date">
-            Published {{ .Format ($.Site.Params.DateFormatSingle | default "2006-01-02") }}
+            Published: {{ .Format ($.Site.Params.DateFormatSingle | default "2006-01-02") }}
         </span>
       {{ end }}
       
-      {{ with .Params.Author }}<span class="post-author">— {{ $.Site.Params.WrittenBy | default "Written by" }} {{ . }}</span>{{ end }}
+    {{ with .Params.Author }}<span class="post-author">— {{ $.Site.Params.WrittenBy | default "Written by" }} {{ . }}</span>{{ end }}
       {{ if $.Site.Params.ShowReadingTime }}
         <span class="post-read-time">— {{ .ReadingTime }} {{ $.Site.Params.MinuteReadingTime | default "min read" }}</span>
       {{ end }}
     </div>
+      
+    {{ if .Params.status }}
+      <span class="post-date" >Status: {{ .Params.status | markdownify }}</span>
+    {{ end }}
+      
+    {{ if .Params.location }}
+      <span class="post-date" >Location: {{ .Params.location | markdownify }}</span>
+    {{ end }}
 
     {{ if .Params.tags }}
-      <span class="post-tags">
+      <span class="post-tags" style="margin-top: 10px">
         {{ range .Params.tags }}
           #<a href="{{ (urlize (printf "tags/%s" . )) | absURL }}/">{{ . }}</a>&nbsp;
         {{ end }}
@@ -33,7 +41,7 @@
     {{ end }}
 
     <div class="post-content">
-      {{ .Content }}
+      {{ partial "headers.html" .Content }}
     </div>
     {{ if (and (or .NextInSection .PrevInSection) .Params.ShowPosts) }}
       <div class="pagination">
