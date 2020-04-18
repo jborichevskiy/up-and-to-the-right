@@ -18,7 +18,7 @@ __In this version__:
 
 - [Thoughts on Bitcoin and Gwern's 'Bitcoin is Worse is Better'](#cryptocurrency)
 
-- [Futures and options have apparently exited for much longer than I thought](#futures-and-options)
+- [Futures and options have apparently existed for much longer than I thought](#futures-and-options)
 
 - [What is the difference between honor, shame, and guilt?](#honor-vs-shame-vs-guilt)
 
