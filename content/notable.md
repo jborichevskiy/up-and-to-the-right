@@ -6,8 +6,9 @@ Interesting problems, curious projects, and fascinating people. Continuously upd
 
 ## Problems
 ### Better access to information and dissemination of knowledge
+- [Andy Matuschak](https://andymatuschak.org/)'s [Notes](https://notes.andymatuschak.org/) are an incredible exploration of evergreen writing and networked knowledge.
 - [Roam Research](https://roamresearch.com/) is like Workflowy, but with graph support. Makes structured thought easier. This is very cool.
-- [Readwise](https://readwise.io) sends you a daily email with highlights from your books so you can think about them more often.
+- [Readwise](https://readwise.io) sends you a daily email with highlights from everywhere so you can think about them more often.
 - [Memex](https://worldbrain.io/) is a private full-text browser history search tool with support for annotations, collections, and highlights.
 - [Notion](https://www.notion.so/) is a beautiful app for collaboration and writing which pulls in much of the functionality of Airtable and Trello.
 - [Brave](https://brave.com/) is a browser built to reward creators directly instead of through advertising. 

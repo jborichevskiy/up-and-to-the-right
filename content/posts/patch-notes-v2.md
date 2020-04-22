@@ -56,7 +56,7 @@ You may be noticing me doing weird things with hyperlinks around my site lately.
 
 Also, I am quickly approaching a breaking point trying to manage hyperlinks between Roam Research, my intra- and extra-blog posts, Substack, and Twitter. This insanity is going to cause me to cry soon. Why all this effort you ask? Hyperlinks are basically what makes the internet useable, that's why. 
 
-Some good examples of hover actions on hyperlinks can be seen on [Gwern.net](https://www.gwern.net/) and [Wikipedia.org](https://wikipedia.org).
+Some good examples of hover actions on hyperlinks can be seen on [Gwern.net](https://www.gwern.net/) and [Wikipedia.org](https://wikipedia.org). Another is the style used by [Holloway guides](https://www.holloway.com/g/equity-compensation) and [Hexdocs function annotations](https://hexdocs.pm/ecto/Ecto.Multi.html), and [Andy's Notes](https://notes.andymatuschak.org).
 
 An ideal hyperlink can be seen in SteamVR's Lab's orbs, which take you to different worlds. They're like mini-wormholes through which you can see where you will end up, but still draw a very clear distinction between the 
 two environments. [youtube:The Lab#1:32](https://youtu.be/QYrYJHktrf0?t=92)

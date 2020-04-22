@@ -37,7 +37,7 @@ Inspired by [this page](https://beepb00p.xyz/ideas.html). [Pull requests accepte
 ## Collaboration & learning
 
 - A regular series where a bunch of friends and I log onto Zoom and watch a lecture, followed by a discussion about it
-    - For blog psots [posobin's blog club](https://posobin.com/blogclub/).
+    - For blog posts, there is [posobin's blog club](https://posobin.com/blogclub/).
     - Going in-depth on [psychadelics research papers](https://twitter.com/Radix_Motion/status/1244700513435676672?s=20). 
     - Phrased differently: how can I chat with 5 other people obsessed with the same thing as I am this week? Be it a concept, company, question, or idea?
         - Twitter seems like __the perfect platform__ for spawning this.
@@ -297,3 +297,5 @@ I have a love hate relationship with Twitter. It's an incredible tool, but I thi
 - Ability to navigate it better
 - Add cool hyperlink previews like on [Gwern's site](https://www.gwern.net/)
 - More organized hyperlink formats
+- Table of contents
+    - Some way to autogenerate it
