@@ -11,9 +11,9 @@ These are my weekly Patch Notes -- a log of the mental model updates I'm making 
 
 In this release:
 
-- [Shared social cognition and the effect of distance on it](#have-i-become-more-stupid-since-moving-away-from-my-roommates)
+- [Shared social cognition and the effect of distance on it](#have-i-become-dumber-since-moving-away-from-my-roommates)
 
-- [Importing my goals and values into Readwise](#i-ve-imported-my-goals-and-values-into-readwise-and-i-wish-i-did-it-ages-ago)
+- [Importing my goals and values into Readwise](#goals-and-values-in-readwise)
 
 - [Something magical happened on Twitter this week](#why-i-love-twitter-reason-number-1548)
 
