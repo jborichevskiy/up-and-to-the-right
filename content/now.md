@@ -6,7 +6,7 @@ location: "Sacramento, CA"
 
 Thinking about social networks and how information moves around on the internet. Wondering how we might improve communication bandwidth of humans with an internet connection.
 
-Listening to [John Vervaeke's Awakening from the Meaning Crisis](https://open.spotify.com/show/43gIWKVun3Ez1N8y2nhJNF). Reading [How to Take Smart Notes](https://smile.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/ref=sr_1_1?crid=733IKHW59FSY&dchild=1&keywords=how+to+take+smart+notes&qid=1587417236&sprefix=how+to+take%2Caps%2C224&sr=8-1) and feeling very self-conscious about the notes I'm taking while reading it.
+Listening to [John Vervaeke's Awakening from the Meaning Crisis](https://open.spotify.com/show/43gIWKVun3Ez1N8y2nhJNF). Reading [How to Take Smart Notes](https://smile.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/ref=sr_1_1?crid=733IKHW59FSY&dchild=1&keywords=how+to+take+smart+notes&qid=1587417236&sprefix=how+to+take%2Caps%2C224&sr=8-1) and feeling very self-conscious about the notes I'm taking while reading it. [My notes on it](/books/how-to-take-smart-notes).
 
 Popping into Gleb's [Blog Club](https://posobin.com/blogclub/) now and then.
 
