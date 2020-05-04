@@ -110,6 +110,8 @@ This above is a quote from dang's [insightful comment](https://news.ycombinator.
 
 > Just because something is going to break in the end, doesn't mean it can't have an effect that lasts into the future.
 
+## Collaboration tools
+
 **I'm beginning to run across cool stuff in the remote collaboration space.** These aren't affiliate links -- I'm just genuinely excited about tools progressing beyond Zoom and Google Drive.
 
 - At work we're using [Tandem](https://tandem.chat/), which is basically a layer on top of all your other productivity apps, along with conferencing and whatnot. It enables things like one-click joining into google drive docs being edited, shared cursors during screenshares, dedicated video/voice room channels, etc. Pretty neat overall.
