@@ -153,3 +153,4 @@ I hope to cover my thoughts on processes, note-taking apps, and knowledge graphs
 ## Appendix
 
 [The sad state of personal data and infrastructure (beepb00p.xyz)](https://beepb00p.xyz/sad-infra.html)
+[Note-Taking when Reading the Web and RSS](https://zettelkasten.de/posts/reading-web-rss-note-taking)

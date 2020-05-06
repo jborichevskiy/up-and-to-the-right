@@ -232,6 +232,9 @@ I have a love hate relationship with Twitter. It's an incredible tool, but I thi
 {{<tweet 1249526881176576000>}}
 
 - [CJ Pais: Project Goals](https://wiki.cjpais.com/project-goals) is building something in this space and I am very excited
+- [iOS: Airr - Share podcast clips](https://apps.apple.com/us/app/airr-share-podcast-clips/id1355926315?ls=1)
+    - [twitter: AirrAudio](https://twitter.com/AirrAudio)
+    - supports making highlights on episodes directly, with some podcasts pre-transcribed
 - The ability to take timecoded, transcribed comments on any part of podcast
     - [Stian Håklev (侯爽): a blog post on combining ListenNotes, Otter.ai, and taking good notes](https://twitter.com/houshuang/status/1247165721190100992?s=20)
     - [ListenNotes: a podcast search engine](https://www.listennotes.com/)
