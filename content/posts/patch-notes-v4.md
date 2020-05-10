@@ -50,7 +50,7 @@ I can't help but wonder what this looks like once more people start using it, an
 - What are common starting pages and routes throughout it? 
 
 ### Collaboration
-- What does this look like collaboratively? When you care about attribution? When you don't care about attribution but care about verifiiabliity? 
+- What does this look like collaboratively? When you care about attribution? When you don't care about attribution but care about verifiability? 
     - My first instinct is Wikipedia, but I believe it will look vastly different from the one we know today
     - Roam Research, yes, but it's a long way before it's a complete collaborative tool as easy to grok as Google Drive and with the sharability of RSS
         - [podcast: Village Global: Creating Tools For Networked Thought with Conor White-Sullivan of Roam Research](https://www.listennotes.com/podcasts/venture-stories-village-global-Zbiejgx0l-F/)
