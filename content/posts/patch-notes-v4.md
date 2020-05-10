@@ -34,11 +34,11 @@ While writing my update last week I got stuck on a topic I want more feedback on
 
 I find digital knowledge-sharing fascinating: how might we take our personal learning and share it with the entire internet in an accessible and useful manner? 
 
-For a long time, I thought the gold standard was self-published research such as that of [Gwern](https://www.gwern.net/). But Gwern's primary work is long-form, linear essays with the majority of hyperlinks are pointing to the outside, tying together a collection of information into one cohesive whole. What happens when you want to write the equivalent of a living, personal Wikipedia about things you are actively learning? 
+For a long time, I thought the ideal structure was self-published research such as that of [Gwern](https://www.gwern.net/). But Gwern's primary work is long-form, linear essays with the majority of hyperlinks are pointing to the outside, tying together a collection of vetted information into one cohesive whole. What happens when you want to communicate the equivalent of a living, personal Wikipedia about things you are actively learning? 
 
 Bar none, the best example I have seen so far is Andy Matuschak's [Working Notes](https://notes.andymatuschak.org/About_these_notes). If you're not familiar and happen to be remotely curious about the intersection of learning, writing, and pursuing hard problems I highly recommend you stop reading this sentence and [click this link](https://notes.andymatuschak.org/About_these_notes).
 
-- While they are written primarily for Andy himself, they do an incredible job demonstrating the fact that _you can indeed_ present your exploration thinking about complex, cross-discipline problems in a highly accessible way. 
+- While they are written primarily for Andy himself, they do an incredible job demonstrating the fact that _you can indeed_ present your exploratory thinking about complex, cross-discipline problems in a highly accessible way. 
 
 I get really excited about stuff like this. This is art and science rolled into one beautiful package: instead of pausing to write a research paper or a book you instead just make your notes accurate, up-to-date and instantly shareable with everyone, everywhere. People working on similar problems can share their own work with you, creating a positive feedback loop benefiting everyone. 
 
