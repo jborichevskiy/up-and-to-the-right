@@ -13,13 +13,14 @@ A full change history of every page from March 12, 2020 onward is available [on 
 [Mailchimp](https://mailchimp.com/) has no tracking or analytics enabled.
 
 ### TODO:
-[ ] RSS support (I KNOW)
 
 [ ] Auto addition of Git history links
 
 [ ] Better visualization of history of each post
 
 [ ] Better permanent anchor links
+
+[x] RSS support (I KNOW) (2020-05-10) (Apparently it existed this whole time and I just should've read the docs...)
 
 [x] History of my Now entries (2020-03-12)
 
