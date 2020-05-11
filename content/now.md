@@ -6,7 +6,7 @@ location: "Sacramento, CA"
 
 Thinking about social networks and how information moves around on the internet. Wondering how we might improve communication bandwidth of humans with an internet connection.
 
-Listening to [John Vervaeke's Awakening from the Meaning Crisis](https://open.spotify.com/show/43gIWKVun3Ez1N8y2nhJNF). Listening to [The Punch Escrow](https://smile.amazon.com/Audible-Studios-The-Punch-Escrow/dp/B0744QG1TZ/ref=sr_1_1?dchild=1&keywords=punch+escrow&qid=1589171587&sr=8-1).
+Listening to [John Vervaeke's Awakening from the Meaning Crisis](https://open.spotify.com/show/43gIWKVun3Ez1N8y2nhJNF) and [The Punch Escrow](https://smile.amazon.com/Audible-Studios-The-Punch-Escrow/dp/B0744QG1TZ/ref=sr_1_1?dchild=1&keywords=punch+escrow&qid=1589171587&sr=8-1).
 
 Helping organize Gleb's [Blog Club](https://posobin.com/blogclub/) on Sundays.
 
