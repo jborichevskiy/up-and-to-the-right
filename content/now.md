@@ -1,14 +1,14 @@
 ---
 title: "Now"
-date: 2020-04-27
+date: 2020-05-11
 location: "Sacramento, CA"
 ---
 
 Thinking about social networks and how information moves around on the internet. Wondering how we might improve communication bandwidth of humans with an internet connection.
 
-Listening to [John Vervaeke's Awakening from the Meaning Crisis](https://open.spotify.com/show/43gIWKVun3Ez1N8y2nhJNF). Reading [How to Take Smart Notes](https://smile.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/ref=sr_1_1?crid=733IKHW59FSY&dchild=1&keywords=how+to+take+smart+notes&qid=1587417236&sprefix=how+to+take%2Caps%2C224&sr=8-1) and feeling very self-conscious about the notes I'm taking while reading it. [My notes on it](/books/how-to-take-smart-notes).
+Listening to [John Vervaeke's Awakening from the Meaning Crisis](https://open.spotify.com/show/43gIWKVun3Ez1N8y2nhJNF). Listening to [The Punch Escrow](https://smile.amazon.com/Audible-Studios-The-Punch-Escrow/dp/B0744QG1TZ/ref=sr_1_1?dchild=1&keywords=punch+escrow&qid=1589171587&sr=8-1).
 
-Popping into Gleb's [Blog Club](https://posobin.com/blogclub/) now and then.
+Helping organize Gleb's [Blog Club](https://posobin.com/blogclub/) on Sundays.
 
 Building an MVP in Elixir/Phoenix. More on this soon!
 

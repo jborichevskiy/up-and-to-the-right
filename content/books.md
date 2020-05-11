@@ -19,6 +19,7 @@ Psychology of the Digital Age | John Suler
 Imp of the Mind: Exploring the Silent Epidemic of Obsessive Bad Thoughts, The | Lee Baer
 Ketamine for Depression | Dr. Stephen J. Hyde
 This Naked Mind | Annie Grace
+How to Take Smart Notes ([my notes](/books/how-to-take-smart-notes)) | Sönke Ahrens
 
 | Life, Philosophy, Religion, Spirituality |  |
 | ---- | ---- |
