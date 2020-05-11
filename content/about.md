@@ -2,6 +2,9 @@
 title = "About Me"
 type = "single"
 ShowPosts = false
+aliases = [
+    "/hello"
+]
 +++
 
 <img src="/profile.png" alt="photo of me" width="350"/>
