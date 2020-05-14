@@ -11,11 +11,11 @@ aliases = [
 
 My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
-**Always** • I enjoy learning and building things with computers, concerts, hikes, and connecting with people. Passionate about cognitive science, environmental sustainability, and software engineering. Hoping to connect the three. [My life philosophy](/posts/up-and-to-where).
+**Always** • I enjoy learning and building things (usually with computers), concerts, hikes, and connecting with people. Passionate about cognitive science, environmental sustainability, and software engineering. Hoping to connect the three. [My life philosophy](/posts/up-and-to-where).
  
-**Future** • Helping solve important, challenging problems. Areas of interest include improving collaborative knowledge and communication, cleaner energy, effective education and therapy, lowering access cost to space, artificial intelligence, and better institutional and democratic decision-making. I aim to be running my own R&D lab by 2030. [My next steps](/posts/next-steps-2019).
+**Future** • Helping solve challenging problems. Areas of interest include improving collaborative knowledge and communication, clean energy, effective education and therapy, lowering access cost to space, artificial intelligence, and better institutional and democratic decision-making. I aim to be running my own R&D lab by 2030. [My next life steps](/posts/next-steps-2019).
 
-**Now** • See my [Now](/now) page, and a list of [ideas I'm exploring](/ideas).
+**Now** • See my [Now](/now) page, my [Plan](/plan) page, or a list of [ideas I'm exploring](/ideas).
 
 **Before** • Founding Engineer at [Vigilant](https://vigilant.cc), where I worked on acquiring lots of public data, back-end development skills, and some SRE experience. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. [Born and raised](/posts/on-moving-away) in Sacramento, California. 
 
