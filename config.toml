@@ -64,6 +64,6 @@ paginate = 5
         name = "Ideas"
         url = "/Ideas"
       [[languages.en.menu.main]]
-        identifier = "subscribe"
-        name = "Subscribe"
-        url = "https://mailchi.mp/0e81591ed912/jborichevskiy"
+        identifier = "plan"
+        name = "Plan"
+        url = "/plan"
