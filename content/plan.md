@@ -19,7 +19,7 @@ Next steps: user interviews/research, learning Vue.js, and a proper launch.
 
 Collaborating with [David](https://www.dmeh.net/) to make it easier for anyone to discover and encourage creative & intellectual pursuits across the internet. We hope to do this with `/plan` pages, such as this one. 
 
-Explore others' pages  or add your own at [anopenplan.com](https://www.anopenplan.com/).
+Explore others' pages or add your own at [anopenplan.com](https://www.anopenplan.com/).
 
 Next steps: really ironing out what we want this to be and spreading the idea.
 
