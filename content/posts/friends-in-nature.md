@@ -121,7 +121,7 @@ I’m really interested in exploring alternative sustainable living arrangements
 
        - The closest thing to this I’ve found so far are camp retreats in California, such as those around Russian River and Gualala.
 
-**As amazing the internet is for communication, few things in life compare to spending long evening hours with good company in thoughtful conversation. Life is short and I intend to have many more such evenings.**
+**As amazing as the internet is for communication, few things in life compare to spending long evening hours with good company in thoughtful conversation. Life is short and I intend to have many more such evenings.**
 
 #### Related
 
