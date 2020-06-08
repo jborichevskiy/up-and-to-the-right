@@ -2,7 +2,7 @@
 title: "I want to live in nature with friends"
 date: "2020-06-07"
 status: "work in progress"
-subtitle: "And my working plan on making this happen"
+subtitle: "And my working plan to make it happen"
 ---
 
 
