@@ -127,4 +127,4 @@ I’m really interested in exploring alternative sustainable living arrangements
 
 See [[[my dream working environment](/my-dream-working-environment)]]
 
-[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/content/posts/friends-in-nature.md).
+[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/posts/friends-in-nature.md).

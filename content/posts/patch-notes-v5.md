@@ -128,4 +128,4 @@ I also added the Hypothesis toolbar to my site. I'm not _super_ keen on the styl
 
  - [related tweet](https://twitter.com/jborichevskiy/status/1259697757821927426?s=20)
 
-[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/posts/patch-notes-v5.md)
+[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/posts/patch-notes-v5.md).

@@ -27,4 +27,4 @@ References
 
 [[person:Andy Matuschak]]: [Backlit displays limit computers to interiors](https://notes.andymatuschak.org/z7b7UyNrbU2chF5wehyKRvh3ABrFeHXiD5d4t)
 
-[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/content/my-dream-working-environment.md).
+[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/my-dream-working-environment.md).
