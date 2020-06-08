@@ -37,7 +37,7 @@ The first version of this will likely be a short-term Airbnb rental (2-3 months)
 
  - I would prefer to know every person in the initial group or at least have a strong mutual connection. We would either meet up in person or do video calls prior to committing to make sure everyone feels comfortable.
 
-At least one person would have a car useable by anyone for errands, shopping, etc. There will be laundry in-unit.
+At least one person would have a car useable by anyone for errands, shopping, etc. The nearest town would probably be a half-hour away, and the nearest city less than two hours driving. There will be laundry in-unit. 
 
 #### Where?
 
@@ -73,7 +73,7 @@ Isn't this just a typical hacker house?
 
 Is this a commune? 
 
- - No. But for in insightful look into what that's like, check out [this Reddit thread](https://www.reddit.com/r/IAmA/comments/fad232/since_1983_i_have_lived_worked_and_raised_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf).
+ - No. But for in insightful look into what commune living is like, check out [this Reddit thread](https://www.reddit.com/r/IAmA/comments/fad232/since_1983_i_have_lived_worked_and_raised_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf).
 
 How would food work?
 
@@ -91,7 +91,7 @@ How much would it cost?
 
 How do I plan to find the rest of these people?
 
- - My immediate plan is simply talking to friends, friends of friends, and posting it on Twitter. If you know someone who’d be interested in trying something like this, please send it their way!
+ - My immediate plan is simply talking to friends, friends of friends, and posting it on Twitter. Couples ok. If you know someone who’d be interested in trying something like this, please send it their way!
 
  - It’s also surprisingly difficult to “broadcast” this intent. What exactly do I call it? One would think, with the internet being as prominent as it is this would be a simpler task. But indeed, it’s not. Most of our social organization still seems to be separated into deep silos: there isn’t an easy way for me to query friends of friends.
 
@@ -121,7 +121,7 @@ I’m really interested in exploring alternative sustainable living arrangements
 
        - The closest thing to this I’ve found so far are camp retreats in California, such as those around Russian River and Gualala.
 
-**As amazing the internet is for communication, few things in life compare to spending long evening hours with good company in thoughtful conversation. Life is short and I intend to have many more of such evenings.**
+**As amazing the internet is for communication, few things in life compare to spending long evening hours with good company in thoughtful conversation. Life is short and I intend to have many more such evenings.**
 
 #### Related
 
