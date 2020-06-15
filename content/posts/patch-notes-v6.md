@@ -45,7 +45,7 @@ It’s also curious how posting and putting it out there made it go from this va
 
 ### I got an iPad Pro and it is magical
 
-I have been becoming increasingly grouchy about the gadgets I’ve been buying lately (ref fancy-electronics post, bring into Roam as well?). But a few weeks ago I caved an ordered an iPad Pro. I was not prepared for this.
+I have been becoming increasingly grouchy about the gadgets I’ve been buying lately ([post: I Miss Buying Fancy New Electronics](/posts/spending-electronics/)). But a few weeks ago I caved an ordered an iPad Pro. I was not prepared for this.
 
  - [some great responses to my tweet asking for app recommendations](https://twitter.com/jborichevskiy/status/1266160693474099200?s=20)
 
