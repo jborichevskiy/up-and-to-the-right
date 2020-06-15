@@ -98,7 +98,7 @@ How can it be better?
 
 Maybe that’s not quite the best question to ask. A better one might be: why is it so infuriating to spend time on re-inventing or implementing forms, buttons, and alert flows? So much of programming is this loop, where I have a model of something in my mind and try to teach it to the computer. A model that is never quite or sufficiently accurate and always built on some wrong assumptions. So, round and round we go, ever correcting each other until we get to some sort of compromise until the next person gets to pick up where you left off.
 
-Don’t get me wrong: I _love_ sitting down and writing a small tool pulling together disparate sources of information and working its magic on them. But too much of my time is spent dealing with the plumbing, while really what In want to be doing is architecting. 
+Don’t get me wrong: I _love_ sitting down and writing a small tool pulling together disparate sources of information and working its magic on them. But too much of my time is spent dealing with the plumbing, while really what I want to be doing is architecting. 
 
  - "Just because something is going to break in the end, doesn't mean it can't have an effect that lasts into the future"
 
@@ -110,7 +110,7 @@ How much of this can be avoided?
 
  - We can get faster at typing
 
-       - I’m trying. Finally defaulting to hitting `dw` to delete a word. I don’t expect I’ll get to experiencing the full extent of emacs, but we’ll see. 
+       - I’m trying. Finally defaulting to hitting `dw` to delete a word (vim bindings in VS Code). I don’t expect I’ll get to experience the full extent of emacs org-mode anytime soon, but we’ll see!
 
 
  - We can also be better about supporting open source software, so frameworks and protocols are more consistent across tools allowing engineering departments to spend time on what matters most: _definitely_ not converting and parsing information as it moves from application to application. 
