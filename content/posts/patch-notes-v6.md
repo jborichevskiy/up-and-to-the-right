@@ -57,7 +57,7 @@ What’s so great about it?
 
  - **The touch apps are changing how I think about software.** Seriously tempted to learn some Swift to try to create some experimental interfaces ... it’s like a medium I forgot existed. 
 
-       - Phone UI’s are optimized for doing things while moving. Or at least, they feel like it. You’re not allowed precision because when would you need it? The screen is too mall to enjoy long-form comfort but is amazingly useful for carrying around and getting you out of tight spots. 
+       - Phone UI’s are optimized for doing things while moving. Or at least, they feel like it. You’re not allowed precision because when would you need it? The screen is too small to enjoy long-form comfort but is amazingly useful for carrying around and getting you out of tight spots. 
 
        - When you scale up a device 4x, you change where it’s going to be used. The iPad is designed to be used on a couch or desk, or on a giant love seat: places   where you might bring your laptop but the power cord is two feet short and your back gets sore if you sit that way for too long.
 
