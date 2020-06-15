@@ -17,7 +17,7 @@ My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
 **Now** • See my [Now](/now) page, my [Plan](/plan) page, or a list of [ideas I'm exploring](/ideas).
 
-**Before** • Founding Engineer at [Vigilant](https://vigilant.cc), where I worked on acquiring lots of public data, back-end development skills, and some SRE experience. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. [Born and raised](/posts/on-moving-away) in Sacramento, California. 
+**Before** • Founding Engineer at [illumis](https://illumis.com/), where I worked on acquiring lots of public data, back-end development skills, and some SRE experience. Co-founded [Yedi Software](https://www.yedi.io/), an attempt at improving 3PL marketplace efficiency. [Born and raised](/posts/on-moving-away) in Sacramento, California. 
 
 I find [journaling](/posts/journaling) an incredible tool for growth. [My productivity system](/posts/concentration-compromise), and a [writeup of my habits](/posts/healthy-living).
 
