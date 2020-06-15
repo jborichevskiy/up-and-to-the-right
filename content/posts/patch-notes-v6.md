@@ -134,7 +134,7 @@ Finished Watchmen. I wasn’t into the comics and I watched the movie ages ago. 
 
  - _Minor spoiler:_ Someone is driving down the road and an alarm goes off, followed by squids raining from the sky. Instead of everyone losing their minds and running in every which direction, drivers calmly pull over, wait it out, and clear the squids from the windshield and carry on. From that scene on, I was hooked.
 
-Chernobyl, particularly, reminded me how quickly the most history-defining in human history occur, and how dangerous misaligned incentives are leading up to them. The [spotify:accompanying podcast](https://open.spotify.com/show/5SSYyVWm0FaY8as96gE3EM?si=WqudeNI2QwS-X7N107Nk9Q) is a fascinating listen as well, as are the Reddit discussions. 
+Chernobyl, particularly, reminded me how quickly the most history-defining moments in human history occur, and how dangerous misaligned incentives are leading up to them. The [spotify:accompanying podcast](https://open.spotify.com/show/5SSYyVWm0FaY8as96gE3EM?si=WqudeNI2QwS-X7N107Nk9Q) is a fascinating listen as well, as are the Reddit discussions. 
 
 Watching _Devs_ now. Wow.  It's like _Ex Machina_ mixed with a bit of what I wanted _The Circle_ to be.
 
