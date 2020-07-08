@@ -37,6 +37,7 @@ Courage to be Disliked | Ichiro Kishimi
 Finite and Infinite Games | James Carse
 Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys | James Fadiman
 Attached | Amir Levine
+LSD: My Problem Child | Albert Hofmann
 
 | Politics & Social Sciences |  |
 | ---- | ---- |
@@ -46,6 +47,7 @@ Alone Together: Why We Expect More from Technology and Less from Each Other | Sh
 Amusing Ourselves to Death | Neil Postman
 Nothing Is True and Everything Is Possible | Peter Pomerantsev
 Master Switch, The | Tim Wu
+On Tyranny: Twenty Lessons from the Twentieth Century | Timothy Snyder
 
 | Behavioral Economics | |
 | ---- | ---- |
@@ -71,6 +73,7 @@ Manifold: Time | Stephen Baxter
 Martian, The | Andy Weir
 Catch-22 | Joseph Heller
 Fahrenheit 451 | Ray Bradbury
+Hobbit, The | J.R.R. Tolkien
 
 | Artificial Intelligence |  |
 | ---- | ---- |
@@ -116,6 +119,7 @@ Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future | Ashlee Vance
 Hillbilly Elegy | J. D. Vance
 On the Move: A Life | Oliver Sacks
 Fear and Loathing in Las Vegas | Hunter S. Thompson
+Big Dead Place | Nicholas Johnson
 
 | Short Stories & Novellas |  |
 | ---- | ---- |
@@ -150,3 +154,4 @@ Tomorrow Code, The | Brian Falkner
 Holes | Louis Sachar
 Giver, The | Lois Lowry
 Ender's Game | Orson Scott Card
+Silo (series) | Hugh Howey
