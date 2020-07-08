@@ -154,4 +154,3 @@ Tomorrow Code, The | Brian Falkner
 Holes | Louis Sachar
 Giver, The | Lois Lowry
 Ender's Game | Orson Scott Card
-Silo (series) | Hugh Howey
