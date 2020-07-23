@@ -20,6 +20,7 @@ Imp of the Mind: Exploring the Silent Epidemic of Obsessive Bad Thoughts, The | 
 Ketamine for Depression | Dr. Stephen J. Hyde
 This Naked Mind | Annie Grace
 How to Take Smart Notes ([my notes](/books/how-to-take-smart-notes)) | Sönke Ahrens
+Elephant in the Brain, The | Kevin Simler and Robin Hanson
 
 | Life, Philosophy, Religion, Spirituality |  |
 | ---- | ---- |
@@ -96,6 +97,7 @@ Smartest Guys in the Room, The | Bethany McLean
 Innovators | Walter Issacson
 Space Barons, The | Christian Davenport
 Skygods: The Fall of Pan Am | Robert Gandt
+American Kingpin | Nick Bilton
 
 | Finance and Economics |  |
 | ---- | ---- |
@@ -120,6 +122,7 @@ Hillbilly Elegy | J. D. Vance
 On the Move: A Life | Oliver Sacks
 Fear and Loathing in Las Vegas | Hunter S. Thompson
 Big Dead Place | Nicholas Johnson
+Permanent Record | Edward Snowden
 
 | Short Stories & Novellas |  |
 | ---- | ---- |
