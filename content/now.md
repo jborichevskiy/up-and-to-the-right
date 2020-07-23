@@ -1,17 +1,15 @@
 ---
 title: "Now"
-date: "2020-07-08"
+date: "2020-07-22"
 ---
 
+Thinking about social networks and how information moves around on the internet. Wondering how we might improve communication bandwidth of humans with an internet connection and get better at solving large-scale problems. 
 
+Reading Design of Everyday Things by Don Norman, Beginning of Infinity by David Deutsch, and The Last Lecture by Randy Pausch.
 
-Thinking about social networks and how information moves around on the internet. Wondering how we might improve communication bandwidth of humans with an internet connection.
+Listening to The Stand by Stephen King and Ender's Game by Orson Scott Card.
 
-Reading Design of Everyday Things and Beginning of Infinity.
-
-Listening to [John Vervaeke’s Awakening from the Meaning Crisis](https://open.spotify.com/show/43gIWKVun3Ez1N8y2nhJNF).
-
-Helping organize Gleb’s [Blog Club](https://posobin.com/blogclub/) on Sundays.
+Helping organize Gleb’s [Blog Club](https://posobin.com/blogclub/) on Sundays where we discuss interesting blog posts. Also helping build [cozyroom.xyz](https://cozyroom.xyz) and [AnOpenPlan](https://www.anopenplan.com/), detailed on my [/plan](/plan) page.
 
 Building an MVP in Elixir/Phoenix at [Ressemble](https://www.ressemble.com/).
 
@@ -19,4 +17,4 @@ Staying sane with [Roam Research](https://roamresearch.com). [Github: daily temp
 
 See my [#Patch Notes](https://jborichevskiy.com/tags/patch-notes) (or on [Substack](https://jborichevskiy.substack.com/)) for a deeper dive into what I’m ruminating on, roughly weekly.
 
-[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/now.md). • [What's a now page?](https://nownownow.com/about)
+[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/now.md) • [What's a now page?](https://nownownow.com/about)
