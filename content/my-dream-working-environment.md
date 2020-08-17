@@ -55,6 +55,10 @@ Visual inspiration
 
  - Amazon HQ in Seattle, WA (though I don’t believe many of their employees get to work here; it’s most of a showroom).
 
+{{<figure src="/Bo63z0-7NU.png" caption="https://www.youtube.com/watch?v=j_npZfZmRiM">}}
+
+ - https://www.youtube.com/watch?v=j_npZfZmRiM
+
 References
 
 [[person:Andy Matuschak]]: [Backlit displays limit computers to interiors](https://notes.andymatuschak.org/z7b7UyNrbU2chF5wehyKRvh3ABrFeHXiD5d4t)
