@@ -10,9 +10,9 @@ This is an installment of my semi-regular Patch Notes -- a braindump of things I
 
 In this release:
 
-- [I'm moving to San Diego!](#im-moving-to-san-diego)
+- [I'm moving to San Diego!](#i-m-moving-to-san-diego)
 
-  - [housing & lease agreements](#housing--lease-agreements)
+  - [housing & lease agreements](#housing-lease-agreements)
 
   - [spreadsheets are hard and software is trash](#spreadsheets-are-hard-and-software-is-trash)
 
