@@ -23,7 +23,7 @@ I find [journaling](/posts/journaling) an incredible tool for growth. [My produc
 
 Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9) but residing in Sacramento, CA for now. 
 
-[jonathan@borichevskiy.com](mailto:jonathan@borichevskiy.com) • [Twitter](https://twitter.com/jborichevskiy) • Always happy to do a phone/video call!
+[jonbo@hey.com](mailto:jonbo@hey.com) • [Twitter](https://twitter.com/jborichevskiy) • Always happy to do a phone/video call!
 
 [RSS](https://jborichevskiy.com/posts/index.xml) • [weekly newsletter](https://jborichevskiy.substack.com) • [major site updates via email](https://mailchi.mp/0e81591ed912/jborichevskiy) • [about this site](/about-blog)
 

@@ -75,6 +75,8 @@ Martian, The | Andy Weir
 Catch-22 | Joseph Heller
 Fahrenheit 451 | Ray Bradbury
 Hobbit, The | J.R.R. Tolkien
+Dark Tower, The | Stephen King
+Stand, The | Stephen King
 
 | Artificial Intelligence |  |
 | ---- | ---- |
