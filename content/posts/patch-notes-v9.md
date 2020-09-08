@@ -1,6 +1,6 @@
 ---
 title: "Spreadsheets, fires, and leases"
-date: "2020-09-07"
+date: "2020-09-08"
 subtitle: "Jonathan's Patch Notes : version 09"
 ---
 
@@ -46,11 +46,11 @@ Digging through this mud seems to be the only alternative to signing six or twel
 
 #### spreadsheets are hard and software is trash
 
-My past few years have been spent building software to help people understand and act on complex, messy data. We had a straightforward objective: find a place to live that fits our budgets, matches our preferences, and works with our date ranges. So I whipped up a spreadsheet for us and got to work. Should be simple, right?
+My past few years have been spent building software to help people understand and act on complex, messy data. The three of us had a straightforward objective: find a place to live that fits our budgets, matches our preferences, and works with our date ranges. So I whipped up a spreadsheet for us and got to work. Should be simple, right?
 
 It was anything but. Before we booked our first place I'd managed to curse every PM involved with Airbnb, embark on and abandon automating the data collection, and re-design and update the entire spreadsheet to preserve our sanity. Solving multivariable logistics problems with poor data and mixed preferences is hard. Solving them in a spreadsheet asynchronously with several other busy people is even harder.
 
-What do I wish I for instead? A cross between Google Drive and Airtable taking into account the data we are working with and the decision we are trying come arrive at:
+What do I wish I for instead? A cross between Google Drive and Airtable taking into account the data we are working with and the decision we are trying to arrive at:
 
  - auto-fill the fields from the site (price, description, images, availability)
 
@@ -80,9 +80,9 @@ Features on my wishlist for Airbnb/VRBO/any real estate listing site:
 
  - prohibit naming anything ☆☆☆PRINCESS PEACH'S DREAM CASTLE BOOK NOW☆☆☆
 
-I may sound like I'm wishing for software to magically come along and fix and abstract complex and essential societal transactions to a push of a button but I'm not and it can't; or at least not really. Trust, communication, and transparency are necessary to any complex human interaction; particularly ones involving money, commitments, and safety. And enough of these negotiations happen entirely over the internet already. 
+I may sound like I'm wishing for software to magically come along and abstract away complex and essential societal transactions to a push of a button - but I'm not and it can't; or at least not really. Trust, communication, and transparency are necessary to any complex human interaction; particularly those involving money, commitments, and safety. And enough of these negotiations happen entirely over the internet already. 
 
-Interfaces would work with rather than against us in making our own decisions with real world data quickly and accurately -- especially when those deciding are scattered across space and time and have a million other things to worry about. Information accurate one minute may no longer be the next and time should be spent analyzing instead of synchronizing. Our systems need to reflect that reality - sooner rather than later.
+Interfaces should work with rather than against us in making our own decisions with real world data quickly and accurately -- especially when those deciding are scattered across space and time and have a million other things to worry about. Information accurate one minute may no longer be the next and time should be spent analyzing instead of synchronizing. Our systems need to reflect that reality - sooner rather than later.
 
 #### I re-installed MacOS and it was an ordeal
 
@@ -114,7 +114,7 @@ A good reminder of how fragile and difficult everything is.
 
 > I talk a lot -- perhaps, too much -- about Twitter, particularly to people I know who aren't on it. Every day I use it I grow more amazed this site is **free**.  I keep rambling about it because I think my friends are missing out on fascinating opportunities, and I want everyone to be able to benefit from it as much as I have so far.
 > 
-> [post:patch-notes-v5: I want you to join twitter](/posts/patch-notes-v5/#i-want-you-to-join-twitter) on 2020-09-07 
+> [post:patch-notes-v5: I want you to join twitter](/posts/patch-notes-v5/#i-want-you-to-join-twitter) on 2020-05-18 
 
 **My meta Twitter call** (context above): I haven't forgotten about it, and still want to make it happen soon~ish. I'm not sure I have more to say than this: the more time I spend on that site, the more I am amazed at how undervalued it is. And the less I think I or anyone else at the company actually understand it. Just vague notions. 
 
@@ -126,11 +126,13 @@ I see it as not as a "social media platform" but as a way for like-minded people
 
 I've become better at accepting there's only so much I can do in 24 earth hours. That being like a flower absorbing but sun and water is allowed. Especially during what feels an emotional hurricane every day for months on end. As a friend says, life is a marathon and not a sprint. All I can do is peek up at the stars once in a while and make sure I'm headed in a reasonable direction. 
 
-As for many others, this year didn't go to plan. Instead of sitting in on lectures at schools I can't afford I've been crammed into my childhood bedroom thousands of miles from close friends. It's not been a total loss: I built some cool things and met some amazing people. But that nagging sense of having failed to achieve what I set out to do this year remains, much as I try to be mindful of it. 
+As for many others, this year didn't go to my plans. Instead of sitting in on lectures at fancy schools I can't afford, I've been crammed into my childhood bedroom thousands of miles from close friends. It's not been a total loss: I built some cool things and met more amazing people online. But that nagging sense of having failed to achieve what I set out to do this year remains, much as I try to be mindful of it. 
 
 It's been *six long months* and the momentum and energy I felt at the beginning of this year has all but evaporated. I've been forced to recognize (yet again) it's not the speed but the direction which matters. Everyone's struggling: whether in teaching their toddlers, diminishing savings, caring for loved ones, or everything at once. Inevitably some weeks will see barely a step in our intended direction *and that's ok*. Some days all I have in me is to lay down, exhale, and watch a movie. 
 
-What does give me peace is even though things didn't go according to *my* plan and path, I'm still getting closer to that destination: a sustainable environment to work and live in, providing flexibility and time for us to work on tech for good. Tech to support a world that doesn't yet support everyone in return. Every week I meet more people searching for the next steps on their unique paths but the destinations we are describing seem to have more in common than not. And that makes me really, really excited and hopeful. 
+What gives me peace is even though things didn't go according to *my* plan and path, I'm still getting closer to that destination: a sustainable environment to work and live in providing flexibility and time for us to work on tech for good. Tech to support a world that doesn't yet support everyone in return. Every week I meet more people searching for the next steps on their unique paths but the destinations we are describing seem to have more in common than not. 
+
+And that makes me really excited.
 
 see also [[[post:up-and-to-the-where?](/posts/up-and-to-where/)]] [[[post:next-steps-2019-edition](/posts/next-steps-2019/)]]
 
