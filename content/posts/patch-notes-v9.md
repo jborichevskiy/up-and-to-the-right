@@ -1,5 +1,5 @@
 ---
-title: "Spreadsheets, fires, and leases"
+title: "Spreadsheets, smoke, and leases"
 date: "2020-09-08"
 subtitle: "Jonathan's Patch Notes : version 09"
 ---
