@@ -97,7 +97,7 @@ I've been having conversations on productivity systems, agendas, and note-taking
 
  - I've also been keeping up with [CJ's Daily Writings](https://daily.cjpais.com/) which do a really cool job of blending plans, notes, and retrospective reviews of what he's working on. 
 
-   - This also reminds me of [John Carmacks' Plan files](https://github.com/ESWAT/john-carmack-plan-archive).
+   - This also reminds me of [John Carmack's Plan files](https://github.com/ESWAT/john-carmack-plan-archive).
 
 All this thinking and reading is getting me excited about what I want the future of Patch Notes and my blog to look like. Publishing a polished version every week is somewhat unsustainable: it's hard to find the right balance of quality and timeliness and time spent formatting is not spent writing. I want to post less-polished and less structured content more regularly while making it easy to filter between different streams of information. 
 
@@ -111,7 +111,7 @@ One potential solution to this I see is publishing a stream of my Daily Notes fi
 
  - **Different posts have different weights**. Not every word I type has the same significance in terms of time invested - patch notes are more in-the-moment while a blog post might takes weeks or months of work. Yet my site presents them the same. 
 
- - **I need a tighter publishing feedback loop:** my current publishing system is a rube goldberg machine of Python scripts, monkey patched packages, and uncommitted changes on git. It needs to be instant: preferably per-character. As in, type a letter in Roam and see a rendered blog preview in the next pane.
+ - **I need a tighter publishing feedback loop:** my current publishing system is a Rube Goldberg machine of Python scripts, monkey patched packages, and uncommitted changes on git. It needs to be instant: preferably per-character. As in, type a letter in Roam and see a rendered blog preview in the next pane.
 
  - **Roam on mobile is an utter nightmare.** Simply opening up my database on a good mobile internet connection might take 1-2 minutes. It doesn't cache locally properly, so after being un-backgrounded it usually needs to re-fetch the data. I can't be limited to writing on my computer and I don't want to cut and paste between apps.
 
