@@ -3,7 +3,8 @@ title = "About Me"
 type = "single"
 ShowPosts = false
 aliases = [
-    "/hello"
+    "/hello",
+    "hi"
 ]
 +++
 
