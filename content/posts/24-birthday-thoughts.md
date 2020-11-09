@@ -7,17 +7,17 @@ This world is more beautiful and interconnected than my 16 or 20 year old self c
 
 Here are some things I’ve seen to be true so far. I hope they continue to be true because I am sure of little else. 
 
-  Love
+Love
 
-1. It all begins with and depends on and ends with love. 
-2. Self love makes it possible to love others. The first priority is always one’s own stability.
-3. Safety and acceptance are the most beautiful things one can give and be lucky enough to experience. 
+  1. It all begins with and depends on and ends with love. 
+  2. Self love makes it possible to love others. The first priority is always one’s own stability.
+  3. Safety and acceptance are the most beautiful things one can give and be lucky enough to experience. 
 
-  Stories & Sharing
+Stories & Sharing
 
-4. Everyone has a story. One full of fears, hopes, dreams, and regrets. Listen to them. Thank them.
-5. Art is our expression of beauty and history too visceral for language. 
-6. Ritual is powerful for cultivating desired mind states. This multiplies with each additional ernest participant. 
+  4. Everyone has a story. One full of fears, hopes, dreams, and regrets. Listen to them. Thank them.
+  5. Art is our expression of beauty and history too visceral for language. 
+  6. Ritual is powerful for cultivating desired mind states. This multiplies with each additional ernest participant. 
 
   Rules
 
