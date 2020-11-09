@@ -5,7 +5,7 @@ date: 2020-11-08
 
 This world is more beautiful and interconnected than my 16 or 20 year old self could have ever imagined. I trust this pattern will hold through the decades. 
 
-Here are some things I’ve seen to be true so far. I hope they continue to be so because I can be sure of little else. 
+Here are some things I’ve seen to be true so far. I hope they continue to be true because I am sure of little else. 
 
 Love
 
@@ -16,21 +16,21 @@ Love
 Stories & Sharing
 
 4. Everyone has a story. One full of fears, hopes, dreams, and regrets. Listen to them. Thank them.
-5. Art is our expression of beauty and history too visceral for language to express. 
-6. Ritual is powerful for cultivating desired mind states. This multiples with each additional ernest participant. 
+5. Art is our expression of beauty and history too visceral for language. 
+6. Ritual is powerful for cultivating desired mind states. This multiplies with each additional ernest participant. 
 
 Rules
 
 7. No one has it all figured out. People we admire and look up to have and will make mistakes. We all will. 
-8. Institutions consist of the same fallible people and when one acts a group, one can expect to be judged as a group.
+8. Institutions consist of the same fallible people and when one acts as a group, one can expect to be judged as a group.
 9. Forgiveness and transparency are essential to any long lasting societal structure. 
-10. Views on morality, rights, and religion change over the course of years. Sometimes in one night. Rarely on Twitter. 
-11. Society is nothing but the shared norms we all agree too. They can and will change to guarantee the right of every person to feeling free and able to explore this world. 
+10. One's views on morality, rights, and religion change over the course of years. Sometimes in one night. Rarely on Twitter. 
+11. Society is nothing but the shared norms we all agree too. They can and will change to ensure every person freedom to explore themselves and the world. 
 
 Anxiety & Stress
 
-12. Not all pressure is bad. All pressure is self-imposed, even when it comes from external sources. 
-13. Productivity should not be confused for purpose. 
+12. Not all pressure is bad. All pressure is self-imposed, even when it originates from external sources. 
+13. Productivity should not be confused with purpose. 
 14. The body is a vessel. The better I treat it the better it treats me back.
 15. Worrying about worry is a slippery slope into depression. 
 
@@ -44,7 +44,7 @@ Friends
 Happiness
 
 20. Time in nature is looking at beautiful fractals with soothing sounds and smells to match. Patterns that have been around since before speech. 
-21. Being surrounded by friends and sharing good food (especially cooked together) makes me feel grateful to be alive. 
+21. Being surrounded by friends and sharing a meal, especially one cooked together is always a delight. 
 22. Stars remind me of our smallness and leave me feeling grateful to witness any of them at all. Much of the universe’s future will be much more boring. 
 23. Regular time alone is the foundation of sanity. 
 24. Our world has a lot more room for beauty and at the end of the day there's nobody I'd rather be than myself. 
