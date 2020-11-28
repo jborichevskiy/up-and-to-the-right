@@ -26,6 +26,6 @@ Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9) but residing in S
 
 [jonbo@hey.com](mailto:jonbo@hey.com) • [Twitter](https://twitter.com/jborichevskiy) • Always happy to do a phone/video call!
 
-[RSS](https:/jon.bo/posts/index.xml) • [weekly newsletter](https://jborichevskiy.substack.com) • [major site updates via email](https://mailchi.mp/0e81591ed912/jborichevskiy) • [about this site](/about-blog)
+[RSS](https://jon.bo/posts/index.xml) • [weekly newsletter](https://jborichevskiy.substack.com) • [major site updates via email](https://mailchi.mp/0e81591ed912/jborichevskiy) • [about this site](/about-blog)
 
 [Resume](/borichevskiy_jonathan.pdf) • [Hacker News](https://news.ycombinator.com/user?id=jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jborichevskiy/) • [Instagram](https://www.instagram.com/jborichevskiy/) • [AngelList](https://angel.co/jonathanborichevskiy)
