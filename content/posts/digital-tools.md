@@ -27,7 +27,7 @@ Where to begin? Probably the most common problem I see myself and other people d
 
 - Every book, article, post, or tweet has the potential to lead to more content.
 
-- Content is published in a variety of formats including but not limited to images, sound files, videos, Google Drive docs, diagrams, long-from paywalled articles, PDFs, powerpoint presentations, and base 64 encoded blobs.
+- Content is published in a variety of formats including but not limited to images, sound files, videos, Google Drive docs, diagrams, long-form paywalled articles, PDFs, powerpoint presentations, and base 64 encoded blobs.
 
 - I have little visibility into required time investment and foundational context until I've opened it and started thinking about it. Should I sit down with a pen and paper to read this or can I skim it while waiting for my coffee? 
 
@@ -50,7 +50,7 @@ Where to begin? Probably the most common problem I see myself and other people d
 
 Following my curiosity feels like chasing a caffeinated bunny around while real understanding requires time, perspective, and reflection. The internet makes the former much easier - so I find myself constantly balancing the two. Additionally, my energy and attention levels vary throughout the day and it's far easier to just open Twitter rather than continue reading a long-form article I started on my laptop two days ago. Too often I default to the lower-friction one.
 
-Honorable Mentions: [Pocket](https://www.alfredapp.com/), [Instapaper](https://www.instapaper.com/)
+Honorable Mentions: [Pocket](https://getpocket.com/), [Instapaper](https://www.instapaper.com/)
 
 ## A universal book log, recommendation & sharing system
 
