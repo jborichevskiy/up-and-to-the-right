@@ -24,7 +24,7 @@ Interesting problems, curious projects, and fascinating people. Continuously upd
 - [Launcher](https://launcherspace.com/) is lowering the price of getting small satellites to orbit.
 
 ## Fixing the internet
-- [Sovrin](https://roamresearch.com/) a promising solution to the online identity problem. 
+- [Sovrin](https://sovrin.org/) a promising solution to the online identity problem. 
 - [Solid](https://solid.mit.edu/) is looking to restructure web application for a more privacy-first user-owned data model.
 
 ## People
