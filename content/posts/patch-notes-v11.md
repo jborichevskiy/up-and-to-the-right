@@ -38,7 +38,7 @@ It's deeply introspective, especially after eight plus hours in the consistent e
 
 It's also an interesting chance to play with friction, aerodynamics, and momentum on a playground I don't usually get to enjoy. After driving a Ford Fiesta around for three months this car was pure joy - every time I hit the accelerator I couldn't help but smile. 
 
-But most of all I love them because are an adventure: the car becomes my spaceship and we are on a journey together. It was an amazing road trip and I absolutely cannot wait for my next one, wherever it may lead.
+But most of all I love them because it's an adventure: the car becomes my spaceship and we are on a journey together. It was an amazing road trip and I absolutely cannot wait for my next one, wherever it may lead.
 
 {{<figure src="/zRCTn1LdQ1.png" caption="Leander, TX">}}
 
