@@ -64,7 +64,6 @@ Three Body Problem, The | Cixin Liu
 Dune | Frank Herbert
 A Gentleman in Moscow | Amor Towles
 Do Androids Dream of Electric Sheep? | Philip K. Dick
-Catch-22: 50th Anniversary Edition | Joseph Heller
 Cryptonomicon | Neal Stephenson
 Brave New World | Aldous Huxley
 Devil in the White City | Erik Larson
