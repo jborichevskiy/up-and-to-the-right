@@ -22,7 +22,7 @@ My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
 I find [journaling](/posts/journaling) an incredible tool for growth. [My productivity system](/posts/concentration-compromise), and a [writeup of my habits](/posts/healthy-living).
 
-Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9). Roaming around the country: next stops NYC, San Diego, Boulder.
+Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9). Currently in San Diego. Roaming around the country, next stops: Austin, NYC, San Francisco, Seattle, Boulder.
 
 [jonbo@hey.com](mailto:jonbo@hey.com) • [Twitter](https://twitter.com/jborichevskiy) • Always happy to do a phone/video call!
 
