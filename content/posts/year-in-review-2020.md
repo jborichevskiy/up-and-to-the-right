@@ -141,7 +141,7 @@ I've done my best to make **time & place** the central thread, but in a parallel
 
 {{<figure src="/IMG_2294.jpg" caption="Brooklyn Botanic Garden. A favorite spot in the city.">}}
 
-**followed my heart** and had an amazing time with someone incredible and special in countless ways. Discovered beautiful things about myself, each other, and our world. 
+**followed my heart** and had an amazing time with someone incredible and special. Discovered beautiful things about myself, each other, and our world. 
 
 **took long walks through the city** simultaneously re-living memories from the past and marveling at all that changed since. I accept the city I once knew is gone, but in its place is something just as beautiful, dynamic, and alive. 
 
