@@ -1,8 +1,7 @@
 ---
 title: "Now"
-date: "2020-12-14"
+date: "2021-01-08"
 ---
-
 
 Thinking about social networks and how information moves around the internet. Wondering how we might improve communication bandwidth of humans with an internet connection and get better at solving large-scale problems. 
 
