@@ -7,7 +7,7 @@ date: "2021-01-08"
 
 My year didn't go to plan, but then again -- nobody's did. Terrible things happened, beautiful things happened. I'm very happy with where I am and grateful for those who made it possible.
 
-I've done my best to make **time & place** the central thread, but in a parallel universe I wrote this post around **people and words** and it makes just as much sense.
+I've done my best to make **time & place** the central thread, but in a parallel universe I wrote this post around **words & people** and it makes just as much sense.
 
 ### **NYC & SF // Jan-Mar**
 
@@ -35,7 +35,7 @@ I've done my best to make **time & place** the central thread, but in a parallel
 
 {{<figure src="/Z2puKp8tgc.png" caption="Roseville, CA before the summer heat set in.">}}
 
-**moved in with family** after three years away. It wasn't always easy but I'm glad to say our relationship is in a better place by the time I left six months later. Being together allowed for difficult conversations simply not possible over the phone or during short visits home.  
+**moved in with family** after three years away. It wasn't always easy but I'm glad to say our relationship is in a better place now than when I arrived. Being together allowed for difficult conversations simply not possible over the phone or during short visits home.  
 
 {{<figure src="/zwNcxZjPZG.png" caption="Cronan Ranch Trails Park, CA with my sister Mila">}}
 
