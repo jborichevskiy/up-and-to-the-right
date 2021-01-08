@@ -139,9 +139,9 @@ I've done my best to make **time & place** the central thread, but in a parallel
 > 
 > [Patch Notes v5: Shared social cognition and the effect of distance on it](/posts/patch-notes-v3/#have-i-become-dumber-since-moving-away-from-my-roommates)
 
-**followed my heart** and had an incredible time with someone really amazing and special in so many countless ways. Discovered beautiful things about myself, each other, and our world. Thank you <3
-
 {{<figure src="/jJk_qV_xGO.png" caption="The Hoxton, Williamsburg, NYC. A wonderful hotel. ">}}
+
+**followed my heart** and had an incredible time with someone really amazing and special in so many countless ways. Discovered beautiful things about myself, each other, and our world. Thank you <3
 
 **took long walks through the city** simultaneously re-living memories from the past and marveling at all that changed since. I accept the city I once knew is gone, but in its place is something just as beautiful, dynamic, and alive. 
 
