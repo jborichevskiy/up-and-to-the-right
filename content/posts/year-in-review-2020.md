@@ -141,13 +141,13 @@ I've done my best to make **time & place** the central thread, but in a parallel
 
 {{<figure src="/IMG_2294.jpg" caption="Brooklyn Botanic Garden. A favorite spot in the city.">}}
 
-**followed my heart** and had an incredible time with someone amazing and special in countless ways. Discovered beautiful things about myself, each other, and our world. Thank you <3
+**followed my heart** and had an amazing time with someone incredible and special in countless ways. Discovered beautiful things about myself, each other, and our world. 
 
 **took long walks through the city** simultaneously re-living memories from the past and marveling at all that changed since. I accept the city I once knew is gone, but in its place is something just as beautiful, dynamic, and alive. 
 
 {{<figure src="/5t4hsplXaE.png" caption="Williamsburg, NYC. A night to remember.">}}
 
-**celebrated New Years** by dancing with friends on a rooftop to an incredible cheer from the rest of the city amidst fireworks and honking. 
+**celebrated New Years** by dancing with friends on a rooftop to a cheer from the rest of the city amidst fireworks, honking, and laughter. 
 
 Couldn't have wished for a more perfect way to say farewell to 2020 and welcome to 2021. 
 
