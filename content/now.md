@@ -1,13 +1,15 @@
 ---
 title: "Now"
-date: "2021-01-08"
+date: "2021-01-13"
 ---
 
 Thinking about social networks and how information moves around the internet. Wondering how we might improve communication bandwidth of humans with an internet connection and get better at solving large-scale problems. 
 
-Reading Beginning of Infinity by David Deutsch, Literary Machines by Ted Nelson, and Nonviolent Communication by Marshall B. Rosenberg.
+Reading Literary Machines by Ted Nelson, Nonviolent Communication by Marshall B. Rosenberg, Be Here Now by Ram Dass, and Beginning of Infinity by David Deutsch.
 
-Hosting [interhackt.space](https://interhackt.space), building [AnOpenPlan](https://www.anopenplan.com/), and more on my [/plan](/plan) page.
+Listening to Lab Girl by Hope Jahren.
+
+Residing in San Diego, CA. 
 
 Building with Elixir/Phoenix at [Ressemble](https://www.ressemble.com/).
 
