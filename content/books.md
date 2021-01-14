@@ -12,15 +12,16 @@ Wisdom of Crowds, The | James Surowiecki
 Behave: The Biology of Humans at Our Best and Worst | Robert M. Sapolsky
 Brain that Changes Itself, The | Norman Doidge
 Man Who Mistook His Wife For A Hat, The | Oliver Sacks
-Nature Fix: Why Nature Makes Us Happier, Healthier, and More Creative, The | Florence Williams
-Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century | Howard Bloom
+Nature Fix | Florence Williams
+Global Brain | Howard Bloom
 Musicophilia | Oliver Sacks
 Psychology of the Digital Age | John Suler
-Imp of the Mind: Exploring the Silent Epidemic of Obsessive Bad Thoughts, The | Lee Baer
+Imp of the Mind | Lee Baer
 Ketamine for Depression | Dr. Stephen J. Hyde
 This Naked Mind | Annie Grace
 How to Take Smart Notes ([my notes](/books/how-to-take-smart-notes)) | Sönke Ahrens
 Elephant in the Brain, The | Kevin Simler and Robin Hanson
+Phantoms in the Brain | Sandra Blakeslee, V. S. Ramachandran
 
 | Life, Philosophy, Religion, Spirituality |  |
 | ---- | ---- |
@@ -39,6 +40,7 @@ Finite and Infinite Games | James Carse
 Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys | James Fadiman
 Attached | Amir Levine
 LSD: My Problem Child | Albert Hofmann
+Walden | Henry David Thoreau
 
 | Politics & Social Sciences |  |
 | ---- | ---- |
@@ -49,12 +51,14 @@ Amusing Ourselves to Death | Neil Postman
 Nothing Is True and Everything Is Possible | Peter Pomerantsev
 Master Switch, The | Tim Wu
 On Tyranny: Twenty Lessons from the Twentieth Century | Timothy Snyder
+Letters to a Young Contrarian | Christopher Hitchens
+Hell's Angels | Hunter S. Thompson
 
 | Behavioral Economics | |
 | ---- | ---- |
 Thinking, Fast and Slow	| Daniel Kahneman
 Influence | Robert B. Cialdini
-Predictably Irrational: The Hidden Forces That Shape Our Decisions | Dan Ariely
+Predictably Irrational | Dan Ariely
 
 | Fiction |  |
 | ---- | ---- |
@@ -81,8 +85,9 @@ Stand, The | Stephen King
 | ---- | ---- |
 Singularity Is Near: When Humans Transcend Biology | Ray Kurzweil
 Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World, The | Pedro Domingos
+Novacene | James Lovelock, Bryan Appleyard
 
-| Startups, Business, Career, Institutions |  |
+| Startups, Business, Institutions |  |
 | ---- | ---- |
 Zero to One | Peter Thiel
 Range: Why Generalists Triumph in a Specialized World | David Epstein
@@ -100,7 +105,7 @@ Space Barons, The | Christian Davenport
 Skygods: The Fall of Pan Am | Robert Gandt
 American Kingpin | Nick Bilton
 
-| Finance and Economics |  |
+| Finance & Economics |  |
 | ---- | ---- |
 Richest Man in Babylon | George Clason
 Rich Dad Poor Dad | Robert T. Kiyosaki
@@ -124,10 +129,13 @@ On the Move: A Life | Oliver Sacks
 Fear and Loathing in Las Vegas | Hunter S. Thompson
 Big Dead Place | Nicholas Johnson
 Permanent Record | Edward Snowden
+Everything in its Place | Oliver Sacks
+Last Lecture, The | Jeffrey Zaslow
 
 | Short Stories & Novellas |  |
 | ---- | ---- |
 Understand | Ted Chiang
+Exhalation: Stories | Ted Chiang
 Last Question, The | Issac Asimov
 Egg, The | Andy Weir
 
@@ -158,3 +166,4 @@ Tomorrow Code, The | Brian Falkner
 Holes | Louis Sachar
 Giver, The | Lois Lowry
 Ender's Game | Orson Scott Card
+Island of the Blue Dolphins | Scott O'Dell
