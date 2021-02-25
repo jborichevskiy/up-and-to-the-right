@@ -4,6 +4,7 @@ date: "2021-02-24"
 ---
 
 Living in Oceanside, CA - let me know if you’re here! The sunsets are incredible.
+
 - Aiming for Boulder, CO from April onwards. 
 - Looking for a tiny home to stay in: ideally near trees and walking trails and a few cool neighbors. 
 
