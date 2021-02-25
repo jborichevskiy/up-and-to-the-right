@@ -1,18 +1,18 @@
 ---
 title: "Now"
-date: "2021-01-13"
+date: "2021-02-24"
 ---
 
-Thinking about social networks and how information moves around the internet. Wondering how we might improve communication bandwidth of humans with an internet connection and get better at solving large-scale problems. 
+Living in Oceanside, CA - let me know if you’re here! The sunsets are incredible.
+- Aiming for Boulder, CO from April onwards. 
+- Looking for a tiny home to stay in: ideally near trees and walking trails and a few cool neighbors. 
 
-Reading Literary Machines by Ted Nelson, Nonviolent Communication by Marshall B. Rosenberg, Be Here Now by Ram Dass, and Beginning of Infinity by David Deutsch.
+Readig Lab Girl, Entangled, How to Not Die Alone, Literary Machines, Beginning of Infinity, and Full Dark, No Stars.
 
-Listening to Lab Girl by Hope Jahren.
+Coding at [Ressemble](https://ressemble.com) with Elixir and JavaScript.
+ 
+Pondering what the next generation of internet writing communication tools look like. 
 
-Residing in San Diego, CA. 
+Trying to dedicate more time in ritual and play to my creative habits. Have a couple posts cooking.
 
-Building with Elixir/Phoenix at [Ressemble](https://www.ressemble.com/).
-
-Staying sane with [Roam Research](https://roamresearch.com).
-
-[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/now.md). • [What's a now page?](https://nownownow.com/about)
+Going insane with [Roam Research](https://roamresearch.com) (and all the other apps too).
