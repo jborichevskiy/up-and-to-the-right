@@ -16,3 +16,5 @@ Pondering what the next generation of internet writing communication tools look 
 Trying to dedicate more time in ritual and play to my creative habits. Have a couple posts cooking.
 
 Going insane with [Roam Research](https://roamresearch.com) (and all the other apps too).
+
+[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/now.md). • [What's a now page?](https://nownownow.com/about)
