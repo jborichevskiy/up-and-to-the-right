@@ -30,7 +30,7 @@ Currently in Oceanside, CA. The ocean is indeed beautiful but the city has chara
 
 My life has become steadily more fascinating since my [Next Steps post](https://jon.bo/posts/next-steps-2019/) - yet I can take little credit for this. It’s thanks to random people sending me emails; people I most *definitely* would not have bumped into otherwise. Those emails have led to fascinating phone calls, meets in various cities, job offers, invites to communities, and offers of collaboration. 
 
- - To those people: thank you! Such moments inspire me to keep writing in hopes of spreading the potential of internet connection to more human beings. 
+ - To those people: thank you! Such moments inspire me to keep writing in hopes of spreading the joy of internet connection to more human beings. 
 
 Most of this comes down to the simple fact I sat down, wrote some words, and published them to the internet. The potential of writing on the internet for anyone is staggering and it's clear to me most of this potential has not been realized yet. 
 
