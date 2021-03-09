@@ -22,7 +22,7 @@ In this release:
 
 After three thousand miles of driving and a dozen sleeping arrangements I just want to plant a garden and lie in a hammock with a book. It’s been amazing but I’m ready to settle down somewhere for a bit. Particularly I’m looking for walkability, nightlife, nature, and affordability (so far I’ve found it to be a pick 3/4 situation but feel free to correct me). 
 
-Currently in Oceanside, CA. The ocean is indeed beautiful but the city has character too: it’s small enough to be walkable yet large enough to have most things I’d care to walk to walk to like coffee shops and tacos. It’s cheaper than San Diego and San Francisco and isn’t spread out like Los Angeles. I like it.  
+Currently in Oceanside, CA. The ocean is indeed beautiful but the city has character too: it’s small enough to be walkable yet large enough to have most things I’d care to walk to like coffee shops and tacos. It’s cheaper than San Diego and San Francisco and isn’t spread out like Los Angeles. I like it.  
 
 {{<figure src="/E2vDtUkHiu.png" caption="Angel's Landing at Zion">}}
 
