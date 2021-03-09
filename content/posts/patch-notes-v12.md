@@ -96,9 +96,9 @@ My willingness to write under my real name has been steadily declining over the 
 
 When I do write about them, it's typically under a pseudonym. I’m much more open in private conversations online or around friends, coworkers, at meetups, and even on random walks with strangers. It’s specifically publishing things to the global record that I am careful about. I have two distinct fears:
 
- - **people I love today being hurt** by information I share intentionally such as my family, relatives, and friends. I've realized this one is unavoidable. 
+ - **people I love today being hurt** by information I share intentionally, such as my family, relatives, and friends. I've realized this one is unavoidable but I'm going to strive to be as graceful and considerate as possible about the whole process. 
 
- - **people love in the future being hurt** by information I created yesterday by limiting my employment opportunities because of things I've said. This one is inevitable as well. 
+ - **people love in the future being hurt** by information I created yesterday by limiting my employment opportunities because of things I've said. This one seems inevitable as well. 
 
 **what do I really want to write about?** 
 
@@ -118,7 +118,7 @@ I want to write about experiences which require a level of context and nuance be
 
 **why don't I write about them?**
 
-In the grand scheme I'm writing little that hasn't been spoken and written ten thousand times prior. My life is pretty tame. Chances are a hundred years after my death nothing of me will be remembered by anyone - and that's fine by me! But people I love *today* stand to suffer as a result of me writing and this makes things tricky. 
+In the grand scheme of things, I'm writing little that hasn't been spoken and written ten thousand times prior. My life is pretty tame. Chances are a hundred years after my death nothing of me will be remembered by anyone - and that's fine by me! But people I love *today* stand to suffer as a result of me writing and this makes things tricky. 
 
 **identity, the internet and permanence**
 
