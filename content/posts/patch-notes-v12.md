@@ -32,9 +32,9 @@ My life has become steadily more fascinating since my [Next Steps post](https://
 
  - To those people: thank you! Such moments inspire me to keep writing in hopes of spreading the potential of internet connection to more human beings. 
 
-Most of this comes down to the simple fact I sat down, wrote some words, and published them to the internet. The potential of the internet is staggering and it's clear to me most of the potential value for humanity has not been realized yet. 
+Most of this comes down to the simple fact I sat down, wrote some words, and published them to the internet. The potential of writing on the internet for anyone is staggering and it's clear to me most of this potential has not been realized yet. 
 
-For the past year I've been building Ressemble - better communication for sales teams. I’m happy and well-compensated and I’ll likely stay for a while. I believe our effort has a good chance of giving me the resources to work on harder, less fundable problems after. 
+For the past year I've been building at [Ressemble](https://ressemble.com) - better communication for sales teams. I’m happy and well-compensated and I’ll likely stay for a while. I believe our effort has a good chance of giving me the resources to work on harder, less fundable problems after. 
 
 I love code and what it enables for me and the world at large, but I’m coming to terms with the fact I’d rather look at a writing app all day instead one for code. Preferably a writing app I can use outside or while walking, with voice dictation. In particular, I’m excited to help create (or perhaps someday fund):
 
@@ -136,7 +136,7 @@ I'm grappling. I’ll write. I know I will because I already am and it's what I 
 
 A large part of how happy I am in life is thanks to regular people like myself not allowing social stigma, potential employers, or stooges keep them from sharing their experiences and learnings with the world. This is hugely inspiring to me and I'm forever grateful. I feel it's only fair to add my own voice to that symphony.
 
-My preferred long term solution to this problem is to acquire fuck you money. That will take a while though. And I really can't wait that long. Another potential solution publishing under a pseudonymous identity, though I also believe such protection will be useless in a couple years.
+My preferred long term solution to this problem is to acquire fuck you money. That will take a while though. And I really can't wait that long. Another potential solution is to continue publishing under a pseudonymous identity, though I also believe such protections will be useless in a few years.
 
 Mostly I just need to get over these fears, accept the risks, and move forward with writing about the things I care deeply about. 
 
@@ -144,11 +144,9 @@ Mostly I just need to get over these fears, accept the risks, and move forward w
 
 ## road tripping through the southwest
 
-I got to do an amazing 8-day road trip with my good friend Nancy through some of the country's most beautiful national parks. It was colder than one might've preferred but we got to see some incredible sights. 
+I got to do an amazing 8-day road trip with my good friend Nancy through some of the country's most beautiful national parks. Thought we were traveling off-season, we got to see some incredible sights and made some memories for a lifetime. 
 
-We were hit with every type of weather imaginable: there wasn't much we could do about it besides make the most of it. Winter gear works (but it's so pricey). It’s worth it.
-
-Two-person travel also seems to deliver the best ratio of flexibility:fun - unexpected lodging changes pose less of a problem, decisions are easy, and getting ready to go can be pretty quick.
+We were also hit with every type of weather imaginable: I learned that winter gear does indeed work (but it's oh so pricey). Two-person travel also seems to deliver the best ratio of flexibility:fun - unexpected lodging issues pose less of a problem, decisions are easy, and getting ready to go can be pretty quick.
 
 {{<figure src="/njZcIZ5hSo.png" caption="not pictured: frozen feet">}}
 
@@ -164,7 +162,7 @@ We learned a lot about aerodynamics and water currents and waterproof clothing. 
 
  - **For the final thirty minutes** we strapped the two canoes together and furiously paddled to keep them pointed towards shore and moving. Tying them together helped somewhat with the stability but even still, every foot was a battle and the river didn’t surrender them easily. 
 
- - We were met with a welcome committee of curious onlookers at shore as we defrosted. All in all, a spectacular adventures and a beautiful canyon. 
+ - We were met with a welcome committee of curious onlookers at shore as we defrosted. All in all, a spectacular adventure in a beautiful canyon. 
 
 {{<figure src="/11qDk9dK08.png" caption="Arches National Park">}}
 
