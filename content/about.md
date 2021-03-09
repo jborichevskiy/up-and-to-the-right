@@ -22,10 +22,10 @@ My name is Jonathan Borichevskiy, but most friends just call me Jon.
 
 I find [journaling](/posts/journaling) an incredible tool for growth. [My productivity system](/posts/concentration-compromise), and a [writeup of my habits](/posts/healthy-living).
 
-Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9). Currently in San Diego. Roaming around the country, next stops: Austin, NYC, San Francisco, Seattle, Boulder.
+Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9).
 
 [jonbo@hey.com](mailto:jonbo@hey.com) • [Twitter](https://twitter.com/jborichevskiy) • Always happy to do a phone/video call!
 
-[RSS](https://jon.bo/posts/index.xml) • [weekly newsletter](https://jborichevskiy.substack.com) • [major site updates via email](https://mailchi.mp/0e81591ed912/jborichevskiy) • [about this site](/about-blog)
+[RSS](https://jon.bo/posts/index.xml) • [occasional email updates](https://mailchi.mp/0e81591ed912/jborichevskiy) • [about this site](/about-blog)
 
 [Resume](/borichevskiy_jonathan.pdf) • [Hacker News](https://news.ycombinator.com/user?id=jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jborichevskiy/) • [Instagram](https://www.instagram.com/jborichevskiy/) • [AngelList](https://angel.co/jonathanborichevskiy)
