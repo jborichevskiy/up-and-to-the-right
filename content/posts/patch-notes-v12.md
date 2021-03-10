@@ -98,7 +98,7 @@ When I do write about them, it's typically under a pseudonym. I’m much more op
 
  - **people I love today being hurt** by information I share intentionally, such as my family, relatives, and friends. I've realized this one is unavoidable but I'm going to strive to be as graceful and considerate as possible about the whole process. 
 
- - **people love in the future being hurt** by information I created yesterday by limiting my employment opportunities because of things I've said. This one seems inevitable as well. 
+ - **people I will love in the future being hurt** by information I created yesterday by limiting my employment opportunities because of things I've said. This one seems inevitable as well. 
 
 **what do I really want to write about?** 
 
