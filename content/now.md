@@ -1,21 +1,20 @@
 ---
-title: "Now"
-date: "2021-02-24"
+title: "now"
+date: undefined
 ---
 
-Living in Oceanside, CA - let me know if you’re here! The sunsets are incredible.
 
-- Aiming for Boulder, CO from April onwards. 
-- Looking for a tiny home to stay in: ideally near trees and walking trails and a few cool neighbors. 
+Location: Huatulco, Mexico.
 
-Readig Lab Girl, Entangled, How to Not Die Alone, Literary Machines, Beginning of Infinity, and Full Dark, No Stars.
+thinking about digital writing, therapy, and journaling
 
-Coding at [Ressemble](https://ressemble.com) with Elixir and JavaScript.
- 
-Pondering what the next generation of internet writing communication tools look like. 
+building a roam-based cms
 
-Trying to dedicate more time in ritual and play to my creative habits. Have a couple posts cooking.
+reading Entangled and Beginning of Infinity
 
-Going insane with [Roam Research](https://roamresearch.com) (and all the other apps too).
+listening to Curse of Lono
 
-[See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/now.md). • [What's a now page?](https://nownownow.com/about)
+figuring out where I want to live, and with who
+
+programming at [Ressemble](https://ressemble.com) with Elixir and JavaScript
+
