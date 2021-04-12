@@ -4,7 +4,7 @@ date: 2021-04-11
 ---
 
 
-Location: Huatulco, Mexico.
+In Huatulco, Mexico. 
 
 thinking about digital writing, therapy, and journaling
 
