@@ -131,6 +131,7 @@ Big Dead Place | Nicholas Johnson
 Permanent Record | Edward Snowden
 Everything in its Place | Oliver Sacks
 Last Lecture, The | Jeffrey Zaslow
+Kitchen Confidential | Anthony Bourdain
 
 | Short Stories & Novellas |  |
 | ---- | ---- |
