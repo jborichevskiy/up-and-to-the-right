@@ -1,22 +1,18 @@
 ---
 title: "now"
-date: 2021-04-11
+date: 2021-06-04
 ---
 
 
-In Huatulco, Mexico. 
+living in Santa Anita, Baja California for the rest of June
 
-thinking about digital writing, therapy, and journaling
+thinking about digital writing, therapy, and journaling. Occasionally all at once
 
-building a roam-based cms
+listening to Clash of Civilizations and Daemon
 
-reading Entangled and Beginning of Infinity
+playing with [buzzard.life](https://buzzard.life)
 
-listening to Curse of Lono
-
-figuring out where I want to live, and with who
-
-programming at [Ressemble](https://ressemble.com) with Elixir and JavaScript
+building at [Ressemble](https://ressemble.com) with Elixir and coffee
 
 [See past versions of this page](https://github.com/jborichevskiy/up-and-to-the-right/blob/master/content/now.md) • [What's a now page?](https://nownownow.com/about)
 
