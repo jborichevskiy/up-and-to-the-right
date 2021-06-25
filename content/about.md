@@ -24,8 +24,8 @@ I find [journaling](/posts/journaling) an incredible tool for growth. [My produc
 
 Citizen of [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9).
 
-[jonbo@hey.com](mailto:jonbo@hey.com) • [Twitter](https://twitter.com/jborichevskiy) • Always happy to do a phone/video call!
+[jonbo@hey.com](mailto:jonbo@hey.com) • [Twitter](https://twitter.com/jondotbo) • Always happy to do a phone/video call!
 
 [RSS](https://jon.bo/posts/index.xml) • [occasional email updates](https://mailchi.mp/0e81591ed912/jborichevskiy) • [about this site](/about-blog)
 
-[Resume](/borichevskiy_jonathan.pdf) • [Hacker News](https://news.ycombinator.com/user?id=jborichevskiy) • [Github](https://github.com/jborichevskiy) • [LinkedIn](https://www.linkedin.com/in/jborichevskiy/) • [Instagram](https://www.instagram.com/jborichevskiy/) • [AngelList](https://angel.co/jonathanborichevskiy)
+[Past Work](/borichevskiy_jonathan.pdf) • [Hacker News](https://news.ycombinator.com/user?id=jborichevskiy) • [Github](https://github.com/jborichevskiy) • [Instagram](https://www.instagram.com/jborichevskiy/)

@@ -1,8 +1,7 @@
 ---
 title: "now"
-date: 2021-06-04
+date: 2021-06-25
 ---
-
 
 living in Santa Anita, Baja California for the rest of June
 
