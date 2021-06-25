@@ -116,11 +116,9 @@ Mexico City was indeed a chapter, and leaving was hard. The food. The density. T
 
 Being there felt simultaneously energizing and draining. So much life. Parties, museums, dinners, picnics, trees. Just meet up and wander: weeks passed in an invigorating blur of stimulation with little time for reflection and self-care. 
 
-Moving from place to place gives you a fresh slate to work with: habits, identity, routine, socialization, diet, sleep, mobility all get
+Moving to a new place gives you a fresh slate to work with: habits, identity, routine, socialization, diet, sleep, mobility all rattled. I am no doubt a different person than the one who arrived. I'd like to think it's a version of the old Jon that's a little wiser. More open to the tiny serendipities that make up the highlights of our hours and days. 
 
-I am no doubt a different person than the one who arrived. I'd like to think it's a version of the old Jon that's a little wiser. More open to the tiny serendipities that make up the highlights of our hours and days. 
-
-Some of my consciousness that lives on in Mexico City, just like it exists in Sacramento and New York and Austin and Oceanside and Coronado. 
+Part of my consciousness lives on in Mexico City, just like it exists in Sacramento and New York and Austin and Oceanside and Coronado. Parts of all places live on in me. 
 
 ### driving around Mexico
 
