@@ -30,7 +30,7 @@ HUGO_VERSION = "0.55.6"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "https://words.jon.bo"*
+  from = "https://words.jon.bo"
   to = "https://publish.obsidian.md/serve?url=jonbo/words"
   status = 200
   force = true
