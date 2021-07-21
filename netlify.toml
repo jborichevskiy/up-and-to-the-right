@@ -29,3 +29,8 @@ HUGO_VERSION = "0.55.6"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+  from = "https://mysite.com/words/*"
+  to = "https://publish.obsidian.md/serve?url=jonbo/words"
+  status = 200
+  force = true
