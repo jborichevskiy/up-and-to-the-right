@@ -46,3 +46,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://publish.obsidian.md/jon-bo"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://jon.bo/garden"
+  to = "https://publish.obsidian.md/jon-bo"
+  status = 301
+  force = true
