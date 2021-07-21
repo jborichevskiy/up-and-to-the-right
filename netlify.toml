@@ -31,6 +31,6 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://jon.bo/garden"
-  to = "https://publish.obsidian.md/words/"
+  to = "https://publish.obsidian.md/words/garden"
   status = 200
   force = true
