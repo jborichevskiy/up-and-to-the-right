@@ -44,5 +44,5 @@ HUGO_ENABLEGITINFO = "true"
 [[redirects]]
   from = "https://jon.bo/r"
   to = "https://publish.obsidian.md/jonbo-garden"
-  status = 307
+  status = 301
   force = true
