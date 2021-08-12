@@ -58,3 +58,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://publish.obsidian.md/jon-bo/where"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "https://jon.bo/notes-ipfs"
+  to = "https://publish.obsidian.md/jon-bo/notes-to-ipfs"
+  status = 301
+  force = true
