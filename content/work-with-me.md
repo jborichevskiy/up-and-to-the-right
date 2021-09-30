@@ -3,7 +3,8 @@ title = "Work With Me"
 type = "single"
 ShowPosts = false
 aliases = [
-    "/work"
+    "/work",
+    "/build"
 ]
 +++
 
