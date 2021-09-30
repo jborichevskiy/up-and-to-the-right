@@ -50,7 +50,7 @@ So what did we build? [Cozyroom.xyz](https://cozyroom.xyz/)! An online space whe
 
 ### Hyperlinks
 
-{{<tweet 1245909154490875906>}}
+tweet 1245909154490875906
 
 You may be noticing me doing weird things with hyperlinks around my site lately. I'm having a bit of an existential crisis with what hyperlinks are. This tweet referenced above got stuck in my brain and now I'm reformatting all my links to include where this link goes? Or its content type? I'm honestly not sure. I think I realized I don't like current hyperlinks and they could be a lot more.
 
