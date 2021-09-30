@@ -70,7 +70,7 @@ Contact: jonbo@hey.com, [@jondotbo](https://twitter.com/jondotbo), and jonbo#520
 - co-designed and prototyped [Obsidian plugin](https://github.com/readwiseio/obsidian-readwise) for synchronizing highlights, handled server-side authentication and app configuration screens
 - built with Django, Celery, and Typescript
 
-### Less Recent Projects
+### Less Recent
 
 **[illumis](https://illumis.com/)** | founding engineer
 
