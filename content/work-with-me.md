@@ -22,7 +22,7 @@ Read more on [digital tools I wish existed](https://jon.bo/posts/digital-tools),
 
 _Looking for_: part-time work around smart contracts and/or full-stack Python, Node, or Elixir development in web3.
 
-Open to DAOs and other experimental community organizations. Fully remote preferred.
+_Open to_: DAOs, experimental community organizations, and traditional orgs & consulting arrangeme arrangements. Fully remote preferred.
 
 Contact: jonbo@hey.com, [@jondotbo](https://twitter.com/jondotbo), and jonbo#5205 on Discord.
 
