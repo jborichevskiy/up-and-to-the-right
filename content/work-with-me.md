@@ -16,7 +16,7 @@ I am confident building in exploratory, research-driven teams while coordinating
 
 I believe in sustainable, open, and inclusive approaches to engineering. Excited about decentralized tools emphasizing user comfort and sustainability.
 
-Read more on [digital tools I wish existed](https://jon.bo/posts/digital-tools), [my plans for building them](https://jon.bo/posts/next-steps-2019), and [various other ideas](https://jon.bo/ideas).
+Read more on [digital tools I wish existed](/posts/digital-tools), [my plans for building them](https://jon.bo/posts/next-steps-2019), and [various other ideas](/ideas). For more about me, see [About Me](/about).
 
 ---
 
