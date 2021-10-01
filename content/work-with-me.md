@@ -33,14 +33,14 @@ Contact: jonbo@hey.com, [@jondotbo](https://twitter.com/jondotbo), and jonbo#520
 **Exquisite Land** | full-stack engineering, ideation, & community
 
 - tile-based collaborative pixel art NFT game
-- [open-source](https://github.com/relational-os/exquisite-land) and [built in public](https://www.youtube.com/playlist?list=PLRrtyVcA7IkpfqjR94gZwORPCFuQ16NkG) as part of [Buzzard squad](https://buzzard.life)
+- [open-source](https://github.com/relational-os/exquisite-land) and [built in public](https://www.youtube.com/playlist?list=PLRrtyVcA7IkpfqjR94gZwORPCFuQ16NkG) as part of [Buzzard squad](https://buzzard.life) on [Relational](https://github.com/relational-os/)
 - [live prototype](https://exquisite-land.vercel.app/) on a Polygon testnet
 - built with NextJS, Solidity, React, Vercel, The Graph
 
 **Honeycombs** | full-stack engineering, ideation
 
 - collaborative publishing on blockchain
-- [open source](https://github.com/relational-os/honeycombs), [built in public](https://www.youtube.com/playlist?list=PLRrtyVcA7IkrgM4itYJ_6itpy9FE8E89Z) as part of the [Buzzard Squad](https://buzzard.life)
+- [open source](https://github.com/relational-os/honeycombs), [built in public](https://www.youtube.com/playlist?list=PLRrtyVcA7IkrgM4itYJ_6itpy9FE8E89Z) as part of the [Buzzard Squad](https://buzzard.life) on [Relational](https://github.com/relational-os/)
 - built with NextJS, Solidity, React, Vercel, The Graph
 
 ### Recent Projects
