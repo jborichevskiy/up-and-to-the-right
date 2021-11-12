@@ -22,6 +22,7 @@ This Naked Mind | Annie Grace
 How to Take Smart Notes ([my notes](/books/how-to-take-smart-notes)) | Sönke Ahrens
 Elephant in the Brain, The | Kevin Simler and Robin Hanson
 Phantoms in the Brain | Sandra Blakeslee, V. S. Ramachandran
+Victorian Internet, Tom Standage
 
 | Life, Philosophy, Religion, Spirituality |  |
 | ---- | ---- |
@@ -41,6 +42,7 @@ Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys | James Fad
 Attached | Amir Levine
 LSD: My Problem Child | Albert Hofmann
 Walden | Henry David Thoreau
+War of Art, The | Steven Pressfield
 
 | Politics & Social Sciences |  |
 | ---- | ---- |
@@ -80,6 +82,7 @@ Fahrenheit 451 | Ray Bradbury
 Hobbit, The | J.R.R. Tolkien
 Dark Tower, The | Stephen King
 Stand, The | Stephen King
+Annihilation, Jeff VanderMeer
 
 | Artificial Intelligence |  |
 | ---- | ---- |
