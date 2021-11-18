@@ -87,4 +87,4 @@ My current template is as follows, but it's subject to change and simply a snaps
 
 I admit it: I still have plenty of reservations about my tooling, publishing layer, and note-taking system. But if people were able to share their thoughts with the world using typewriters, candlelight and publishing houses, I can share mine with billions of transistors at my disposal and a global network connected at the speed of light. It's just a matter of getting my thoughts out of my head regularly, and sharing those that seem to come up over and over again.
 
-[^1]: roam vs obsidian; bullets vs files; hierarch vs stream. A lot to unpack here, for another post.
+[^1]: roam vs obsidian; bullets vs files; hierarchy vs stream. A lot to unpack here, for another post.
