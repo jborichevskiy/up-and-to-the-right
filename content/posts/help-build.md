@@ -67,7 +67,7 @@ Related efforts I'm following:
 
 I owe a lot to libraries as a kid and hope future generations can find as much support access as they gave me. The library of the future:
 
-- open 24/7, like internet cafes
+- open 24 / 7, like internet cafes
 - fresh coffee
 - beastly computers, consoles, and internet connections
 - loaner e-readers and electronics
