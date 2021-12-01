@@ -38,5 +38,5 @@ The format of this site will evolve as I figure out exactly how, when, and for w
 - continue building and learning with Buzzard
 - sign a 6 to 12-month lease somewhere in the U.S. or Mexico
 - continue learning Spanish, both online and offline
-- write 100 posts, inspiration to [Visakan Veerasamy](https://twitter.com/visakanv/status/1330985556872818689?s=20) for this goal. (this is post #5!)
+- write 100 posts, inspiration to [Visakan Veerasamy](https://twitter.com/visakanv/status/1330985556872818689?s=20) for this goal. (this is post #4!)
 - long walks, serene mornings, and more writing
