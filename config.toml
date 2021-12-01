@@ -56,14 +56,6 @@ paginate = 5
         name = "Books"
         url = "/books"
       [[languages.en.menu.main]]
-        identifier = "notable"
-        name = "Notable"
-        url = "/notable"
-      [[languages.en.menu.main]]
         identifier = "ideas"
         name = "Ideas"
         url = "/Ideas"
-      [[languages.en.menu.main]]
-        identifier = "plan"
-        name = "Plan"
-        url = "/plan"
