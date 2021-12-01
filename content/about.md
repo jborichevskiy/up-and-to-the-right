@@ -26,4 +26,4 @@ Citizen of the Internet on [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9).
 
 [rss](https://jon.bo/posts/index.xml) • [occasional email updates](https://mailchi.mp/0e81591ed912/jborichevskiy) • [about this site](/about-blog)
 
-[past stuff](/borichevskiy_jonathan.pdf) • [hacker news](https://news.ycombinator.com/user?id=jborichevskiy) • [github](https://github.com/jborichevskiy) • [instagram](https://www.instagram.com/jborichevskiy/)
+[past stuff](/borichevskiy_jonathan.pdf) • [hacker news](https://news.ycombinator.com/user?id=jborichevskiy) • [github](https://github.com/jborichevskiy) • [instagram](https://www.instagram.com/jondotbo)
