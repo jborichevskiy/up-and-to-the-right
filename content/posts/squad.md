@@ -10,7 +10,7 @@ _post #5. I've spent the past half-year building with wonderful people I re/met 
 
 ## what's in a squad?
 
-A squad is a collective identity in which I can participate to create something more intricate, comprehensive, and wonderful than with just myself. It is not a startup, nor an organization with a mission statement, nor a non-profit, nor a consultancy. Some phrases I've used are "open source studio", "pre-DAO collective", "design collaborative", and "a shared playground for creativity". But none quite capture the unique structure that we've formed for ourselves.
+A squad is a collective identity in which I can participate to create something more intricate, comprehensive, and wonderful than with just myself. It is not a startup, nor an organization with a mission statement, nor a non-profit, nor a consultancy. Some phrases I've used are "open source studio", "pre-DAO collective", "design collaborative", and "a shared playground for creativity". But none quite capture the unique structure that we've formed.
 
 Our calls are space we hold in which we invite one other to explore and create what wants to be built at the intersection of all our interests and diverse perspectives and past experiences. We have confidence that our thinking about these problems is aligned enough to be able to act independently yet in congruence with each other -- whether on a public Twitter space or in a community bug-handling channel in Discord.
 
