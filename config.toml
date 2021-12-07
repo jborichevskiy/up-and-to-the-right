@@ -10,7 +10,7 @@ paginate = 5
   # "light" or "dark"
   defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
   # Show reading time in minutes for posts
   showReadingTime = false
 
@@ -19,7 +19,7 @@ paginate = 5
     title = "Up and to the Right"
     subtitle = "Jonathan Borichevskiy"
     keywords = ""
-    copyright = "Jonathan Borichevskiy. Built with&nbsp;<a href='/about-blog'>Hugo</a>"
+    copyright = "<a href='/about'>jon.bo</a>"
     menuMore = "More"
     writtenBy = "Written by"
     readMore = "Read"
@@ -47,10 +47,6 @@ paginate = 5
         identifier = "Blog"
         name = "Blog"
         url = "/posts"
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
       [[languages.en.menu.main]]
         identifier = "books"
         name = "Books"
