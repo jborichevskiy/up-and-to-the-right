@@ -6,7 +6,7 @@ Favorite books by subject. Most of these fit into more than one so I had to pick
 
 Have a recommendation for one that should be on this list? [Drop me a line!](/about)
 
-| Human Brain, Group Psychology, Networks |  |
+| Brain / Networks / Collaboration |
 | ---- | ---- |
 Wisdom of Crowds, The | James Surowiecki
 Behave: The Biology of Humans at Our Best and Worst | Robert M. Sapolsky
@@ -22,9 +22,9 @@ This Naked Mind | Annie Grace
 How to Take Smart Notes ([my notes](/books/how-to-take-smart-notes)) | Sönke Ahrens
 Elephant in the Brain, The | Kevin Simler and Robin Hanson
 Phantoms in the Brain | Sandra Blakeslee, V. S. Ramachandran
-Victorian Internet, Tom Standage
+Victorian Internet | Tom Standage
 
-| Life, Philosophy, Religion, Spirituality |  |
+| Life / Philosophy / Religion / Spirituality |  |
 | ---- | ---- |
 When Breath Becomes Air | Paul Kalanithi
 Religion for Atheists: A Non-believer's Guide to the Uses of Religion | Alain De Botton
@@ -44,7 +44,7 @@ LSD: My Problem Child | Albert Hofmann
 Walden | Henry David Thoreau
 War of Art, The | Steven Pressfield
 
-| Politics & Social Sciences |  |
+|  |  |
 | ---- | ---- |
 Utopia for Realists: How We Can Build the Ideal World | Rutger Bregman
 Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power | Shoshana Zuboff
@@ -82,7 +82,7 @@ Fahrenheit 451 | Ray Bradbury
 Hobbit, The | J.R.R. Tolkien
 Dark Tower, The | Stephen King
 Stand, The | Stephen King
-Annihilation, Jeff VanderMeer
+Annihilation | Jeff VanderMeer
 
 | Artificial Intelligence |  |
 | ---- | ---- |
