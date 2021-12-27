@@ -6,7 +6,7 @@ Favorite books by subject. Most of these fit into more than one so I had to pick
 
 Have a recommendation for one that should be on this list? [Drop me a line!](/about)
 
-| Brain / Networks / Collaboration |
+| Brain / Networks / Collaboration | |
 | ---- | ---- |
 Wisdom of Crowds, The | James Surowiecki
 Behave: The Biology of Humans at Our Best and Worst | Robert M. Sapolsky
