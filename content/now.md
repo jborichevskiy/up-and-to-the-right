@@ -1,9 +1,9 @@
 ---
 title: "now"
-date: 2021-5-12
+date: 2022-01-06
 ---
 
-living in Valle de Bravo near lots of beautiful trees and delicious food
+parked in Mexico City
 
 thinking about digital writing, therapy, and journaling. Occasionally all at once
 
