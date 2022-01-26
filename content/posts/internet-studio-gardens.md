@@ -5,11 +5,11 @@ date: 2022-01-25
 
 {{<figure src="/Pasted image 20220122201011.png" caption="Leander, TX from my hammock">}}
 
-_post 11/100 - an exploration into the sort of internet spaces I'd like to be a part of. Inspired by recent directions of research in [relational.fyi](https://relational.fyi) and conversations with friends._
+_post 11 / 100 - an exploration into the sort of internet spaces I'd like to be a part of. Inspired by recent directions of research in [relational.fyi](https://relational.fyi) and conversations with friends._
 
 ---
 
-Most of the current internet is a dopamine-hooked fully-immersive casino with information access putting our collective brains into frenzied loops. Entire memeplexes propagate through networks before individuals have time to chew on and reflect on individual ideas and exchange their own reactions with aligned smaller circles.
+Most of the current internet is a dopamine-hooked fully-immersive casino with information access putting our collective brains into frenzied loops. Entire memeplexes propagate through networks before individuals have time to chew on and reflect on ideas and exchange their own reactions with smaller, personal circles.
 
 I want a calmer internet space; where I can share unformed thoughts and gift them time and space to develop. Places where they **might drift over to peers in adjacent spaces for the chance -- but not the obligation -- to respond or otherwise reflect upon**, completing the loop at the speed of a lazy river instead of a light circuit.
 
@@ -19,7 +19,7 @@ What if we had something operating at a lower frequency, but still at the full r
 
 We can't know these possible spaces in advance. Though we may have an intuition about who we might encounter within and the subjects and communities they might sprout up around. At best we have a name and an internet address spawning it into existence to collect transient ideas, questions, and reflections from those who pass through.
 
-**Such a space isn't pre-shaped, designed, or architected.** It evolves with time; expanding with new members and shifting as themes in the space emerge. Forms and practices present at its inauguration may very well be different from those a year after -- each having been introduced by someone and given time to grow into its new home.
+**Such a space isn't pre-shaped, designed, or architected.** It evolves with time; expanding with new members and shifting as themes in the space emerge. Forms and practices present at its inauguration may very well be different from those a year after -- each having been introduced by someone and given time to grow into their new home.
 
 There might even be different seasons of play: periods of divergent planting and nurturing followed by collective harvesting and pruning. Many independent visits to one's own corner might culminate in synchronous sessions where everyone can explore and see all that has been developed in the time since.
 
@@ -31,7 +31,7 @@ Simple to follow along with others' contributions, even if one doesn't know what
 
 ## they should be fun
 
-Like a walk in a familiar park. The possibility of encountering a resonant idea or perspective, at one's own pace and comfort. Owned by those who come and continue its enjoyed existence. Un-opinionated about input forms, molding to and accepting whatever format each brings to it. **Dedicated to the pursuit of creativity in shared practice, but always starting with individual messy, imperfect representations of reality as the source**.
+Like a walk in a familiar park. The possibility of encountering a resonant idea or perspective, at one's own pace and comfort. Owned by those who come and continue its enjoyed existence. Un-opinionated about input forms, molding to and accepting whatever format each brings to it. **Dedicated to the pursuit of creativity in shared practice, but always starting with individual messy, imperfect representations of reality** as the source.
 
 ## sharing together is the goal
 
@@ -56,5 +56,7 @@ Or perhaps they are inspired to plot down their own neighboring space to explore
 ## see also
 
 [relational.fyi - rlog jam session](https://youtu.be/_t8H0vYFlqk)
+
+[Digital Spaces Blog Club - Azlen Ezla](https://new.azlen.me/writing/digital-spaces-blog-club/)
 
 [buzzard.life - Kristen Pavle - Figuring Out Next Steps](https://buzzard.life/posts/kristen/2021-07-22-21-next-steps)
