@@ -57,6 +57,6 @@ Or perhaps they are inspired to plot down their own neighboring space to explore
 
 [relational.fyi - rlog jam session](https://youtu.be/_t8H0vYFlqk)
 
-[Digital Spaces Blog Club - Azlen Ezla](https://new.azlen.me/writing/digital-spaces-blog-club/)
+[Digital Spaces Blog Club - Azlen Elza](https://new.azlen.me/writing/digital-spaces-blog-club/)
 
 [buzzard.life - Kristen Pavle - Figuring Out Next Steps](https://buzzard.life/posts/kristen/2021-07-22-21-next-steps)
