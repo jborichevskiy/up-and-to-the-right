@@ -8,9 +8,9 @@ aliases = [
 ]
 +++
 
-photo
+{{< figure src="/profile2.png" position="left" height="300" width="300" caption="Mariposa Monarch Butterfly Preserve, Mexico" >}}
 
-My name is Jonathan Borichevskiy, but most friends just call me Jon.
+My name is Jonathan Borichevskiy, but most friends just call me Jon. That's me up there with a Monarch Butterfly on my shoulder on my [25th birthday](/posts/25/). 
 
 I enjoy learning and building with networks. Also concerts, hikes, sunsets, and long walks with friends. Cognitive science, sustainability, and code. Hoping to combine them. [How I think about life](/posts/up-and-to-where).
 
