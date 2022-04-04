@@ -64,11 +64,19 @@ It’s a mouthful but captures the core ideas. We’re working on a website to b
 
 In the meantime I've also been:
 - exploring possibilities around Cozyroom 2.0 and creative ideation with [Azlen](https://azlen.me/)
+
 - helping with product research and design at [Sprout Place](https://sprout.place/) with [Weiwei](https://weiwei.place/)
+
 - [warming up](https://exquisiteland.substack.com/p/an-xqst-update?s=r) to canvas 2 of [exquisite land](https://exquisite.land) while watching [/r/place](https://reddit.com/r/place) unfold
+
 - listening to an [interview series on Dee Hock's founding of Visa](https://youtu.be/J4h7cW8eOdU)
+
 - reading [@visakanv](https://twitter.com/visakanv)'s latest book: [INTROSPECT](https://visakanv.gumroad.com/l/introspect)
+
+- continuing [notes.site](https://notes.site) development after a hiatus due to Life Circumstances
+
 - cheering on the launch of [OKPC](https://okpc.app/help) by my talented friends [Scott](https://twitter.com/scotato), [CJ](https://twitter.com/cj_pais), and [Shahruz](https://shahruz.com/)
+
 - watching Severence and Ozark
 
 Thanks for reading. Be safe. And always have fun. 
