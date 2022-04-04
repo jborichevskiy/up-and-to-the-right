@@ -54,6 +54,8 @@ I’m also excited for the potential space for rituals. For regluar walks to fam
 
 I’m not sure if I’ll be in Boulder the entire year. Maybe I’ll grow restless and head out halfway through. Maybe I’ll spread my roots and buy a house after this lease. For now I'm sitting here choosing out spatulas and bedsheets and I'll update you all when they arrive next week. 
 
+{{<figure src="/IMG_1320.png" caption="Boulder, CO">}}
+
 ## other updates
 
 [Relational](https://relational.fyi) has been busy the past few weeks figuring out how to tell people about what we’re building. A one-liner for now: 
@@ -80,7 +82,14 @@ In the meantime I've also been:
 
 - watching Severence and Ozark
 
-Thanks for reading. Be safe. And always have fun. 
+Thanks for reading. Be safe. And always have fun. A few more photos below.
+
+{{<figure src="/IMG_0076.png" caption="sometimes you get attacked by a cactus. Point Loma, San Diego, CA">}}
+{{<figure src="/IMG_1147.png" caption="Río Ibáńez, Chile">}}
+{{<figure src="/IMG_1077.png" caption="Cisnes, Chile">}}
+{{<figure src="/IMG_0818.png" caption="Puerto Varas, Chile">}}
+
+
 
 [^1]: post pending
 [^2]: post also pending
