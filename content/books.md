@@ -23,6 +23,7 @@ How to Take Smart Notes ([my notes](/books/how-to-take-smart-notes)) | Sönke Ah
 Elephant in the Brain, The | Kevin Simler and Robin Hanson
 Phantoms in the Brain | Sandra Blakeslee, V. S. Ramachandran
 Victorian Internet | Tom Standage
+Because Internet | Gretchen McCulloch
 
 | Life / Philosophy / Religion / Spirituality |  |
 | ---- | ---- |
@@ -135,6 +136,7 @@ Permanent Record | Edward Snowden
 Everything in its Place | Oliver Sacks
 Last Lecture, The | Jeffrey Zaslow
 Kitchen Confidential | Anthony Bourdain
+Confessions of an Advertising Man | David Ogilvy
 
 | Short Stories & Novellas |  |
 | ---- | ---- |
