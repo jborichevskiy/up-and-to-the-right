@@ -6,7 +6,9 @@ subtitle: "(it starts with twitter and might involve a blog)"
 
 _There are almost eight billion of us on this planet, ten thousand likely very similar to yourself. The Internet is a typical person's best hope for finding and connecting with them._
 
-I enjoy life in large part thanks to friends I made on the internet. These friendships have led to jobs at new companies, romantic adventures, stays in dreamy oceanside villas, global hackathons, and countless transformative and wonderful experiences. I want to pass on what I can only describe as a cheat code to life -- **using the internet to find like-minded, curious people and becoming friends with them**.
+{{<figure src="/IMG_1827.png" caption="Mount Sanitas Summit west, Boulder, CO">}}
+
+I enjoy life in large part thanks to friends I made on the internet. These friendships have led to jobs, romantic adventures, stays in dreamy oceanside villas, global hackathons, and countless transformative and wonderful experiences. I want to pass on what I can only describe as a cheat code to life -- **using the internet to find like-minded, curious people and becoming friends with them**.
 
 A condensed list of advice for using twitter, and to various degrees the other platforms:
 
@@ -27,16 +29,16 @@ A condensed list of advice for using twitter, and to various degrees the other p
 
 ## other reflections
 
-- Don't move in together with someone you met online before a trial run or getting to know them very well. Especially in a foreign country. Trust me on this one.
+- Don't move in together with someone you met online before a trial run or getting to know them very well. Especially in a foreign country.
 - A couple hours hanging out together might be equivalent to months of liking each others' tweets in terms of information exchanged, but the latter might only be possible with the former.
 - Some people aren't comfortable with video calls, and not everyone has the internet for them. Get creative! Start a voice chat instead along with a [Figma](https://figma.com) or [Miro](https://miro.com/) board and create a map of your conversation as you talk. Or start an email thread! Or keep it to DMs until you feel the time is right.
 - make introductions and schedule group chats! If you feel you and a few people have been independently circling around a topic or idea, offer to connect them and make it a group chat or call. The more people present, the deepe more potential for serendipity and magic.
 
 ## my path from lurker to tourist to internet native
 
-I’ve been on the internet since I was 14 (11 years ago). The first 7 years were spent a capital-L lurker: part of the vast 90% who merely scrolls without engaging beyond a like or upvote. My early days were spent playing Club Penguin, reading Reddit (mostly gaming and religion subreddits), hackforums.net, engadget, deviantart, gizmodo, and lifehacker. I watched YouTubers play video games, scrolled 9gag for memes, and read wikipedia articles. This is a fun place to be, but it's hard to translate these into offline connections.
+I’ve been on the internet since I was 14 (11 years ago). The first 7 years were spent a capital-L lurker: part of the vast 90% who merely scrolls without engaging beyond a like or upvote. My early days were spent playing Club Penguin, reading Reddit (mostly gaming and religious subreddits), hackforums.net, engadget, deviantart, gizmodo, and lifehacker. I watched YouTubers play video games, scrolled 9gag for memes, and read wikipedia articles. This is a fun place to be, but it's hard to translate these into offline connections.
 
-After moving to New York at 20, I began using the internet to meet people — but in the safe, walled-garden-app approach. I signed up for Hinge and Tinder and Coffee Meets Bagel and went on dates. I scoured Meetup.com, Sonder, Facebook events, and The Skint to find events to attend. I stumbled on HeyGreet, an app to schedule dinners with random strangers across the city. But I was still using the internet as a tourist — someone without a space to call their own and merely visiting the spaces of much larger, more established brands and companies.
+After moving to New York at 20, I began using the internet to meet people — but in the safe, walled-garden-app approach. I signed up for Hinge and Tinder and Coffee Meets Bagel and went on dates. I scoured Meetup.com, Sonder, Facebook events, and The Skint to find events to attend. I stumbled on [HeyGreet](https://web.archive.org/web/20190120085557/https://www.heygreet.com), an app to schedule dinners with random strangers across the city. But I was still using the internet as a tourist — someone without a space to call their own and merely visiting the spaces of much larger, more established brands and companies.
 
 Sometime in 2019 I stumbled on Alexey Guzey’s [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/) post as well as [Why (and How) You Should Join Twitter Right Now](https://guzey.com/twitter/). These two posts corrected my inaccurate perceptions of blogging and twitter, so I created my Twitter account and published [my first post](/posts/hello-world). This was where I went from internet tourist to internet native: I now had a living room of my own that people could stumble on, get to know me, and reach out if they were interested -- without being beholden to a service that could this away.
 
