@@ -16,7 +16,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Up and to the Right"
+    title = "up & to the right"
     subtitle = "Jonathan Borichevskiy"
     keywords = ""
     copyright = "<a href='/about'>jon.bo</a>"
@@ -31,7 +31,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "Up and to the Right"
+      logoText = "up & to the right"
       logoHomeLink = "/about"
     # or
     #
@@ -41,17 +41,17 @@ paginate = 5
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "now"
-        name = "Now"
+        name = "now"
         url = "/now"
       [[languages.en.menu.main]]
-        identifier = "Blog"
-        name = "Blog"
+        identifier = "words-out"
+        name = "words-out"
         url = "/posts"
       [[languages.en.menu.main]]
-        identifier = "books"
-        name = "Books"
+        identifier = "words-in"
+        name = "words-in"
         url = "/books"
       [[languages.en.menu.main]]
         identifier = "ideas"
-        name = "Ideas"
-        url = "/Ideas"
+        name = "ideas"
+        url = "/ideas"

@@ -2,9 +2,9 @@
 title: "Books"
 ---
 
-Favorite books by subject. Most of these fit into more than one so I had to pick one. 
+Favorite books by subject. 
 
-Have a recommendation for one that should be on this list? [Drop me a line!](/about)
+Have a recommendation for one that should be on this list? [send me it!](/about)
 
 | Brain / Networks / Collaboration | |
 | ---- | ---- |
@@ -19,7 +19,7 @@ Psychology of the Digital Age | John Suler
 Imp of the Mind | Lee Baer
 Ketamine for Depression | Dr. Stephen J. Hyde
 This Naked Mind | Annie Grace
-How to Take Smart Notes ([my notes](/books/how-to-take-smart-notes)) | Sönke Ahrens
+How to Take Smart Notes | Sönke Ahrens
 Elephant in the Brain, The | Kevin Simler and Robin Hanson
 Phantoms in the Brain | Sandra Blakeslee, V. S. Ramachandran
 Victorian Internet | Tom Standage
