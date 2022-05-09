@@ -15,7 +15,7 @@ The first day was hellish. Sleep-deprived and crazed from the drive, I met my la
 
 {{<figure src="/IMG_1959.png" caption="Dakota Ridge Trail">}}
 
-Here we are, two weeks later. I feel less crazed. I have a couch. A desk that moves up and down with motors. The new Apple monitor in all its glory. I’ve assembled a bed frame and my kitchen is starting to shape up. Having my own space is frankly, incredible. There is a single door I can lock, which nobody but me and the landlord has a key to -- who i subject to very strict rules about when they can and can’t enter.
+Here we are, two weeks later. I feel less crazed. I have a couch. A desk that moves up and down with motors. The new Apple monitor in all its glory. I’ve assembled a bed frame and my kitchen is starting to shape up. Having my own space is frankly, incredible. There is a single door I can lock, which nobody but me and the landlord has a key to -- who are subject to strict rules about when they can and can’t enter.
 
 Solo living is new to me. In the five years since I moved out of my parents’ home, the longest I’ve spent alone was 2 weeks (the first time a New York hotel and then again in Mexico City). The rest of the time was with roommates, coworkers, friends, romantic partners, and hostel strangers. And for the most part, it was delightful! I think back fondly to the many wonderful morning coffee chats, afternoon walks, and group dinners.
 
