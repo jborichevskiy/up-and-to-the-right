@@ -24,6 +24,7 @@ Elephant in the Brain, The | Kevin Simler and Robin Hanson
 Phantoms in the Brain | Sandra Blakeslee, V. S. Ramachandran
 Victorian Internet | Tom Standage
 Because Internet | Gretchen McCulloch
+Medium is the Massage | Marshall McLuhan
 
 | Life / Philosophy / Religion / Spirituality |  |
 | ---- | ---- |
@@ -44,6 +45,7 @@ Attached | Amir Levine
 LSD: My Problem Child | Albert Hofmann
 Walden | Henry David Thoreau
 War of Art, The | Steven Pressfield
+God and Sex: Now We Get Both | Mark Whitwell
 
 |  |  |
 | ---- | ---- |
