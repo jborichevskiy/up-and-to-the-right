@@ -47,7 +47,7 @@ Walden | Henry David Thoreau
 War of Art, The | Steven Pressfield
 God and Sex: Now We Get Both | Mark Whitwell
 
-|  |  |
+| People and Living Together |  |
 | ---- | ---- |
 Utopia for Realists: How We Can Build the Ideal World | Rutger Bregman
 Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power | Shoshana Zuboff
@@ -58,6 +58,8 @@ Master Switch, The | Tim Wu
 On Tyranny: Twenty Lessons from the Twentieth Century | Timothy Snyder
 Letters to a Young Contrarian | Christopher Hitchens
 Hell's Angels | Hunter S. Thompson
+Nonviolent Communication | Marshall B. Rosenberg PhD
+Very Important People | Ashley Mears
 
 | Behavioral Economics | |
 | ---- | ---- |

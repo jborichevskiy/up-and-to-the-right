@@ -1,13 +1,15 @@
 ---
 title: "now"
-date: 2022-04-26
+date: 2022-07-30
 ---
 
-settling into a year-long lease in Boulder, Colorado
+settled into a year-long lease in Boulder, Colorado.
 
-thinking about digital writing, therapy, and journaling. Occasionally all at once
+thinking about digital writing, therapy, and journaling. Occasionally all at once.
 
-playing with [buzzard.life](https://buzzard.life), building [Exquisite Land](https://exquisite.land) and more experimental social tech primitives
+playing with [buzzard.life](https://buzzard.life), building [Exquisite Land](https://exquisite.land) developing experimental social tech primitives
+
+thinking about moving this blog to [blot](https://blot.im)
 
 building [notes.site](https://notes.site) for publishing Apple Notes to the open web
 
