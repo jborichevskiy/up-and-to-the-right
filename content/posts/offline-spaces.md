@@ -4,7 +4,9 @@ date: "2022-07-30"
 subtitle: "assorted musings on our digital x analog selves"
 ---
 
-Parts of my self are stored on servers, some in my squishy meat computer, and the rest are on my friends' squishy meat computers. Friends who might be anyhwere on the planet. Memories, my photos, all parts of life I can download whenever I want, rewind in time. I can be reached, I'm safe. 
+{{<figure src="/IMG_3572.png" caption="the cloud">}}
+
+Parts of my self are stored in the cloud, some in my squishy meat computer, and the rest are on my friends' squishy meat computers. Friends who might be anyhwere on the planet and servers under my feet. Written journals, stored photos, parts of life I can download again; rewind in time. I can be reached, I'm safe. 
 
 This connection requires much to go right: cell towers and undersea cables, international standards, batteries, satellites, signal, and information translation. 
 
@@ -12,9 +14,10 @@ When that link is broken, a transformation occurs. I become more aware of my bod
 
 ---
 
+
 Since middle school, I've existed in two worlds simultaneously. The first I was born into: full of people I met through family, school, church, and my first job. The world of phone books, paper navigational maps, and the dewey decimal system. 
 
-I entered the second world around age 9 or 10 with my first laptop and an internet connection. This world quickly overtook the first in terms of attention, information, and outcomes. Early forums, reddit discussions, youtube videos, video games, torrented movies. Eventually I found myself a startup job. 
+I entered the second world around age 9 or 10 with my first laptop and an internet connection. This world quickly overtook the first in terms of attention, information, and outcomes. Early forums, reddit discussions, youtube videos, video games, torrented movies. Eventually I found myself a startup job -- you guessed it, through the internet. 
 
 In 2020 I hosted my first internet meetup in nyc focused on people interested in roam research. As we were going our separate ways, I said "see you all online." Little did I know a few weeks later we'd be entering lockdown and would exclusively be seeing everyone online for quite a while. 
 
@@ -30,15 +33,15 @@ I spent a lot of time playing video games with friends in my teen years. Though 
 
 Yet, most of the games we played were massive multiplayer online games -- our computers were still connected to servers far away. The ones that truly allowed us to inhibit a shared world between our computers were the most magical, latency being reduced to nothing and knowing as long as we had power and food we were fine, beyond the grasp of internet outages. 
 
----
+{{<figure src="/IMG_3566.png" caption="would I remember this walk without this photo?">}}
 
 A road trip offers a felt map of signal coverage as I drive through the landscape. A call with a friend drops, google maps gets confused, my phone displays "No Service". Certain highways offer the occasional yellow call box. Do they even work? I sit in silence, looking out at the passing landscape, disconnected; like a ship in deep space or in a vast ocean. 
 
-On one such road trip my phone was lost in the wreckage. People asking me things I can't understand. Crawling back into the wreckage to find my phone. Nancy hands it to me. I feel safer. Google Translate. A map. Camera. Phone calls. Messages to a friend. Photos of my documents. 
+On one such trip my phone got lost in the wreckage. People asked me things I coulnd't translate on my magical device. Nancy finds and hands it to me. I feel safer. Google Translate. A map. Camera. Phone calls. Messages to a friend. Photos of my documents and injuries. 
 
-The difference a phone makes while disoriented and helpless in a foreign country. 
+The difference a phone makes while disoriented and helpless in a foreign country. Yet the complete lack of need for translation to accept the offers of care from bystanders.
 
----
+{{<figure src="/IMG_0489.png" caption="comms setup in rural Patagonia">}}
 
 Every interface I use (hardware and software) changes what and how I say through it. My username, or lack thereof changes who sees it, or if anyone sees it at all. Certain communities see more of me, others only as much as I share. How does one be genuine on the internet? How does one share the most vulnerable stories while hiding the most recognizable parts of myself? Who is allowed to know what? Who knows what? 
 
