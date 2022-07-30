@@ -1,6 +1,6 @@
 ---
 title: "ideas I want to see soon"
-status: "working on it"
+: "working on it"
 ---
 
 I'd love to be a sounding board or just chat about interesting things adjacent to any of these!
@@ -8,18 +8,6 @@ I'd love to be a sounding board or just chat about interesting things adjacent t
 Inspired by [Dima](https://beepb00p.xyz/ideas.html).
 
 ---
-
-## obsidian to blog publish
-
-## ipfs drafts protocol, embedded here
-
-## things I want to help build
-
-<>
-
-## 2021-12-05
-
-- publish to here directly from obsidian
 
 ## Meta Tasks
 
