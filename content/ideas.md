@@ -1,6 +1,6 @@
 ---
 title: "ideas I want to see soon"
-: "working on it"
+status: "working on a few, help appreciated"
 ---
 
 I'd love to be a sounding board or just chat about interesting things adjacent to any of these!

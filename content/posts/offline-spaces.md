@@ -4,7 +4,7 @@ date: "2022-07-30"
 subtitle: "assorted musings on our digital x analog selves"
 ---
 
-{{<figure src="/IMG_3572.png" caption="the cloud">}}
+{{<figure src="/IMG_3572.png" caption="the Cloud. it's located in boulder, co">}}
 
 Parts of my self are stored in the cloud, some in my squishy meat computer, and the rest are on my friends' squishy meat computers. Friends who might be anyhwere on the planet and servers under my feet. Written journals, stored photos, parts of life I can download again; rewind in time. I can be reached, I'm safe. 
 
@@ -33,7 +33,7 @@ I spent a lot of time playing video games with friends in my teen years. Though 
 
 Yet, most of the games we played were massive multiplayer online games -- our computers were still connected to servers far away. The ones that truly allowed us to inhibit a shared world between our computers were the most magical, latency being reduced to nothing and knowing as long as we had power and food we were fine, beyond the grasp of internet outages. 
 
-{{<figure src="/IMG_3566.png" caption="would I remember this walk without this photo?">}}
+{{<figure src="/IMG_3566.png" caption="would I remember this walk without this photo? boulder, co">}}
 
 A road trip offers a felt map of signal coverage as I drive through the landscape. A call with a friend drops, google maps gets confused, my phone displays "No Service". Certain highways offer the occasional yellow call box. Do they even work? I sit in silence, looking out at the passing landscape, disconnected; like a ship in deep space or in a vast ocean. 
 
