@@ -63,8 +63,8 @@ What might better words for it be?
 - analogspace
 - analogtime
 
-It can be tricky drawing a line between these two worlds: I love introducing everyone to everyone, regardless of whether we met. 
+It can be tricky drawing a line between these two worlds: I love introducing everyone to everyone, regardless of how we met. 
 
 ---
 
-connections to cyberpunk; a separate layer to reality; "jacking in" - The Matrix, VR/AR, Ready Player One, Diamond Age, Tron: Legacy, Ready Player One. 
+connections to cyberpunk; a separate layer to reality; "jacking in" - The Matrix, VR/AR, Ready Player One, Diamond Age, Tron: Legacy. 
