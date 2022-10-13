@@ -70,6 +70,10 @@ So we're building tooling for communities, starting with those we're embedded in
 
 It's exciting (and a little scary) to finally be bringing our philosophy and work into the world. We have a lot planned and it's been an amazing journey so far. If you want to learn more, send me an email or give us a follow on Twitter: [@relationalorg](https://twitter.com/relationalorg).
 
+> Maybe what I had yesterday was a reminder of the bigger picture; the longer-term perspective. A perspective that can't help but fill me with wonder and confidence and the faith for a brighter future for humanity. The recognition that small things don't really matter. That things are going to be ok. 
+> 
+> A reminder that most important thing is the love we have for ourselves and for each other. [trip in the trees](/posts/trip-in-the-trees)
+
 > an incredible week. So grateful we took the initiative to gather together, to live together and walk around and drink coffee and tea and bubblers together and just spend a bunch of time soaking in each other's idiosyncratic senses of humor and modes of inquiry.
 > [[2022-W35]]
 
