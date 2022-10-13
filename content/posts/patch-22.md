@@ -6,7 +6,7 @@ subtitle: "patch notes 22"
 
 📍 _writing from Boulder, CO_
 
-{{<figure src="/22-1.png" caption="Dakota Ridge Trail, Sanitas Valley, Boulder, CO">}}
+{{<figure src="/22-1.png" caption="Marfa, TX">}}
 
 > So I don't know. Where are we now. My mind has been blown. The world has a greater capacity to surprise me than I have the capacity to predict its surprises. That much has been true for a while but just seems to become more and more true as time goes on. 
 
