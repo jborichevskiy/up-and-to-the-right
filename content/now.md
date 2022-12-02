@@ -5,7 +5,7 @@ date: 2022-12-02
 
 settled into a year-long lease in Boulder, Colorado
 
-thinking about digital writing, therapy, and journaling. Occasionally all at once
+thinking about collaboration, therapy, and journaling. Occasionally all at once
 
 falling in love with an amazing woman
 
