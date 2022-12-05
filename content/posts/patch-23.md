@@ -26,7 +26,7 @@ There are a lot of plates in my life spinning right now. Some are simple, some c
 
 {{<figure src="/12-5-2.png" caption="Mapleton Avenue, Boulder, CO">}}
 
-{{<figure src="/oceanside.png" caption="Ocean Beach, CA">}}
+{{<figure src="/12-5-6.png" caption="Ocean Beach, CA">}}
 
 ## Savannah
 
@@ -50,13 +50,19 @@ Then on September 26 we matched on Hinge. Ten minutes later we began sending voi
 > 
 > 9-26
 
+
+
 > it comes down to relative perspective, trust and safety and consent and mutual desire, being open to connection, manifesting the energy one wants to see in the world, trusting it will be recognized, perhaps appreciated, and maybe -- just maybe -- reciprocated
 > 
 > 10-15
 
+
+
 > something emergent, organic, sacred. someone to wander the earth together with. To dream things into existence, to create those things in the world together, to help bring a world more beautiful than this one into being
 > 
 > 10-19
+
+
 
 > to continue exploring mediums and forms with her, to develop these tools to help us understand each other better, and help other people understand their own relationships and partners and lives better
 > 
@@ -83,6 +89,8 @@ On ritual and creativity and time:
 > it's always nearby, we just have to open up and invite it in
 > 
 > 10-04
+
+
 
 > watching the seasons change, I become the observer, I become more in tune with the environment and its subtle evolution, versus just moving through it or visiting it a few times and seeing static frames of its change. 
 > 
@@ -114,23 +122,33 @@ This past month has seen certain people beautifully entering my life and others 
 
 As someone who tries to extend a bridge of love to as many people as I can, it hurts when people set it on fire. But when I zoom out, I am reminded of the vast majority of people in my life who love me back, choosing to play positive-sum games with me, deciding to improvise and riff to create beautiful things together. And to those people, I say thank you and I love you!
 
+
+
 > *what really matters in my life right now?*
 > 
 > publishing more of my writing. becoming looser with the sorts of styles and genres that I play with. experimenting more with internal family systems, creative journaling prompts, world building, blog posts, and writing about those things I care most deeply about: what is goodness, how to live a good life, how to love, about religion, faith, how to have meaningful psychedelic experiences, ideas for the future, stories about my adventures
 > 
 > September in Review
 
+
+
 > how much power [organized religion] can hold over us. over how our psychology evolves. over what we find salient, beautiful, important, dangerous, disgusting. what we're afraid and not afraid to say. what we think we will be judged for, what is taboo, what is "the way" things are done. how to act in front of the other sex, and how to judge them
 > 
 > 10-20
+
+
 
 > not everything religion teaches is unhealthy. And not everything the secular world teaches is healthy. But my worldview changed in complex ways over time. And it's hard to express everything clearly
 > 
 > 10-24
 
+
+
 > Love is the most beautiful, power force in this world. It creates life, it supports life, it is life. 
 >
 > 11-25
+
+
 
 > How we love ourselves, love another, express feelings and emotions, how we define consent and trust and boundaries, what we consent to, whether we feel safe describing *how* we want and need to be loved; such questions are core to what it means to be human; to have a body, mind and sexuality. Every single person deserves to feel free and confident in answering these questions without fear of social, religious, or legal repercussions. 
 > 
@@ -138,9 +156,13 @@ As someone who tries to extend a bridge of love to as many people as I can, it h
 
 I've also published a few posts recently:
 
+
+
 > A meaningful life consists of many ordinary, simple days. Days that might not be easy or smooth, but conclude by laying down in bed with a sense of satisfaction and excitement for what follows in the morning. It is filled with practices approached diligently, repetition compounding depth and clarity over time. Consistency and commitment.
 > 
 > [what makes a meaningful life?](https://jon.bo/posts/meaningful-life)
+
+
 
 > Cerro Castillo is a small town sitting on Route 7 in Chile. There is neither a station for gas nor one for police. Busses to the neighboring towns run on some days and not on others but nobody seems to know the full schedule. All who work here also live here and everyone who lives here welcomes those who don’t. Tonight is night number five in this quiet abode.
 > 
