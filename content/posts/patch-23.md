@@ -4,13 +4,9 @@ date: "2022-12-05"
 subtitle: "patch notes 23"
 ---
 
-📍 _writing from Boulder, CO_
+📍 _writing indoors from Boulder, CO_
 
 {{<figure src="/IMG_5461.png" caption="Chautauqua Park, Boulder, CO">}}
-
-# seasons
-
-*writing indoors from Boulder, CO*
 
 We've officially entered winter. There's snow piling up outside, I'm drinking hot chocolate again, and going outdoors is a bit like going into outer space. Though living in New York did expose me to snow, it was *urban* snow, where the subway never needs to defrost and the heat island effect takes care of much of the rest. 
 
