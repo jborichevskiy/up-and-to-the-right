@@ -2,6 +2,7 @@
 title: "seasons"
 date: "2022-12-05"
 subtitle: "patch notes 23"
+aliases: ["p23"]
 ---
 
 📍 _writing indoors from Boulder, CO_
@@ -50,19 +51,19 @@ Then on September 26 we matched on Hinge. Ten minutes later we began sending voi
 
 ---
 
-> it comes down to relative perspective, trust and safety and consent and mutual desire, being open to connection, manifesting the energy one wants to see in the world, trusting it will be recognized, perhaps appreciated, and maybe -- just maybe -- reciprocated
+> [a healthy relationship, like the one I'm looking for with Savannah] comes down to relative perspective, trust and safety and consent and mutual desire, being open to connection, manifesting the energy one wants to see in the world, trusting it will be recognized, perhaps appreciated, and maybe -- just maybe -- reciprocated
 > 
 > 10-15
 
 ---
 
-> something emergent, organic, sacred. someone to wander the earth together with. To dream things into existence, to create those things in the world together, to help bring a world more beautiful than this one into being
+> [the possibility of a relationship that is] emergent, organic, sacred. someone to wander the earth together with. To dream things into existence, to create those things in the world together, to help bring a world more beautiful than this one into being
 > 
 > 10-19
 
 ---
 
-> to continue exploring mediums and forms with her, to develop these tools to help us understand each other better, and help other people understand their own relationships and partners and lives better
+> [I hope] to continue exploring mediums and forms with her, to develop these tools to help us understand each other better, and help other people understand their own relationships and partners and lives better
 > 
 > 11-12
 
@@ -116,9 +117,9 @@ It makes me wonder whether something between these two extremes might be possibl
 
 {{<figure src="/IMG_5579.png" caption="waiting for the bus at the Denver airport">}}
 
-This past month has seen certain people beautifully entering my life and others painfully leaving it, in rather cruel and accusatory ways. It's served as a reminder of how precious and rare genuine companionship is; companionship that can withstand drug-induced distortions of reality or insular religious idealogical worldviews. 
+This past month has seen certain people beautifully entering my life and others painfully leaving, in rather cruel and accusatory ways. It's served as a reminder of how precious and rare genuine companionship is; companionship that can withstand drug-induced reality distortions or insular religious idealogical worldviews.  
 
-As someone who tries to extend a bridge of love to as many people as I can, it hurts when people set it on fire. But when I zoom out, I am reminded of the vast majority of people in my life who love me back, choosing to play positive-sum games with me, deciding to improvise and riff to create beautiful things together. And to those people, I say thank you and I love you!
+As someone who tries to extend a bridge of love to as many people as I can, it hurts when people set it on fire. I am not one to leave doors closed forever though; the world does not make sense without forgiveness. When I zoom out, I am reminded of the vast majority of people in my life who love me back, choosing to play positive-sum games with me, deciding to improvise and riff to create beautiful things together. And to you I say thank you and I love you!
 
 > *what really matters in my life right now?*
 > 
