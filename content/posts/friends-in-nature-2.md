@@ -9,6 +9,7 @@ subtitle: "and thoughts on what co-living might be someday"
 Some time ago I wrote about my intentions to [live with friends in nature](/posts/friends-in-nature) to satisfy my desire for community, access to outdoors, and convenience. I wrote it from my childhood bedroom during quarantine amidst the California summer fires. Partly as a result of that post and some luck, my experiment ran its course (aug - nov 2022 in San Diego - thanks Vicki and Parth!) and set me off on an 18-month nomadic journey.  
 
 Some takeaways from the San Diego experiment:
+
 - communication is key to making co-living work, as with most things involving shared resources and other people
 - safe walking proximity to the ocean is an incredible luxury, for mental and physical health
 - having someone nearby to hang out most evenings -- yet enough space to work on personal projects was a great balance during the isolation of lockdown
@@ -25,6 +26,7 @@ Other moments were isolating and frustrating. I was reacting to life circumstanc
 {{<figure src="/friends-in-nature-2-3.png" caption="Rosarito, Baja California, Mexico">}}
 
 Factors in a living situation, such as:
+
 - access to a safe, calm outdoor walking route without having to drive. coffee is a plus
 - the volume of roommates, neighbors, and the neighborhood
 - a key (or code ideally) to leave/enter the building -- rather than being dependent on a security guard mediating my coming and going
