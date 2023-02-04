@@ -6,6 +6,8 @@ subtitle: "and thoughts on what co-living might be someday"
 
 {{<figure src="/friends-in-nature-2-1.png" caption="6 weeks near Silver Strand Beach, Coronado, CA">}}
 
+_thanks to Savannah for inspo and reflections_
+
 Some time ago I wrote about my intentions to [live with friends in nature](/posts/friends-in-nature) to satisfy my desire for community, access to outdoors, and convenience. I wrote it from my childhood bedroom during quarantine amidst the California summer fires. Partly as a result of that post and some luck, my experiment ran its course (aug - nov 2022 in San Diego - thanks Vicki and Parth!) and set me off on an 18-month nomadic journey.  
 
 Some takeaways from the San Diego experiment:
