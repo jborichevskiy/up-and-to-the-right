@@ -40,4 +40,4 @@ As I write these words, I realize how much I am overthinking this stuff. So I ma
 
 {{<figure src="/meme.jpg" position="center">}}
 
-Enough waffling. I want to write. And I want to write with my friends. So I’m inviting y’all along with me on this journey. If you're interested, holler.
+Enough waffling. I want to write. And I want to write with my friends. So I’m inviting y’all along with me on this journey. If you're interested, holler at [hi@jon.bo](mailto:hi@jon.bo).
