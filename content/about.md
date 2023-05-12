@@ -24,7 +24,7 @@ I [journal](/posts/journaling), [try to think about meta thinking](/posts/concen
 
 Citizen of the Internet on [Spaceship Earth](https://youtu.be/3ZB2La-oCVI?t=9).
 
-[email: jonbo@hey.com](mailto:jonbo@hey.com) • [twitter: jondotbo](https://twitter.com/jondotbo) • always happy to chat
+[email: hi@jon.bo](mailto:hi@jon.bo) • [twitter: jondotbo](https://twitter.com/jondotbo) • always happy to chat
 
 [rss](https://jon.bo/posts/index.xml) • [occasional email updates](https://mailchi.mp/0e81591ed912/jborichevskiy) • [about this site](/about-blog)
 
