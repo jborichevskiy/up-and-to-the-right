@@ -5,18 +5,27 @@ date: "2023-05-12"
 ---
 
 The [last time](https://buzzard.life/games/buzzard-04/) we played this game, I was astonished at how fun and generative it was. I believe the reasons for that came down to:
+
 - **just enough constraints**. we had to split things into content, and metadata. and get it published on a markdown 11ty site. the rest was up to each of us. so we took it in different directions; wherever felt most alive to each of us
+
 - **we did it together**. having the soft social pressure of having something to show gave me just enough energy to push myself that extra mile.
+
 - **it’s bounded**. 7 posts in 1 week. we all have commitments; this doesn’t have to be a grand thing to be fun and interesting.
 
 So I want to do it again. I think the shape can be similar to last time. Specifically: 
+
 - any format is acceptable: blog post, tweet/thread, photo of a handwritten page
+
 - can be written all at once or 1/day, whatever feels best
 
 unknowns:
+
 - whether these are themed/prompted, or very open-ended/unprompted
+
 - any other constraints that might be helpful here
+
 - can we aggregate these to sort of feed (while publishing in our own spaces)
+
 - are we looking to learn anything from this?
 
 ## why? 
