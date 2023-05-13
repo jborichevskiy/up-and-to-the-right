@@ -2,6 +2,9 @@
 title: "a proposal: 7 posts in 7 days"
 subtitle: "an open invitiation to my friends"
 date: "2023-05-12"
+aliases: [
+    "blogchain"
+]
 ---
 
 The [last time](https://buzzard.life/games/buzzard-04/) we played this game, I was astonished at how fun and generative it was. I believe the reasons for that came down to:
@@ -27,6 +30,8 @@ unknowns:
 - can we aggregate these to sort of feed (while publishing in our own spaces)
 
 - are we looking to learn anything from this?
+
+- when: probably in about a week, may 20 - 27
 
 ## why? 
 	
