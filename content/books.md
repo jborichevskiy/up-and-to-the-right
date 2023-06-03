@@ -1,6 +1,11 @@
----
-title: "Books"
----
++++
+title = "Books"
+type = "single"
+ShowPosts = false
+aliases = [
+    "/words-out"
+]
++++
 
 Favorite books by subject. 
 
