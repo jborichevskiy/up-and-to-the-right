@@ -1,7 +1,7 @@
 ---
 title: "22 moments from 2022"
 subtitle: "a year in review, of sorts"
-date: "2023-04-08"
+date: "2023-06-03"
 ---
 
 A bit late, but better late than never. A collection of journal excerpts and photos from a wonderful year. I concluded my nomad journey and settled into a new city. Made new friends, fell in love, and built awesome things with incredible friends. 
