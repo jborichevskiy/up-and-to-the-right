@@ -9,7 +9,7 @@ aliases: ["p24", "brc-and-back"]
 
 {{<figure src="/24-1.png" caption="">}}
 
- this on the heels of a week out in the desert at Burning Man: fully offline and thoroughly dusty. In the days since Savannah and I have returned to Boulder, we've been unpacking, cleaning, and de-muddifying all our stuff. Simultaneously I've been sorting through my thoughts and experiences, processing everything that I experienced, did, and saw out there - and there's a lot!
+Hello world. I'm writing this on the heels of a week out in the desert at Burning Man: fully offline and thoroughly dusty. In the days since Savannah and I have returned to Boulder, we've been unpacking, cleaning, and de-muddifying all our stuff. Simultaneously I've been sorting through my thoughts and experiences, processing everything that I did and saw out there - and there's a lot!
 
 For those unawares, Burning Man is a very do-it-yourself week-long festival for artists, engineers, cosplayers, partiers, trolls, and degenerates to come come together to build a city, party, and burn some stuff. Everything required for this debacle - water, structures, food, and fuel is brought in; everything that results - gray water, ash, moop (matter-out-of-place), and poop - is brought back out. The only things on offer are ice, water, and sewage pumping. Everything else is either gifted to you or sorted out by you or your camp. 
 
@@ -111,3 +111,9 @@ Doing things simply for the delight of putting a smile on someone's face, like w
 From this place, we get to bring a little of it back to the default world and share it: from the way we show up to the art we seek out. A little more presence, curiosity and immediacy instead of trying to fill my calendar like a Tetris game. Confidence to tap a little deeper into who we are. 
 
 {{<figure src="/24-11.png" caption="">}}
+
+{{<figure src="/24-12.png" caption="">}}
+
+{{<figure src="/24-13.png" caption="">}}
+
+{{<figure src="/24-14.png" caption="">}}
