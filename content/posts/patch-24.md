@@ -5,8 +5,6 @@ subtitle: "patch notes 24"
 aliases: ["p24", "brc-and-back"]
 ---
 
-📍 _writing from Boulder, CO_
-
 {{<figure src="/24-1.png" caption="In the playa, looking west at the city.">}}
 
 Hello world. I'm writing this on the heels of a week out in the desert at Burning Man: fully offline and thoroughly dusty. In the days since Savannah and I have returned to Boulder, we've been unpacking, cleaning, and de-muddifying all our stuff. Simultaneously I've been sorting through my thoughts and experiences, processing everything that I did and saw out there - and there's a lot!
