@@ -7,7 +7,7 @@ aliases: ["on-journaling"]
 
 {{<figure src="/on-journaling-1.png" caption="Fourth of July Trailhead, Nederland, CO">}}
 
-I recently hosted (my first ever) writing workshop on journaling [at Burning Man](https://jon.bo/posts/patch-24/). These are my notes in blog post form - thanks Alex for the idea! The workshop and this post are a spiritual successor to a [post from a few years ago](https://jon.bo/posts/journaling/). Thanks to Savannah, Nancy, Kristen, and Dave to showing up to my workshop and supporting me on that beautiful, dusty, windy day. 
+I recently hosted (my first ever) writing workshop on journaling [at Burning Man](https://jon.bo/posts/patch-24/). These are my notes in blog post form - thanks Alex for the idea! The workshop and this post are a spiritual successor to a [post from a few years ago](https://jon.bo/posts/journaling/). Thanks to Savannah, Nancy, Kristen, and Dave for showing up to my workshop on that beautiful, dusty, windy day. 
 
 Journaling is in a family of introspection practices, sitting near meditation, psychedelics, and yoga. There are healthy and unhealthy uses of all of these, so it's best to approach them with intention and care - like anything else with the power to alter self-perception, memories, and stories of self. It seems to work best alongside other practices to form an ecology, allowing each to bring a unique perspective and methodology to the mix.
 ## why journal?
@@ -63,4 +63,4 @@ Journaling opened the door to writing for me, and writing has and continues to i
 
 Exploring journaling also gave me the confidence to put more of my writing onto the internet, starting with the little garden of this site. But these are all icing on the cake. The core of the thing is regularly sitting down with permission, space, and an invitation to explore what's on my mind, and pay a little more attention to what the universe is whispering to me. 
 
-I hope you can find as much joy in it as I have. If you have experiences or entries you'd like to share, please send me them at [hi@jon.bo](mailto:hi@jon.bo?subject=hello)!
+I hope you can find as much joy in it as I have. If you have experiences or entries you'd like to share, email [hi@jon.bo](mailto:hi@jon.bo?subject=hello)!
