@@ -3,6 +3,8 @@ title: "universes of sense"
 date: "2023-11-18"
 subtitle: "a simple game of sense 01"
 aliases: ["universes-of-sense"]
+images:
+- /galaxies-of-sense.png
 ---
 
 {{<figure src="/galaxies-of-sense.png" caption="Midjourney">}}

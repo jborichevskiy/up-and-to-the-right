@@ -5,6 +5,7 @@
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="{{ .Permalink }}" />
 
+
 <!-- Theme CSS -->
 <link rel="stylesheet" href="{{ "assets/style.css" | absURL }}">
 
@@ -14,6 +15,8 @@
 <!-- Icons -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "img/apple-touch-icon-144-precomposed.png" | absURL }}">
 <link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
+
+{{ template "_internal/opengraph.html" . }}
 
 <!-- Twitter Card -->
 {{ template "_internal/twitter_cards.html" . }}
