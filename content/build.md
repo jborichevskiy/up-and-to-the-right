@@ -30,7 +30,7 @@ Contact: [jborichevskiy@gmail.com](mailto:jborichevskiy@gmail.com) or @[jondotbo
 
 ## Current Projects
 
-{{<figure src="/build-3.png" style="width:45%;" >}}
+{{<figure src="/build-3.png"  >}}
 
 **[Daily Jam](https://dailyjam.xyz)**, season 1: [Turkey Challenge](https://turkey-challenge.com) | full-stack engineering, design, community engagement
 
@@ -48,7 +48,7 @@ Contact: [jborichevskiy@gmail.com](mailto:jborichevskiy@gmail.com) or @[jondotbo
 
 ## Past Projects
 
-{{<figure src="/build-1.png" style="width:45%;" >}}
+{{<figure src="/build-1.png"  >}}
 
 **[Exquisite Land](https://exquisite.land)** | full-stack engineering, ideation, & community
 
@@ -65,7 +65,7 @@ Contact: [jborichevskiy@gmail.com](mailto:jborichevskiy@gmail.com) or @[jondotbo
 
 ---
 
-{{<figure src="/build-2.png" style="width:45%;" >}}
+{{<figure src="/build-2.png"  >}}
 
 **[CozyRoom.xyz](https://cozyroom.xyz)** | backend engineering, devops, community design
 
