@@ -3,6 +3,7 @@ title: "Digital Tools I Wish Existed"
 date: 2019-11-28T02:09:25-05:00
 showPosts: true
 tags: ["memex", "information", "learning", "web", "internet"]
+evergreen: true
 ---
 
 My digital life in a nutshell: I discover relevant content I don't have time to consume, I find time and become overwhelmed with my scattered backlog, I wish the content were in a different format, and then I'm unable to find something again once I've consumed it. [Not retaining enough](https://andymatuschak.org/books/) is a valid problem but we'll tackle that one later. 

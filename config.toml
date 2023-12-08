@@ -32,7 +32,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "up & to the right"
-      logoHomeLink = "/about"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -40,18 +40,11 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "now"
-        name = "now"
-        url = "/now"
-      [[languages.en.menu.main]]
-        identifier = "words-out"
-        name = "words-out"
+        identifier = "writing"
+        name = "writing"
         url = "/posts"
+        weight=1
       [[languages.en.menu.main]]
-        identifier = "words-in"
-        name = "words-in"
+        identifier = "reading-list"
+        name = "reading list"
         url = "/books"
-      [[languages.en.menu.main]]
-        identifier = "ideas"
-        name = "ideas"
-        url = "/ideas"

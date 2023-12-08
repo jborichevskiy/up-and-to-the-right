@@ -1,6 +1,7 @@
 ---
 title: "a trip in the trees"
 date: "2022-09-20"
+evergreen: true
 ---
 
 {{<figure src="/Pasted image 20220919010630.png" caption="Sanitas Valley, Boulder, CO">}}
