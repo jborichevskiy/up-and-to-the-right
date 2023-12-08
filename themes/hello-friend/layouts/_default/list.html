@@ -1,51 +1,34 @@
 {{ define "main" }}
-  <div class="posts">
+  <div class="posts" style="width: 40rem;">
     {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
     {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
     {{ $paginator := .Paginate (where .Data.Pages "Type" $contentTypeName) }}
 
-    {{ range $paginator.Pages }}
-    <div class="post on-list">
-      <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
-      <div class="post-meta">
-        <span class="post-date">
-          {{ .Date.Format ($.Site.Params.DateFormatList | default "2006-01-02") }}
+    <p style="width: 100%; text-align: left; ">hi. I'm jon.</p>
+    <p style="width: 100%; text-align: left; ">I like to build things with computers. and write words on the internet. and see beautiful things in this life.</p>
+    <p style="width: 100%; text-align: left; ">this is a journal of my adventures.</p>
+    
+    <h3 style="width: 100%; text-align: left; padding-top: 1rem; "> recent</h3>
+
+    <!-- a list of the 6 recent posts with .Type name -->
+
+    {{ range sort .Data.Pages "Date" "desc" | first 6 }}
+        <span style="width: 100%; text-align: left; padding-top: 1rem; flex: 1; flex-direction: column;">
+          <div style="flex: 1">
+
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
         </span>
-        {{ with .Params.Author }}<span class="post-author">— {{ $.Site.Params.WrittenBy | default "Written by" }} {{ . }}</span>{{ end }}
-        {{ if $.Site.Params.ShowReadingTime }}
-          <span class="post-read-time">— {{ .ReadingTime }} {{ $.Site.Params.MinuteReadingTime | default "min read" }}</span>
-        {{ end }}
-      </div>
+          
+          <span>
+            {{ $title := substr .Params.Date 0 10 }}
+          </span>
+          <span style="color:gray">{{ $title }}</span>
 
-
-      {{ if .Params.tags }}
-        <span class="post-tags">
-          {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s" . )) | absURL }}/">{{ . }}</a>&nbsp;
-          {{ end }}
-        </span>
-      {{ end }}
-
-      {{ if .Params.Cover }}
-        {{ if .Params.UseRelativeCover }}
-          <img src="{{ (printf "%s%s" .Permalink .Params.Cover ) }}" class="post-cover" />
-        {{ else }}
-          <img src="{{ .Params.Cover | absURL }}" class="post-cover" />
-        {{ end }}
-      {{ end }}
-
-      <div class="post-content">
-        {{ with .Description }}
-          {{ . | markdownify }}
-        {{ else }}
-          {{ if .Truncated }}
-            {{ .Summary | markdownify }}
-          {{ end }}
-        {{ end }}
-      </div>
-      <div><a class="read-more button" href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore | default "Read more" }} →</a></div>
-    </div>
+            </div>
     {{ end }}
-    {{ partial "pagination.html" . }}
-  </div>
+    <a href="/posts">more posts</a>
+
+    <span style="width: 100%; text-align: left; ">
+
+
 {{ end }}
