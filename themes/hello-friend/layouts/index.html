@@ -7,19 +7,23 @@
         <!-- {{ .Content }} -->
         <img src="/IMG_9387.png" alt="Image description" style="max-width: 200px;">
         <p>My name is Jonathan Borichevskiy, but most friends just call me Jon.</p>
-        <p>I enjoy learning about how the human mind works and building tools for us to better connect with each other. I'm open to new projects: read about my past work and <a href="/build">building style</a> here.</p>
-        <p>I have a <a href="/posts/on-journaling">daily writing practice</a> that has helped me become comfortable with my own thoughts and sharing some of them.</p>
+        <p>I enjoy learning about how the human mind works and building tools for us to better connect with each other. I'm open to new projects: read about my past work and <a href="/build">building philosophy</a>.</p>
+        <p>I have a <a href="/posts/on-journaling">daily writing practice</a> that helps me listen to my thoughts with more care, some of which end up here. I also appreciate long walks outside, hammocks, breakfast burritos, and <a href="https://cspace.co.jp/home_english/">capybaras</a>.</p>
+        
+        <p>In love with one very special <a href="https://savkruger.com/">Savannah Kruger</a>.</p>
+
+        <p>Currently residing in Boulder, CO.</p>
     </div>
     <div class="writings" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
         <div class="recent-writings" style="flex: 1; min-width: 300px; margin-bottom: 10px;">
-            <h3 style="width: 100%; text-align: left; padding-top: 1rem; ">recent writing</h3>
+            <h3 style="width: 100%; text-align: left; margin-block-start: .5rem; ">recent writing</h3>
 
             {{ range where .Site.RegularPages "Section" "posts" | first 4 }}
-            <span style="width: 100%; text-align: left; padding-top: 1rem; flex: 1; flex-direction: column;">
+            <span style="width: 100%; text-align: left; flex: 1; flex-direction: column;">
                 <div style="flex: 1">
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
                     <span>
-                        {{ $title := lower (dateFormat "Jan 2" .Date) }}
+                        {{ $title := dateFormat "Jan 2006" .Date }}
                     </span>
                     <span style="color:gray">{{ $title }}</span>
 
@@ -30,14 +34,14 @@
         </div>
         
         <div style="flex: 1; min-width: 300px;">
-            <h3 style="width: 100%; text-align: left; padding-top: 1rem; ">evergreen posts</h3>
+            <h3 style="width: 100%; text-align: left; margin-block-start: .5rem; ">evergreen posts</h3>
 
             {{ range where .Site.RegularPages "Params.evergreen" true | first 6 }}
-            <span style="width: 100%; text-align: left; padding-top: 1rem; flex: 1; flex-direction: column;">
+            <span style="width: 100%; text-align: left; flex: 1; flex-direction: column; ">
                 <div style="flex: 1">
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
                     <span>
-                        {{ $title := dateFormat "'06" .Date }}
+                        {{ $title := dateFormat "Jan 2006" .Date }}
                     </span>
                     <span style="color:gray">{{ $title }}</span>
 
