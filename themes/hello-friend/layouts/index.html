@@ -1,8 +1,89 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="refresh" content="0; url=/posts" />
-</head>
-<body>
-</body>
-</html>
+{{ define "main" }}
+<main aria-role="main">
+    <header class="homepage-header">
+    </header>
+    <div class="homepage-content">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        <!-- {{ .Content }} -->
+        <img src="/IMG_9387.png" alt="Image description" style="max-width: 200px;">
+        <p>My name is Jonathan Borichevskiy, but most friends just call me Jon.</p>
+        <p>I enjoy learning about how the human mind works and building tools for us to better connect with each other. I'm open to new projects: read about my past work and <a href="/build">building philosophy</a>.</p>
+        <p>I have a <a href="/posts/on-journaling">daily writing practice</a> that helps me listen to my thoughts with more care, some of which end up here. I also appreciate long walks outside, hammocks, breakfast burritos, and <a href="https://cspace.co.jp/home_english/">capybaras</a>.</p>
+        
+        <p>In love with one very special <a href="https://savkruger.com/">Savannah Kruger</a>, residing in Boulder, CO.</p>
+    </div>
+    <div class="writings" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        <div class="recent-writings" style="flex: 1; min-width: 300px; margin-bottom: 10px;">
+            <h3 style="width: 100%; text-align: left; margin-block-start: .5rem; ">recent writing</h3>
+
+            {{ range where .Site.RegularPages "Section" "posts" | first 4 }}
+            <span style="width: 100%; text-align: left; flex: 1; flex-direction: column;">
+                <div style="flex: 1">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <span>
+                        {{ $title := dateFormat "Jan 2006" .Date }}
+                    </span>
+                    <span style="color:gray">{{ $title }}</span>
+
+                </div>
+            </span>
+            {{ end }}
+            <a class="" href="/archive">more...</a>
+        </div>
+        
+        <div style="flex: 1; min-width: 300px;">
+            <h3 style="width: 100%; text-align: left; margin-block-start: .5rem; ">evergreen posts</h3>
+
+            {{ range where .Site.RegularPages "Params.evergreen" true | first 6 }}
+            <span style="width: 100%; text-align: left; flex: 1; flex-direction: column; ">
+                <div style="flex: 1">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <span>
+                        {{ $title := dateFormat "Jan 2006" .Date }}
+                    </span>
+                    <span style="color:gray">{{ $title }}</span>
+
+                </div>
+            </span>
+            {{ end }}
+        </div>
+
+
+        <p style="padding-top: 1rem;">
+            <a href="https://twitter.com/jondotbo">xitter</a> • <a href="https://github.com/jborichevskiy">github</a> • <a href="https://www.instagram.com/jondotbo/">instagram</a> • <a href="https://jon.bo/posts/index.xml">rss</a> • <a href="https://mailchi.mp/0e81591ed912/jborichevskiy">occasional email updates</a> • <a href="/about-blog">about this site</a>
+        </p>
+    </div>
+    <style>
+        main {
+            text-align: left;
+            width: 100%;
+            max-width: 800px;
+            padding: 20px;
+            margin: 20px auto;
+        }
+        /* p {
+            max-width: 100%;
+            word-wrap: break-word;
+        } */
+        .writings {
+            text-align: left;
+        }
+        a {
+            text-decoration: underline;
+            text-decoration-color: rgba(255, 255, 255, 0.2);
+            transition: text-decoration-color 0.3s ease-in-out;
+        }
+        a:hover {
+            /* text-decoration-color: rgba(255, 255, 255, .8); */
+            /* text-decoration-color: rgba(254, 81, 134, 0.8); */
+            text-decoration-color: #BB4263;
+        }
+        .recent-writings {
+            padding-right: 20px;
+        }
+        .homepage-header {
+            text-align: left;
+        }
+    </style>
+</main>
+{{ end }}

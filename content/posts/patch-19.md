@@ -2,6 +2,7 @@
 title: "charting course in a hurricane"
 date: "2022-04-03"
 subtitle: "patch notes 19"
+evergreen: true
 ---
 
 {{<figure src="/IMG_0620.png" caption="Garner Pass in Torres del Paine">}}

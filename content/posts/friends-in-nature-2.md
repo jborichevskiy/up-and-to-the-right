@@ -2,6 +2,7 @@
 title: "I went to live with friends in nature"
 date: "2023-02-02"
 subtitle: "and thoughts on what co-living might be someday"
+evergreen: true
 ---
 
 {{<figure src="/friends-in-nature-2-1.png" caption="6 weeks near Silver Strand Beach, Coronado, CA">}}

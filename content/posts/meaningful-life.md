@@ -1,6 +1,7 @@
 ---
 title: "what makes a meaningful life?"
 date: "2022-12-02"
+evergreen: true
 ---
 
 {{<figure src="/IMG_4991.png" caption="Boulder Valley Ranch, CO" >}}
