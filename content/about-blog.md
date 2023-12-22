@@ -12,8 +12,6 @@ A full change history of every page from March 12, 2020 onward is available [on 
 
 [Mailchimp](https://mailchimp.com/) has no tracking or analytics enabled.
 
-Hypothes.is sidebar comes from [here](https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms/), inspiration from [CJ Eller's 'Annotate This Post'](https://blog.cjeller.site/annotate-this-post).
-
 ### TODO:
 
 [ ] Auto addition of Git history links

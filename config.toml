@@ -19,7 +19,7 @@ paginate = 5
     title = "up & to the right"
     subtitle = "Jonathan Borichevskiy"
     keywords = ""
-    copyright = "<a href='/about'>jon.bo</a>"
+    copyright = "jon.bo"
     menuMore = "More"
     writtenBy = "Written by"
     readMore = "Read"
