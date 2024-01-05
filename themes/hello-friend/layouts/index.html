@@ -16,7 +16,7 @@
         <div class="recent-writings" style="flex: 1; min-width: 300px; margin-bottom: 10px;">
             <h3 style="width: 100%; text-align: left; margin-block-start: .5rem; ">recent writing</h3>
 
-            {{ range where .Site.RegularPages "Section" "posts" | first 4 }}
+            {{ range where .Site.RegularPages "Section" "posts" | first 5 }}
             <span style="width: 100%; text-align: left; flex: 1; flex-direction: column;">
                 <div style="flex: 1">
                     <a href="{{ .Permalink }}">{{ .Title }}</a>

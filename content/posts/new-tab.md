@@ -21,7 +21,6 @@ Inspired, I made my own, with some changes:
 Some key points:
 
 - **locally edited, synced through iCloud**: I want this to work even when my internet cuts out, and I have multiple devices I often use. Hence; a local HTML file that syncs to my devices through iCloud. 
-	- the file lives at `/Users/jonbo/Library/Mobile%20Documents/com~apple~CloudDocs/Start%20Page/START.html`
 - **deeplinks to [Obsidian](https://obsidian.md/)**: for example, the `#dailyjam` opens up search with the most recent version of that tag, `today's notes` opens up the respective daily note file, and `next patch notes` opens a file of that name
 - **deeplinks to [Cursor](https://cursor.sh/)**: if the project is already open, it foregrounds it. annoyingly if it is not open, it'll open it with my foregrounded project. 
 - the `gathern@jonbo-m2-mini` link opens up an SSH terminal session
