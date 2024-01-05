@@ -3,10 +3,9 @@ title: in search of a new tab
 date: 2024-01-04
 ---
 
-A few months ago my friend [Eli](https://twitter.com/elzr) was sharing his screen and opened a new tab on his browser. Instead of the usual inspirational quote or clock extension, commonly-visited tabs, or my personal pet peeve - recent breaking news articles and photos from disaster zones - the new tab page was a map of his internet and most important documents:
+A few months ago my friend [Eli](https://twitter.com/elzr) was sharing his screen and opened a new tab on his browser. Instead of the usual inspirational quote or clock extension, commonly-visited tabs, or my personal pet peeve - recent breaking news articles and photos from disaster zones - his new tab was a map of his internet and most important documents:
 
 {{<figure src="/new-tab/Pasted image 20240104125515.png">}}
-[elzr.com/start](https://elzr.com/start)
 
 I was enthralled: it was the most useful thing I've ever seen on a new tab page, completely personalized to his needs and his perspective on the internet. Some specific things I think warrant attention:
 
