@@ -37,7 +37,8 @@ Some key points:
 ## create your own new tab
 
 - [Chromium Extension](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia) to set a local HTML file or a remote URL as the new tab page
-- [source code](https://gist.github.com/jborichevskiy/57dff0c780443f9cf1f8219af9b1d07b)  for my start page
+- [source code](https://gist.github.com/jborichevskiy/57dff0c780443f9cf1f8219af9b1d07b) for my start page
+
 ## explorations & next steps
 
 - making it easier to edit the links and structure without editing raw HTML. Eli and I are discussing fun possibilities here, stay tuned!
