@@ -27,5 +27,5 @@ The internet's universes, in all their vastness, helped me find myself. They led
 
 > Joy shared a chart in the Bloop presentation illustrating files/folders -> super highway -> web -> universes. How do you envision this: what is your experience of the internet of universes and the evolution of how we got here? Do you prefer another metaphor for navigating / organizing information online?
 
-{{<figure src="/sense-01.jpeg" caption="">}}
 {{<figure src="/sense-02.jpeg" caption="">}}
+{{<figure src="/sense-01.jpeg" caption="">}}
