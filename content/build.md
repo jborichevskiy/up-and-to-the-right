@@ -30,6 +30,16 @@ Contact: [jborichevskiy@gmail.com](mailto:jborichevskiy@gmail.com) or @[jondotbo
 
 ## Current Projects
 
+{{<figure src="/build-4.png"  >}}
+
+**[Grid.management](https://grid.management)** with [Daily Jam](https://dailyjam.xyz) | full-stack engineering, design, community engagement
+
+- /r/place-inspired realtime collaborative canvas with native Farcaster integration
+- built with NextJS, Solidity, Ponder, IPFS
+- deployed on the Zora chain
+
+## Past Work
+
 {{<figure src="/build-3.png"  >}}
 
 **[Daily Jam](https://dailyjam.xyz)**, season 1: [Turkey Challenge](https://turkey-challenge.com) | full-stack engineering, design, community engagement
@@ -46,7 +56,7 @@ Contact: [jborichevskiy@gmail.com](mailto:jborichevskiy@gmail.com) or @[jondotbo
 - built on Svelte, OpenAI, Vercel, Cloudflare, and home grown transcoding infrastructure
 - integrated with Discord Bot API for low-cost social prototyping
 
-## Past Projects
+---
 
 {{<figure src="/build-1.png"  >}}
 
